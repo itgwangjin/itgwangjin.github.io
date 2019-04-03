@@ -1,7 +1,7 @@
 ﻿---
 title: "Deep learning [Nature 521.7553] REVIEW"
 collection: post
-permalink: /year-archive//2019/04/Deep learning [Nature 521.7553] REVIEW
+permalink: /year-archive/2019/04/Deep learning [Nature 521.7553] REVIEW
 date: 2019-04-03
 tag:
   - Deeplearning
@@ -78,11 +78,3 @@ recorrent| 되풀이되는|
 indicate| 나타내다|
 discrimination | 식별, 차별|
 orientation | 방향|
-  |
-|   surppress    | 숨기다, 진압하다 |
-|     motif      |      장식품      |
-| applicable to  |    ~에 적당한    |
-|   recorrent    |    되풀이되는    |
-|    indicate    |     나타내다     |
-| discrimination |    식별, 차별    |
-|  orientation   |       방향       |

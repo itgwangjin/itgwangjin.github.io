@@ -1,13 +1,13 @@
 ﻿---
 title: "Digital Correlator guide"
 collection: post
-permalink: /year-archive//2019/04/Digital Correlator guide
+permalink: /year-archive/2019/04/Digital Correlator guide
 date: 2019-04-03
 tag:
   - Digital correlator
   - flex03lq-01
 ---
-#Digital Correlator
+# Digital Correlator
 
 ![Alt text](./1554269883838.png)
 
@@ -125,7 +125,7 @@ In contrast to multiple tau modes, there is only one sample time in single modes
 - Always real time operation.
 - Uses connector A for auto (AxA) and B for cross (AxB)
 
-#####(5) Dual photon history recorder mode specifications:
+##### (5) Dual photon history recorder mode specifications:
 - System clock: 60 MHz in two channel mode.
 - 16.7 ns pulse pair resolution.
 - Complete time series recorded on a PC hard drive for average count rate up to 10Mhz or above.  The maximum count rate is -somewhat host PC dependent.
