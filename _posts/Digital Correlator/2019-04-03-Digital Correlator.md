@@ -1,7 +1,7 @@
 ﻿---
 title: "Digital Correlator guide"
 collection: post
-permalink: /posts/2019/04/Digital Correlator guide
+permalink: /year-archive//2019/04/Digital Correlator guide
 date: 2019-04-03
 tag:
   - Digital correlator
