@@ -56,6 +56,7 @@ classfication 혹은 detection에 필요한 대표성을 자동으로 발견해 
 raw data부터 시작해서 각 layer는 simple하지만 비선형성을 가지면서 한 layer에서의 representation을 더 높은 layer로 보낸다.
 - higher layer of representation은 input의 aspects를 증폭시킨다. 왜냐하면 식별(discrimination)하고 무관한 변수(variations)를 숨기기 위해서 필요한 작업이기 때문이다.
 ex) An image :
+  
   |단계 | Action|
   |:--|:---|
   |1.Input|images (Array in pixel values)|
@@ -69,6 +70,7 @@ ex) An image :
 
 
 ----
+  
 |단어|뜻|
 :----:|:---:|
 intricate| 복잡한|
@@ -79,3 +81,4 @@ recorrent| 되풀이되는|
 indicate| 나타내다|
 discrimination | 식별, 차별|
 orientation | 방향|
+  
