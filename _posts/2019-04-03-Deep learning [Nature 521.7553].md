@@ -1,7 +1,7 @@
 ﻿---
 title: "Deep learning [Nature 521.7553] REVIEW"
 collection: post
-permalink: /year-archive/2019/04/Deep_learning_[Nature 521.7553]_REVIEW
+permalink: /posts/2019/04/Deep_learning_[Nature 521.7553]_REVIEW
 date: 2019-04-03
 tag:
   - Deeplearning
