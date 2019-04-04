@@ -14,3 +14,6 @@ main:
         
   - title: "Blog Posts"
     url: /posts/
+
+  - title: "Paper Review"
+    url: /teaching/
