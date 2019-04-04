@@ -210,7 +210,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: review
     values:
       layout: single
       author_profile: true
