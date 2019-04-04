@@ -1,8 +1,8 @@
 ﻿---
 title: "Deep learning [Nature 521 7553 (436-444)] REVIEW"
 collection: review
-type: Deep learning
-permalink: /review/Deeplearning/Deep learning [Nature 521 7553 (436-444)]_REVIEW
+type: Deep learning paper
+permalink: /review/Deep learning [Nature 521 7553 (436-444)]_REVIEW
 date: 2019-04-03
 tag:
   - Deeplearning
