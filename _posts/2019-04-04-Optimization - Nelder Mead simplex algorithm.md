@@ -1,7 +1,7 @@
 ﻿---
 title: "Optimization - Nelder Mead simplex algorithm"
 collection: post
-permalink: /posts/2019/04/Optimization - Nelder Mead simplex algorithm
+permalink: /posts/2019/04/Deep learning [Nature 521.7553] REVIEW
 date: 2019-04-04
 tag:
   - Deeplearning
