@@ -14,9 +14,6 @@ main:
         
   - title: "Blog Posts"
     url: /posts/
-<<<<<<< HEAD
 
   - title: "Paper Review"
     url: /review/
-=======
->>>>>>> parent of 682fdf3... Update navigation.yml
