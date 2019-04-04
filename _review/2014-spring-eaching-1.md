@@ -1,5 +1,5 @@
 ---
-title: "eaching experience 1"
+title: "aching experience 1"
 collection: review
 type: "Undergraduate course"
 permalink: /review/2014-spring-teaching-1
