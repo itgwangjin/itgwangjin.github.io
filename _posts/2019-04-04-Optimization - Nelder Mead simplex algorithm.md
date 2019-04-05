@@ -8,6 +8,7 @@ tag:
   - Optimization
   - Nelder-Mead simplex
 ---
+
 # Nelder-Mead simplex optimization algorithm
 
 ## 0. Introduction
