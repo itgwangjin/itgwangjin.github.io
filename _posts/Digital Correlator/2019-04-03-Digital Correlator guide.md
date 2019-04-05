@@ -9,8 +9,7 @@ tag:
 ---
 # Digital Correlator
 
-![Alt text](./1554269883838.png)
-
+![enter image description here](https://lh3.googleusercontent.com/EmTjhXsILctHz39Z2HzkseZr8Lf8M0bLqKzIo2Tx0zOAPrlaIY0iUXrTdFuXKZT6Dqzfwyf1fIQ)
 ## System requirements:
 A USB 2.0 enabled PC.  Pentium 4 at 2GHz or more.  Windows with native USB 2.0 support.   
 For Windows 2000/ME/98, a PCI USB2.0 adapter card with the software support may be necessary.
@@ -137,3 +136,6 @@ Klaus Schätzel. Single Photon Correlation Techniques. Dynamic Light Scattering:
 Klaus Schätzel et.  Noise on Multiple-Tau Photon Correlation Data.   SPIE Vol. 1430, P109, Photon Correlation Spectroscopy: Multicomponent Systems, 1991.
 Klaus Schätzel. New Concept in Correlator Design. Inst. Phys. Conf. Ser. No. 77, P175, 1985.
 Klaus Schätzel et.  Photon Correlation Measurements at Large Lag Times.  Journal of Modern Optics, Vol. 35, No. 4, P711, 1988.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA0NzExMDYzNF19
+-->
