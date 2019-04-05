@@ -8,13 +8,13 @@ tag:
   - overall DNN
   - CNN
 ---
-
+I think it is good to read the overall flow of Deep learning from Neural net to CNN.
 [Paper link](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 Author :  Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 
 ## 0. Introduction
 [Deep Learning Papers Reading Roadmap](https://github.com/itgwangjin/Deep-Learning-Papers-Reading-Roadmap#deep-learning-papers-reading-roadmap)에서의 첫번째 읽을 논문이다.
-DNN부터 CNN까지 전반적인 Deep learning의 흐름을 읽고 가기에 좋다고 생각한다.
+D
 
 ## 1. Abstract
 Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction
@@ -52,6 +52,7 @@ raw data부터 시작해서 각 layer는 simple하지만 비선형성을 가지�
 - higher layer of representation은 input의 aspects를 증폭시킨다. 왜냐하면 식별(discrimination)하고 무관한 변수(variations)를 숨기기 위해서 필요한 작업이기 때문이다.
 ex) An image :
   
+  
   |단계 | Action|
   |:--|:---|
   |1.Input|images (Array in pixel values)|
@@ -78,5 +79,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjkzMTcyMV19
+eyJoaXN0b3J5IjpbLTUyNjk4NzAxMl19
 -->
