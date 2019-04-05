@@ -27,9 +27,10 @@ Focusing on Optical Parameter and  Chromophore
 
 ## 1. Optical properties
 
+생물학적 tissue에서의 photon propagation는 $\mu_a$와 $\mu'_s$
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEZ1bmRhbWVudGFscyBvZi
 BUaXNzdWUgT3B0aWNzXG5hdXRob3I6IGd3YW5namluIGplb25n
-XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOlsxNz
-kyMjcyMjIzLC03MTU1NjgyNjldfQ==
+XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOlstMz
+c1NzAyNzMyLC03MTU1NjgyNjldfQ==
 -->
