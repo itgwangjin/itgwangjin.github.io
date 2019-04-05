@@ -1,7 +1,4 @@
----
 
-
----
 
 <hr>
 <p>title: "Fundamentals of Tissue Optics "<br>
