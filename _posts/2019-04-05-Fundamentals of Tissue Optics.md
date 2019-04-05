@@ -28,11 +28,11 @@ Focusing on Optical Parameter and  Chromophore
 ## 1. Optical properties
 
 - 생물학적 tissue에서의 photon propagation는 $\mu_a$와 $\mu'_s$ 그리고 refactive index를 기본 optical 특징에 의해 특성화 된다.
-- 이러한 특성들은 pointphotons의 갯수에 따라 좌우된다.
+- 이러한 특성들은 tissue 표면에있는 점들 사이 전도되는 photons의 갯수에 따라 좌우된다.
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEZ1bmRhbWVudGFscyBvZi
 BUaXNzdWUgT3B0aWNzXG5hdXRob3I6IGd3YW5namluIGplb25n
-XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOlstMT
-cyMDQwNzU4LC03MTU1NjgyNjldfQ==
+XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOls1Mj
+UwNDkxMjUsLTcxNTU2ODI2OV19
 -->
