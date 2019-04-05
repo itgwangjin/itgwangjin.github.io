@@ -9,8 +9,7 @@ tag:
 
 ---
 
-# Fundamentals of Tissue Optics 
-focusing on Optical Parameter and  Chromophore
+Focusing on Optical Parameter and  Chromophore
 
 ## 0. Introduction
 - 레이저, 혹은 다른 optical 기술을 통하여 biomedicine에 나타나는 문제를 적용하는것이 급속하게 성장하고 있다.
@@ -31,6 +30,6 @@ focusing on Optical Parameter and  Chromophore
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEZ1bmRhbWVudGFscyBvZi
 BUaXNzdWUgT3B0aWNzXG5hdXRob3I6IGd3YW5namluIGplb25n
-XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOlstMT
-g5MzEyMzE5NiwtNzE1NTY4MjY5XX0=
+XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOlsxNz
+kyMjcyMjIzLC03MTU1NjgyNjldfQ==
 -->
