@@ -22,7 +22,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus		: 
+  disqus:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -173,7 +173,7 @@ kramdown:
 
 # Collections
 collections:
-  review:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -191,7 +191,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "/"
+      path: ""
       type: posts
     values:
       layout: single
@@ -210,7 +210,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: review
+      type: teaching
     values:
       layout: single
       author_profile: true
