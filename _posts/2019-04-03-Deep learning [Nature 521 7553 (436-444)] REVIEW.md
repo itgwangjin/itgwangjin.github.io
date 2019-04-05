@@ -8,13 +8,11 @@ tag:
   - overall DNN
   - CNN
 ---
-I think it is good to read the overall flow of Deep learning from Neural net to CNN.
-[Paper link](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
-Author :  Yann LeCun, Yoshua Bengio & Geoffrey Hinton
+I think it is good to read the overall flow of Deep learning from Neural net to CNN.   [Paper link](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 
 ## 0. Introduction
 [Deep Learning Papers Reading Roadmap](https://github.com/itgwangjin/Deep-Learning-Papers-Reading-Roadmap#deep-learning-papers-reading-roadmap)에서의 첫번째 읽을 논문이다.
-D
+Author :  Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 
 ## 1. Abstract
 Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction
@@ -79,5 +77,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjk4NzAxMl19
+eyJoaXN0b3J5IjpbLTUwNjg0ODQwOF19
 -->
