@@ -9,16 +9,12 @@ tag:
   - CNN
 ---
 
-# Deep learning
-
 [Paper link](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 Author :  Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 
 ## 0. Introduction
 [Deep Learning Papers Reading Roadmap](https://github.com/itgwangjin/Deep-Learning-Papers-Reading-Roadmap#deep-learning-papers-reading-roadmap)에서의 첫번째 읽을 논문이다.
 DNN부터 CNN까지 전반적인 Deep learning의 흐름을 읽고 가기에 좋다고 생각한다.
-
----
 
 ## 1. Abstract
 Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction
@@ -38,7 +34,6 @@ audio, whereas recurrent nets have shone light on sequential data such as text a
 - CNN(convlutional neural net)은 이미지, 비디오, 음성, 오디오에 큰 기여를 했다.
 - 반면 RNN(recurrent neural net)의 경우 text나 음성같은 연속되는 데이터에서 각광받는다.
 
----
 ## 2. History of Deeplearning
 
 ### (1) Conventional machine-learning
@@ -47,7 +42,7 @@ audio, whereas recurrent nets have shone light on sequential data such as text a
 > **Note.** Feature extrator
 raw data(such as the pixel values of an image)에서 적합한 internal represenctaion로 변환시켜주는것 혹은 learning subsystem이 input에 대해서 pattern을 분류하거나 감지해주는것.
 
----
+
 ### (2) Deeplearning의 등장
 
 - Representation learning은 raw data를 machine에 input으로 주면 output으로
@@ -82,3 +77,6 @@ indicate| 나타내다|
 discrimination | 식별, 차별|
 orientation | 방향|
   
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE4NjkzMTcyMV19
+-->
