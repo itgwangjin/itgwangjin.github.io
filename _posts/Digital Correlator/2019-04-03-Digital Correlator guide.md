@@ -9,11 +9,12 @@ tag:
 ---
 How to run this application?  
 this application was attached the sticker
-*"please install driver before run software"*  
+*"please install driver before running software"*
 step 1. Installation of drive to win7
 step 2. Setup software
-step 3. plug in   
-http://correlator.com/software/Flex03lq-01_win7exe.zip
+[download link](http://correlator.com/software/Flex03lq-01_win7exe.zip
+)
+step 3. plug in computer to correleator
 # Digital Correlator
 
 ![enter image description here](https://lh3.googleusercontent.com/EmTjhXsILctHz39Z2HzkseZr8Lf8M0bLqKzIo2Tx0zOAPrlaIY0iUXrTdFuXKZT6Dqzfwyf1fIQ)
@@ -144,5 +145,5 @@ Klaus Schätzel et.  Noise on Multiple-Tau Photon Correlation Data.   SPIE Vol. 
 Klaus Schätzel. New Concept in Correlator Design. Inst. Phys. Conf. Ser. No. 77, P175, 1985.
 Klaus Schätzel et.  Photon Correlation Measurements at Large Lag Times.  Journal of Modern Optics, Vol. 35, No. 4, P711, 1988.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTM3ODUxXX0=
+eyJoaXN0b3J5IjpbMTAyNDgzNTc5Nl19
 -->
