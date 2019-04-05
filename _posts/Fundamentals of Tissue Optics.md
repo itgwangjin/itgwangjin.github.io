@@ -3,6 +3,17 @@
 
 ---
 
+<hr>
+<p>title: "Fundamentals of Tissue Optics "<br>
+collection: post<br>
+permalink: /posts/2019/04/Fundamentals of Tissue Optics<br>
+date: 2019-04-05<br>
+tag:</p>
+<ul>
+<li>Optical parameter</li>
+<li>chromophore</li>
+</ul>
+<hr>
 <h1 id="fundamentals-of-tissue-optics">Fundamentals of Tissue Optics</h1>
 <p>Optical Parameter와 Chromophore에 관한 내용을 중점적으로 보면된다.</p>
 <h2 id="introduction">0. Introduction</h2>
