@@ -9,8 +9,9 @@ tag:
   - Nelder-Mead simplex
 ---
 
-Matlab function 'fminsearch' derive from Nelder Mead simplex algorithm
-I has studied deep learning in the nick of time
+Matlab function 'fminsearch' derive from Nelder Mead simplex algorithm.
+I has studied deep learning in the nick of time.
+So I 
 
 ## 0. Introduction
 Matlab fminsearch함수는 [Nelder-Mead simplex algorithm](http://www.scholarpedia.org/article/Nelder-Mead_algorithm)을 사용한다.
@@ -55,5 +56,5 @@ $f(x_r) \le f(x_l) $일 경우 = 구한 새로운 값이 최소값보다 작을 
 참고 블로그 : [link](http://www.scholarpedia.org/article/Nelder-Mead_algorithm)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzNzU0OTMyXX0=
+eyJoaXN0b3J5IjpbMTQ3Mjc4MDk5NV19
 -->
