@@ -7,8 +7,9 @@ tag:
   - Digital correlator
   - flex03lq-01
 ---
-제품을 사용하기 전에 
+How to run this application?  
 this application was attached the sticker
+** "please install driver before installation" 
 
 # Digital Correlator
 
@@ -140,5 +141,5 @@ Klaus Schätzel et.  Noise on Multiple-Tau Photon Correlation Data.   SPIE Vol. 
 Klaus Schätzel. New Concept in Correlator Design. Inst. Phys. Conf. Ser. No. 77, P175, 1985.
 Klaus Schätzel et.  Photon Correlation Measurements at Large Lag Times.  Journal of Modern Optics, Vol. 35, No. 4, P711, 1988.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTE4NTY0Nl19
+eyJoaXN0b3J5IjpbOTk2NjI4NjMyXX0=
 -->
