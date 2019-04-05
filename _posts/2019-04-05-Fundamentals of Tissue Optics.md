@@ -30,6 +30,7 @@ Optical Parameter와 Chromophore에 관한 내용을 중점적으로 보면된�
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEZ1bmRhbWVudGFscyBvZi
-BUaXNzdWUgT3B0aWNzXG4iLCJoaXN0b3J5IjpbLTU4MjA5MDU2
-MV19
+BUaXNzdWUgT3B0aWNzXG5hdXRob3I6IGd3YW5namluIGplb25n
+XG5kYXRlOiAnMjAxOS0wNC0wNSdcbiIsImhpc3RvcnkiOlstNz
+E1NTY4MjY5XX0=
 -->
