@@ -109,7 +109,8 @@ Constraints : $lb ≤ x ≤ ub$
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
 ```
 정의 : 해가 항상 범위 제약조건 내에 있도록 x의 설계 변수에 대한 하한 및 상한 집합정의
-Constraints : $x_1\le 1$ & $x_
+Constraints 1 : $0 \le x_1\le 1$ 
+Constraints 2 : $0 \le x_2 \le 2$
 ``` matlab
 lb = [0,0];
 ub = [1,2];
@@ -122,7 +123,8 @@ beq = [];
 등식이 존재하지 않는 경우 Aeq = [] 및 beq = []을 설정하십시오. 
 x(i)의 하한이 비유계인 경우 $lb(i) = - \infty $를 설정하고, x(i)의 상한이 비유계인 경우 $ub(i) = \infty$를 설정하십시오.
 
-######x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
+#### 네번째 Example
+x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 은 nonlcon에 정의된 비선형 부등식 c(x) 또는 등식 ceq(x)를 최소화에 적용합니다. fmincon은 c(x) ≤ 0 및 ceq(x) = 0 조건에서 최적화합니다. 범위가 존재하지 않는 경우 lb = [] 및/또는 ub = []을 설정하십시오
 
 ######x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
@@ -160,5 +162,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTkyMzIxMF19
+eyJoaXN0b3J5IjpbMzE1MjA5OTg4XX0=
 -->
