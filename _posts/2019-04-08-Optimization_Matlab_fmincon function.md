@@ -103,8 +103,8 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 
 
 ####  세번째 Example
--Objective fucntion : ${{1+x_1} \over {1+x_2}} - 3x_1x_2 + x_2(1+x_1)$
-Constraints : $lb ≤ x ≤ ub$ 
+- Objective fucntion : ${{1+x_1} \over {1+x_2}} - 3x_1x_2 + x_2(1+x_1)$
+- Constraints : $lb ≤ x ≤ ub$ 
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
 ```
@@ -137,6 +137,7 @@ function [c,ceq] = circlecon(x)
 c = (x(1)-1/3)^2 + (x(2)-1/3)^2 - (1/3)^2;
 ceq = [];
 ```
+
 ``` matlab
 lb = [0,0.2];
 ub = [0.5,0.8];
@@ -153,7 +154,9 @@ x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 ```
 
 #### 다섯번째 Example 
-Objective function : 
+- Objective function : 
+
+options = optimoptions('fmincon','SpecifyObjectiveGradient',true);
 [x,fval,exitflag,output,lambda,grad,hessian] = fmincon(___)
  fmincon(___)은 추가로 다음을 반환합니다.
 
@@ -183,5 +186,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDg1NzU2XX0=
+eyJoaXN0b3J5IjpbLTE4MDczMjY3MjZdfQ==
 -->
