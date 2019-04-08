@@ -10,7 +10,7 @@ tag:
 ---
 
 # Optimization 
-##  fminsearch function
+##  1. fminsearch function
 ### 1) 구문
 #### (1) x = fminsearch(fun,x0)
 점 x0에서 시작해서 fun에 정의된 함수의 최솟값x를 구한다.
@@ -47,8 +47,8 @@ x = fminsearch(fun,x0,options) % 로젠브룩 함수를 통해 시작점 x0의 �
 > Nearest search를 썼을때 Euclidean distance 함수를 쓴것으로 보아
  matlab에서  fun  = @(x)sqrt(sum((x(1) - x(2))^ 2)); 을 쓰는 것이 맞지않나싶다 
 
-## fmincon function
-### (1) 정의
+## 2. fmincon function
+### 1) 정의
 비선형 다변수 함수의 최솟값을 찾는 함수입니다.
 
 ![enter image description here](https://lh3.googleusercontent.com/3Im8xS2vCpiTIMEdCylQUVgWdqKDiZkBSs7XQV4BSjjZfSj3M7fqqYMirqQqCj8xIkeygxy5gA0 "fmincon")
@@ -56,17 +56,17 @@ x = fminsearch(fun,x0,options) % 로젠브룩 함수를 통해 시작점 x0의 �
 위와 같은 문제의 최솟값을 구합니다.
 
 
-### (2) 구문
+### 2) 구문
 기본적으로 이 함수를 구현해야할 때는 크게 2가지는 기억하고 있어야한다.
 
 **첫째로**. 어떤 함수를 최소화시키고 싶은지(objective function)
 **둘째로**. 최소화된 값이 적어도 어느 범위안에 있어야 하는지? (Constraints)
 
-### Example
+### [Example]
 Objective function : Rosenbrock function
 $$ f(x) = 100(x_2 - x_1^2)^2 + (1 - x_1)^2$$
 
-#### 첫번째  Example
+#### (1)  Example
 Constraints : $A*x ≤ b$
 ``` matlab
 x = fmincon(fun,x0,A,b)
@@ -82,7 +82,7 @@ x = fmincon(fun,x0,A,b)
 ```
 예를 들어 $x_1^2 + x_2^2 \le 1$ 와 같은 부등식 제약조건도 의미한다.
 
-#### 두번째 Example
+#### (2)  Example
 Constraints : 제약조건이 2개(선형 부등식, 등식 제약 조건)
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq)
@@ -102,7 +102,7 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 (부등식이 존재하지 않는 경우 A = [] 및 b = []로 설정)
 
 
-####  세번째 Example
+####  (3) Example
 - Objective fucntion : ${{1+x_1} \over {1+x_2}} - 3x_1x_2 + x_2(1+x_1)$
 - Constraints : $lb ≤ x ≤ ub$ 
 ``` matlab
@@ -122,7 +122,7 @@ beq = [];
 ```
 등식이 존재하지 않는 경우 Aeq = [] 및 beq = []을 설정하십시오. 
 
-#### 네번째 Example
+#### (4) Example
 - Objective fucntion : $f(x) = 100(x_2 - x_1^2)^2 + (1 - x_1)^2$
 - Constraints 1 : $0 \le x_1\le 0.5$ 
 - Constraints 2 : $0.2 \le x_2 \le 0.8$
@@ -153,7 +153,7 @@ nonlcon = @circlecon;
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 ```
 
-#### 다섯번째 Example 
+#### (5) Example 
 - Objective function : 
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
@@ -188,7 +188,7 @@ nonlcon = [];
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
 ```
 
-#### 마지막 example
+#### (6) example
 Objective function : 
 Constraints : 
 `fmincon`은 보고된 해를 분석하는 데 사용할 수 있는 여러 출력값을 선택적으로 반환합니다.
@@ -265,6 +265,6 @@ Hessian](https://darkpgmr.tistory.com/132)을 사용할 수 있습니다.
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc0ODc1NzIsLTE1NDY1MzUzMTIsMT
-c3MzgwMjMwOF19
+eyJoaXN0b3J5IjpbLTg5ODU4MTU0MywtMTU0NjUzNTMxMiwxNz
+czODAyMzA4XX0=
 -->
