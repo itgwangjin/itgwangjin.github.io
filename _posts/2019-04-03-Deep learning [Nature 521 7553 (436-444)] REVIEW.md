@@ -59,6 +59,7 @@ ex) An image :
   |4.Thrid layer| 장식품(motifs)를 유사한 물체의 부분과 일치하는 combination에 조립시킨다.|
   |5. Subsequent layer| object를 물체의 부분들의 combinations을 통해서 물체를 발견한다.|
   
+  
 
 
 
@@ -77,5 +78,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbNzc0MjY4NDM4LC01MDY4NDg0MDhdfQ==
 -->
