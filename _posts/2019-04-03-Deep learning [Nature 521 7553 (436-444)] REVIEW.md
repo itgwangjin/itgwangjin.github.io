@@ -67,9 +67,10 @@ ex) An image :
 우리가 음성, 집, 차, 사람, 동물 분류시스템을 만들수 있다고 상상해보자. 
 1. 매우 큰 집, 차, 사람, 동물의 라벨링된 이미지를 학습시킨다.
 training동안 machine은 각 category별로 점수화 된 output vector뽑느다.
-2. 모든 카테고리중에서 점수가 가장높은 vector를 원하지만 
-----
-  
+2. 모든 카테고리중에서 점수가 가장높은 vector를 원하지만 안타깝게도 이것은 training 전에 일어나는 일이다.
+
+
+---  
 |단어|뜻|
 :----:|:---:|
 intricate| 복잡한|
@@ -82,6 +83,6 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUyMDM4MSwxODMzNDE4MTU1LC01MD
+eyJoaXN0b3J5IjpbMjExOTI2NjM2NiwxODMzNDE4MTU1LC01MD
 Y4NDg0MDhdfQ==
 -->
