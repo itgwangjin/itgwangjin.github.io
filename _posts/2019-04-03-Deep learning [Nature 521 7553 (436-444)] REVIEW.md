@@ -64,8 +64,8 @@ ex) An image :
 
 ## Supervised learning
 머신러닝에서 가장 일반적인 form은 supervised learning이다.
-Imagine
-우리가 분류시스템을 만들수 있다. 
+
+우리가 음성, 집, 차, 사람을 분류시스템을 만들수 있다고 상상해보자. 
 
 
 ----
@@ -82,5 +82,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjAwNjMxNiwtNTA2ODQ4NDA4XX0=
+eyJoaXN0b3J5IjpbMTI0NTc5NzM5MCwtNTA2ODQ4NDA4XX0=
 -->
