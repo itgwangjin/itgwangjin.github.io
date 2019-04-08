@@ -77,7 +77,8 @@ ex) An image :
 ### Objective function
 실제로 대부분의 실무자(practitioners)는 stochastic gradient descent(SGD)를 사용한다.
 #### SGD(Stochastic Gradient Descent)
-
+SGD는 몇가지 예
+output과 error를 계산=> 예를 통해 평균 gradient를 계산하고, weight를 적절히 절한다.
 
 
 ---  
@@ -95,7 +96,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDA0NjEyNSwtMTA4MzE1NDQyNiwtNT
+eyJoaXN0b3J5IjpbMTc2NTczODkyNywtMTA4MzE1NDQyNiwtNT
 c2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NSwtNTA2ODQ4
 NDA4XX0=
 -->
