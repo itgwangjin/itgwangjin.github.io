@@ -189,7 +189,63 @@ x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
 ```
 
 #### 마지막 example
-O
+Objective function : 
+Constraints : 
+`fmincon`은 보고된 해를 분석하는 데 사용할 수 있는 여러 출력값을 선택적으로 반환합니다.
+``` matlab
+function [c,ceq] = unitdisk(x)
+c = x(1)^2 + x(2)^2 - 1;
+ceq = [];
+---------------------------------
+fun = @(x)100*(x(2)-x(1)^2)^2 + (1-x(1))^2;
+nonlcon = @unitdisk;
+A = [];
+b = [];
+Aeq = [];
+beq = [];
+lb = [];
+ub = [];
+x0 = [0,0];
+---------------------------
+[x,fval,exitflag,output,lambda,grad,hessian] = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
+```
+
+출력값
+```
+x = 0.7864    0.6177
+fval = 0.0457
+exitflag = 1
+output = struct with fields:
+         iterations: 24
+          funcCount: 84
+    constrviolation: 0
+           stepsize: 6.9162e-06
+          algorithm: 'interior-point'
+      firstorderopt: 2.4373e-08
+       cgiterations: 4
+            message: 'Local minimum found that satisfies the constraints....'
+lambda = 
+  struct with fields:
+
+         eqlin: [0x1 double]
+      eqnonlin: [0x1 double]
+       ineqlin: [0x1 double]
+         lower: [2x1 double]
+         upper: [2x1 double]
+    ineqnonlin: 0.1215
+
+
+grad =
+
+   -0.1911
+   -0.1501
+
+
+hessian =
+
+  497.2903 -314.5589
+ -314.5589  200.2392
+```
 
 options = optimoptions('fmincon','SpecifyObjectiveGradient',true);
  fmincon(___)은 추가로 다음을 반환합니다.
@@ -220,5 +276,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDEwNDY5MDgsMTc3MzgwMjMwOF19
+eyJoaXN0b3J5IjpbLTE0ODkxMjc0NzEsMTc3MzgwMjMwOF19
 -->
