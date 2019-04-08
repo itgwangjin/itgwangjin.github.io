@@ -72,7 +72,13 @@ ex) An image :
 4. weight를 조절하기 위해서 learning algorithm은 *gradient vector*를 계산합니다.
 > Gradient vector
 > 기울기를 측정함으로써 error가 증가할것인지 감소할것인지 알 수 있다.
-5. weight vector는 gradient vecto
+5. weight vector는 gradient vector와 반대 방향으로 조절된다.
+
+### Object function
+
+object function은 언덕이 많은 
+
+
 ---  
 |단어|뜻|
 :----:|:---:|
@@ -88,7 +94,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODkxMjEzMCwtMTA4MzE1NDQyNiwtNT
+eyJoaXN0b3J5IjpbLTI2MTM1NzI0NiwtMTA4MzE1NDQyNiwtNT
 c2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NSwtNTA2ODQ4
 NDA4XX0=
 -->
