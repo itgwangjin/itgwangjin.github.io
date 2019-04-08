@@ -66,7 +66,7 @@ ex) An image :
 머신러닝에서 가장 일반적인 form은 supervised learning이다.
 우리가 음성, 집, 차, 사람, 동물 분류시스템을 만들수 있다고 상상해보자. 
 1. 매우 큰 집, 차, 사람, 동물의 라벨링된 이미지를 학습시킨다.
-training동안 machine은 각 category별로 점수화 된 output vector뽑느다.
+training동안 machine은 각 category별로 점수화 하여 vector 형태로 준다.
 2. 모든 카테고리중에서 점수가 가장높은 vector를 원하지만 안타깝게도 이것은 training 전에 일어나는 일이다.
 
 
@@ -83,6 +83,6 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTI2NjM2NiwxODMzNDE4MTU1LC01MD
-Y4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTEzODIyNzkyMDksMTgzMzQxODE1NSwtNT
+A2ODQ4NDA4XX0=
 -->
