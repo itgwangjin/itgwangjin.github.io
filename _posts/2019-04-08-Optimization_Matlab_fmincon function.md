@@ -103,7 +103,7 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 
 
 ####  세번째 Example
-Objective fucntion : ${{1+x_1} \over {1+x_2}} - 3x_1x_2 + x_2(1+x_1)$
+-Objective fucntion : ${{1+x_1} \over {1+x_2}} - 3x_1x_2 + x_2(1+x_1)$
 Constraints : $lb ≤ x ≤ ub$ 
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
@@ -123,10 +123,10 @@ beq = [];
 등식이 존재하지 않는 경우 Aeq = [] 및 beq = []을 설정하십시오. 
 
 #### 네번째 Example
-Objective fucntion : $f(x) = 100(x_2 - x_1^2)^2 + (1 - x_1)^2$
-Constraints 1 : $0 \le x_1\le 0.5$ 
-Constraints 2 : $0.2 \le x_2 \le 0.8$
-Constraints 3 : $(x_1 - {1 \over 3}) ^2 +(x_2 - {1 \over 3}) ^2  -({1 \over 3})^2$
+- Objective fucntion : $f(x) = 100(x_2 - x_1^2)^2 + (1 - x_1)^2$
+- Constraints 1 : $0 \le x_1\le 0.5$ 
+- Constraints 2 : $0.2 \le x_2 \le 0.8$
+- Constraints 3 : $(x_1 - {1 \over 3}) ^2 +(x_2 - {1 \over 3}) ^2  -({1 \over 3})^2$
 						=> 원 내부
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
@@ -152,13 +152,9 @@ nonlcon = @circlecon;
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 ```
 
-######x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
-는 options에 지정된 최적화 옵션을 사용하여 최솟값을 구합니다. 이 옵션을 설정하려면 optimoptions를 사용하십시오. 비선형 부등식 또는 등식 제약 조건이 없을 경우 nonlcon = []을 설정하십시오.
-######x = fmincon(problem)
-은 problem의 최솟값을 구합니다. 여기서 problem은 구조체(입력 인수에 설명되어 있음)입니다. problem 구조체는 작업 내보내기에 설명된 대로 최적화 앱에서 문제를 내보내어 만들 수 있습니다.
-######[x,fval] = fmincon(___)
-
-######[x,fval,exitflag,output,lambda,grad,hessian] = fmincon(___)
+#### 다섯번째 Example 
+Objective function : 
+[x,fval,exitflag,output,lambda,grad,hessian] = fmincon(___)
  fmincon(___)은 추가로 다음을 반환합니다.
 
 lambda — 해 x에서의 라그랑주 승수를 포함하는 필드를 갖는 구조체입니다.
@@ -187,5 +183,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDMwNDA5MV19
+eyJoaXN0b3J5IjpbLTk3MDg1NzU2XX0=
 -->
