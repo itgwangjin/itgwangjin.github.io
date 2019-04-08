@@ -71,7 +71,7 @@ x = fmincon(fun,x0,A,b)
 ```
 
 정의 : x0에서 시작하여 fun에 정의된 함수의 최소점을 찾는다.
-Constraints : $x_1 + 2x_2 \le 1$
+- Constraints : $x_1 + 2x_2 \le 1$
 ``` matlab
 x0 = [-1,2];
 A = [1,2];
@@ -83,11 +83,12 @@ x = fmincon(fun,x0,A,b)
 #### 두번째 Example
 Constraints : 제약조건이 2개(선형 부등식, 등식 제약 조건)
 ``` matlab
-
 x = fmincon(fun,x0,A,b,Aeq,beq)
 ```
-일 경우를 의미합니다.
-만일 제약조건이  $x_1 + 2x_2 \le 1$와 $2x_1 + x_2 = 1$ 일경우
+정의 : $Aeq*x = beq$ 및 $A*x ≤ b$이 적용되어 fun을 최소화 
+
+- Constraints 1 : $x_1 + 2x_2 \le 1$ 
+- Constraints 2 : $2x_1 + x_2 = 1$
 ``` matlab
 x0 = [0.5,0];
 A = [1,2];
@@ -96,7 +97,6 @@ Aeq = [2,1];
 beq = 1;
 x = fmincon(fun,x0,A,b,Aeq,beq)
 ```
-$Aeq*x = beq$ 및 $A*x ≤ b$이 적용되어 fun을 최소화합니다.  
 (부등식이 존재하지 않는 경우 A = [] 및 b = []을 설정)
 
 
@@ -143,5 +143,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUyNTkwMDNdfQ==
+eyJoaXN0b3J5IjpbMTY5MjE1ODk5M119
 -->
