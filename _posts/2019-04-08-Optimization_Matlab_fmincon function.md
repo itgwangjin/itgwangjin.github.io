@@ -155,9 +155,28 @@ x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 
 #### 다섯번째 Example 
 - Objective function : 
+``` matlab
+x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
+```
+정의 : 더욱 빠르거나 더욱 안정적인 계산을 위해 목적 함수에 기울기 계산을 포함시킵니다. 목적 함수 파일에 조건화된 출력값으로 기울기 계산을 포함
+
+``` matlab
+function [f,g] = rosenbrockwithgrad(x)
+% Calculate objective f
+f = 100*(x(2) - x(1)^2)^2 + (1-x(1))^2;
+
+if nargout > 1 % gradient required
+    g = [-400*(x(2)-x(1)^2)*x(1)-2*(1-x(1));
+        200*(x(2)-x(1)^2)];
+end
+```
+옵션을 줌으로써 
+``` matlab
+options = optimoptions('fmincon','SpecifyObjectiveGradient',true);
+```
+
 
 options = optimoptions('fmincon','SpecifyObjectiveGradient',true);
-[x,fval,exitflag,output,lambda,grad,hessian] = fmincon(___)
  fmincon(___)은 추가로 다음을 반환합니다.
 
 lambda — 해 x에서의 라그랑주 승수를 포함하는 필드를 갖는 구조체입니다.
@@ -186,5 +205,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDczMjY3MjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjE5ODY0NDRdfQ==
 -->
