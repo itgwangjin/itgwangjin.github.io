@@ -59,13 +59,13 @@ ex) An image :
   |4.Thrid layer| 장식품(motifs)를 유사한 물체의 부분과 일치하는 combination에 조립시킨다.|
   |5. Subsequent layer| object를 물체의 부분들의 combinations을 통해서 물체를 발견한다.|
   
-  > 중요한 점은 이러한 특징을 잡은 layer는 인간이 한것이 아니라. 
+  > [Point] 이러한 특징을 잡은 layer는 인간이 한것이 아니라. 
   > Data를 통해 일반적인 learning procedure를 통해서 학습한다!
 
 ## Supervised learning
 머신러닝에서 가장 일반적인 form은 supervised learning이다.
-우리가 음성, 집, 차, 사람을 분류시스템을 만들수 있다고 상상해보자. 
-
+우리가 음성, 집, 차, 사람, 동물 분류시스템을 만들수 있다고 상상해보자. 
+1. 집, 차, 사람, 
 
 ----
   
@@ -81,5 +81,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY5MTg2MjQsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTE0MzQ5MTg0MTIsLTUwNjg0ODQwOF19
 -->
