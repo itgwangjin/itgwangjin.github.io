@@ -50,7 +50,9 @@ x = fminsearch(fun,x0,options) % 로젠브룩 함수를 통해 시작점 x0의 �
 ## 2) 제약조건이 있는 최적화 - fmincon function
 ### (1) 정의
 비선형 다변수 함수의 최솟값을 찾는 함수입니다.
+
 ![enter image description here](https://lh3.googleusercontent.com/3Im8xS2vCpiTIMEdCylQUVgWdqKDiZkBSs7XQV4BSjjZfSj3M7fqqYMirqQqCj8xIkeygxy5gA0 "fmincon")
+
 위와 같은 문제의 최솟값을 구합니다.
 
 
@@ -85,7 +87,7 @@ Constraints : 제약조건이 2개(선형 부등식, 등식 제약 조건)
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq)
 ```
-정의 : $Aeq*x = beq$ 및 $A*x ≤ b$이 적용되어 fun을 최소화 
+정의 : $Aeq*x = beq$ 및 $A*x ≤ b$이 적용되어 fun을 최소점을 찾는다.
 
 - Constraints 1 : $x_1 + 2x_2 \le 1$ 
 - Constraints 2 : $2x_1 + x_2 = 1$
@@ -100,7 +102,7 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 (부등식이 존재하지 않는 경우 A = [] 및 b = []을 설정)
 
 
-######x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
+#### x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
 해가 항상 범위 $lb ≤ x ≤ ub$ 내에 있도록 x의 설계 변수에 대한 하한 및 상한 집합을 정의합니다. 
 등식이 존재하지 않는 경우 Aeq = [] 및 beq = []을 설정하십시오. 
 x(i)의 하한이 비유계인 경우 $lb(i) = - \infty $를 설정하고, x(i)의 상한이 비유계인 경우 $ub(i) = \infty$를 설정하십시오.
@@ -143,5 +145,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjE1ODk5M119
+eyJoaXN0b3J5IjpbMzk0NDA1NjQzXX0=
 -->
