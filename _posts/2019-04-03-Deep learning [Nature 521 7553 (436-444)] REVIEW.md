@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deep learning [Nature 521 7553 (436-444)] REVIEW"
 collection: post
 permalink: /posts/2019/04/Deep learning [Nature 521 7553 (436-444)]_REVIEW
@@ -78,8 +78,8 @@ ex) An image :
 실제로 대부분의 실무자(practitioners)는 stochastic gradient descent(SGD)를 사용한다.
 #### SGD(Stochastic Gradient Descent)
 SGD는 몇가지 예
-output과 error를 계산=> example를 통해 평균 gradient를 계산하고, weight를 적절히 절한다.
-
+output과 error를 계산=> example를 통해 평균 gradient를 계산하고, weight를 적절히 조절한다.
+절차는 training set으로 부터의 example의 작은세트를 objective function이 줄어드는게 멈출때까지 반복하는것이다.
 
 ---  
 |단어|뜻|
@@ -96,7 +96,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLT
-U3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0
-ODQwOF19
+eyJoaXN0b3J5IjpbLTkzNDEzMDM0OCwtMTk5MTQ1MTUwNywtMT
+A4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQx
+ODE1NSwtNTA2ODQ4NDA4XX0=
 -->
