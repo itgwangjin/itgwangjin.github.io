@@ -62,9 +62,9 @@ ex) An image :
   > 중요한 점은 이러한 특징을 잡은 layer는 인간이 한것이 아니라. 
   > Data를 통해 일반적인 learning procedure를 통해서 학습한다!
 
-딥러닝은 고차원 데이터에서 복잡한 구조를 발견하는데 좋고
-그리고 이것은 과학, 
-
+## Supervised learning
+머신러닝에서 가장 일반적인 form은 supervised learning이다.
+우리가 
 
 
 ----
@@ -81,5 +81,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM2ODUyOTAsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbMTk2MzQ5Mzk0MiwtNTA2ODQ4NDA4XX0=
 -->
