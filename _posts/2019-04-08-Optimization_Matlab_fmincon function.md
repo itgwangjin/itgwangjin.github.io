@@ -103,7 +103,7 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 
 
 ####  (3) Example
-- Objective fucntion : ${{1+x_1} \over {1+x_2}} - 3x_1x_2 + x_2(1+x_1)$
+- Objective fucntion : ${1+x_1 \over 1+x_2} - 3x_1x_2 + x_2(1+x_1)$
 - Constraints : $lb ≤ x ≤ ub$ 
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
@@ -265,6 +265,6 @@ Hessian](https://darkpgmr.tistory.com/132)을 사용할 수 있습니다.
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODU4MTU0MywtMTU0NjUzNTMxMiwxNz
-czODAyMzA4XX0=
+eyJoaXN0b3J5IjpbLTE5NTEyMjYxODEsLTg5ODU4MTU0MywtMT
+U0NjUzNTMxMiwxNzczODAyMzA4XX0=
 -->
