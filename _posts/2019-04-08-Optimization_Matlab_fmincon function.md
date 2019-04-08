@@ -9,12 +9,12 @@ tag:
   - Optimization
 ---
 
-# 1. Non-linear Optimization 
-## (1)  fminsearch function
-#### 1) 구문
-##### x = fminsearch(fun,x0)
+# Optimization 
+##  fminsearch function
+### 1) 구문
+#### (1) x = fminsearch(fun,x0)
 점 x0에서 시작해서 fun에 정의된 함수의 최솟값x를 구한다.
-##### x = fminsearch(fun,x0,options)
+#### (2) x = fminsearch(fun,x0,options)
 
 구조체 **options**에 지정된 최적화 옵션을 사용하여 최소화한다.
 - optimset
@@ -27,13 +27,13 @@ options = optimset('fminbnd') % fminbnd와 관련된 모든 옵션 이름과 디
 optimset fminbnd % 디폴트 값만 볼때
 ```
 	
-##### x = fminsearch(problem)
+#### (3)  x = fminsearch(problem)
 구조체 problem의 최솟값을 구한다.
-##### [x,fval] = fminsearch(___)
+#### (4) [x,fval] = fminsearch(___)
 모든 입력 구문에 대해 fun의 최솟값을 fval로 반환, x에는 해가 되는 위치 값을 반환
-##### [x,fval,exitflag] = fminsearch(___)
+#### (5) [x,fval,exitflag] = fminsearch(___)
 종료 상황을 설명하는 값 exitflag를 추가로 반환
-##### [x,fval,exitflag,output] = fminsearch(___)
+#### (6) [x,fval,exitflag,output] = fminsearch(___)
 최적화 과정에 대한 정보가 포함된 구조체 output을 추가로 반환
 
 예제
@@ -47,7 +47,7 @@ x = fminsearch(fun,x0,options) % 로젠브룩 함수를 통해 시작점 x0의 �
 > Nearest search를 썼을때 Euclidean distance 함수를 쓴것으로 보아
  matlab에서  fun  = @(x)sqrt(sum((x(1) - x(2))^ 2)); 을 쓰는 것이 맞지않나싶다 
 
-## 2) 제약조건이 있는 최적화 - fmincon function
+## fmincon function
 ### (1) 정의
 비선형 다변수 함수의 최솟값을 찾는 함수입니다.
 
@@ -265,6 +265,6 @@ Hessian](https://darkpgmr.tistory.com/132)을 사용할 수 있습니다.
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTI4ODY0NiwtMTU0NjUzNTMxMiwxNz
-czODAyMzA4XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc0ODc1NzIsLTE1NDY1MzUzMTIsMT
+c3MzgwMjMwOF19
 -->
