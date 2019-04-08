@@ -257,11 +257,14 @@ hessian =
 
 - hessian
 다변수함수가 극값을 가질 때, 그것이 극대인지, 극소인지 판정할 때 사용
- x에서의 fun의 hessian matrix입니다. fmincon Hessian 항목을 참조하십시오.
+ x에서의 fun의 hessian matrix입니다.
+	 -	Hessian은 함수의 곡률(curvature) 특성을 나타내는 행렬로서 최적화 문제에 적용할 경우 Hessian을 이용하면 다음 식과 같이 p 근처에서 함수를 2차 항까지 근사시킬 수 있습니다 (second-order Taylor expansion)
+	 -	어떤 (다변수) 함수를 최적화시키기 위해 극점(극대, 극소)을 찾기 위해서는 먼저 그 함수의 일차미분인 gradient(그레디언트)가 0이 되는 지점(critical point)을 찾습니다. 그런데, 이렇게 찾은 critical point가 극대점인지 극소점인지, 아니면 saddle point(말안장처럼 방향에 따라서 극대, 극소가 바뀌는 점)인지 구분하기 위해서는 이차미분값을 조사해야 하는데 이 때 바로 [
+Hessian](https://darkpgmr.tistory.com/132)을 사용할 수 있습니다.
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzU2NjUxNSwtMTU0NjUzNTMxMiwxNz
+eyJoaXN0b3J5IjpbMTg4OTI4ODY0NiwtMTU0NjUzNTMxMiwxNz
 czODAyMzA4XX0=
 -->
