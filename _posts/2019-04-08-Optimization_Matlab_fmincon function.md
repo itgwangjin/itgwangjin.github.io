@@ -238,7 +238,12 @@ hessian =
   497.2903 -314.5589
  -314.5589  200.2392
 ```
+**결과값 분석**
+- x
+- fval
+- exitflag
 
+- dd 
 `lambda.ineqnonlin` 출력값은 비선형 제약 조건이 해에서 활성 상태라는 것을 보여주고 연결된 라그랑주 승수의 값을 제공
 
 grad —  x에서의 fun의 기울기입니다.
@@ -247,23 +252,7 @@ hessian —  x에서의 fun의 hessian matrix입니다. fmincon Hessian 항목�
 
 ---
 
-# 최적화를 실행시켜주는 UI Optimtool
-## objective function
-
-## non-linear function
-
-
-## 결과 해석
-![Alt text](./1554708465452.png)
-
-- Iter는  반복 횟수입니다. fmincon은 수렴하기까지 24회의 반복을 거쳤습니다.
-
-- F-count라는 레이블이 지정된 두 번째 열은 로젠브록 함수가 실행된 누적 횟수를 보고합니다. 마지막 행은 F-count가 84임을 보여주며, 이는 fmincon이 최솟값을 구하는 과정에서 로젠브록 함수를 84회 실행했음을 나타냅니다.
-
-- f(x)라는 레이블이 지정된 세 번째 열은 목적 함수의 값을 표시합니다. 최종 값 0.04567482는 최적화 앱의 솔버 실행 및 결과 보기 상자에서 보고된 최솟값이며 명령 창의 종료 메시지 끝에 있습니다.
-
-- Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY1MzUzMTIsMTc3MzgwMjMwOF19
+eyJoaXN0b3J5IjpbNjk2MjkxNzM0LC0xNTQ2NTM1MzEyLDE3Nz
+M4MDIzMDhdfQ==
 -->
