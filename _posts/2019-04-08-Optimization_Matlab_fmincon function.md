@@ -242,8 +242,10 @@ hessian =
 - x
 - fval
 - exitflag
-
-- dd 
+![|center| 300x0](https://lh3.googleusercontent.com/JCmvURDDduT3VDSIkNvc9ZHOQtP2m7YCNAEIe5xdLr6-q_u74JaaxRhZoOqXUoidtzU-d6BNa0E "exitflag")
+- output 
+![
+](https://lh3.googleusercontent.com/dtqc9-iNFT0BzMFd23oQ4i3Ws4kuk0gHQDd_s1w1k7iScLDVTLDUJnkEzoAZHrx_tzP-gpy_M_lU "output")
 `lambda.ineqnonlin` 출력값은 비선형 제약 조건이 해에서 활성 상태라는 것을 보여주고 연결된 라그랑주 승수의 값을 제공
 
 grad —  x에서의 fun의 기울기입니다.
@@ -253,6 +255,6 @@ hessian —  x에서의 fun의 hessian matrix입니다. fmincon Hessian 항목�
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MjkxNzM0LC0xNTQ2NTM1MzEyLDE3Nz
-M4MDIzMDhdfQ==
+eyJoaXN0b3J5IjpbLTEzMzg0MTM2MDksLTE1NDY1MzUzMTIsMT
+c3MzgwMjMwOF19
 -->
