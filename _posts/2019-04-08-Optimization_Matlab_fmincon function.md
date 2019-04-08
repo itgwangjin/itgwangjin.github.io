@@ -103,11 +103,15 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 
 
 ####  세번째 Example
+Objective fucntion : $x_1+$
 Constraints : $lb ≤ x ≤ ub$ 
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
 ```
-정의 : 해가 항상 범위 제약조건 내에 있도록 x의 설계 변수에 대한 하한 및 상한 집합을 정의
+정의 : 해가 항상 범위 제약조건 내에 있도록 x의 설계 변수에 대한 하한 및 상한 집합정의
+``` matlab
+
+```
 등식이 존재하지 않는 경우 Aeq = [] 및 beq = []을 설정하십시오. 
 x(i)의 하한이 비유계인 경우 $lb(i) = - \infty $를 설정하고, x(i)의 상한이 비유계인 경우 $ub(i) = \infty$를 설정하십시오.
 
@@ -149,5 +153,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk2NTk3NTddfQ==
+eyJoaXN0b3J5IjpbMTI4MDUxNzg0OF19
 -->
