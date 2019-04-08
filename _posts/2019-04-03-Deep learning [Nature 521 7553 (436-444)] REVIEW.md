@@ -65,8 +65,9 @@ ex) An image :
 ## Supervised learning
 머신러닝에서 가장 일반적인 form은 supervised learning이다.
 우리가 음성, 집, 차, 사람, 동물 분류시스템을 만들수 있다고 상상해보자. 
-1. 집, 차, 사람, 
-
+1. 매우 큰 집, 차, 사람, 동물의 라벨링된 이미지를 학습시킨다.
+training동안 machine은
+2. 
 ----
   
 |단어|뜻|
@@ -81,5 +82,5 @@ discrimination | 식별, 차별|
 orientation | 방향|
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ5MTg0MTIsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTQ0NjE3NTk0NiwtNTA2ODQ4NDA4XX0=
 -->
