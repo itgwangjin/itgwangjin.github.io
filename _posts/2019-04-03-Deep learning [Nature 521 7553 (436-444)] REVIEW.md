@@ -74,9 +74,8 @@ ex) An image :
 > 기울기를 측정함으로써 error가 증가할것인지 감소할것인지 알 수 있다.
 5. weight vector는 gradient vector와 반대 방향으로 조절된다.
 
-### Object function
-
-object function은 언덕이 많은 
+### Objective function
+실제로 대부분의
 
 
 ---  
@@ -94,7 +93,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTM1NzI0NiwtMTA4MzE1NDQyNiwtNT
-c2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NSwtNTA2ODQ4
-NDA4XX0=
+eyJoaXN0b3J5IjpbLTE5MzE4Mjg5ODQsLTEwODMxNTQ0MjYsLT
+U3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0
+ODQwOF19
 -->
