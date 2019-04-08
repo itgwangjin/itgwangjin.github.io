@@ -255,11 +255,13 @@ hessian =
 - grad 
  x에서의 fun의 기울기입니다.
 
-- hessian x에서의 fun의 hessian matrix입니다. fmincon Hessian 항목을 참조하십시오.
+- hessian
+다변수함수가 극값을 가질 때, 그것이 극대인지, 극소인지 판정할 때 사용
+ x에서의 fun의 hessian matrix입니다. fmincon Hessian 항목을 참조하십시오.
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMxNjQ3OTEsLTE1NDY1MzUzMTIsMT
-c3MzgwMjMwOF19
+eyJoaXN0b3J5IjpbLTk1NzU2NjUxNSwtMTU0NjUzNTMxMiwxNz
+czODAyMzA4XX0=
 -->
