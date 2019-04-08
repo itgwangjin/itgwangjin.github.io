@@ -170,9 +170,22 @@ if nargout > 1 % gradient required
         200*(x(2)-x(1)^2)];
 end
 ```
-옵션을 줌으로써 
+옵션을 줌으로써 objective function의 기울기를 사용하도록 만든다.
 ``` matlab
 options = optimoptions('fmincon','SpecifyObjectiveGradient',true);
+```
+그밖의 입력값 
+``` matlab
+fun = @rosenbrockwithgrad;
+x0 = [-1,2];
+A = [];
+b = [];
+Aeq = [];
+beq = [];
+lb = [-2,-2];
+ub = [2,2];
+nonlcon = [];
+x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
 ```
 
 
@@ -205,5 +218,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE5ODY0NDRdfQ==
+eyJoaXN0b3J5IjpbMTc3MzgwMjMwOF19
 -->
