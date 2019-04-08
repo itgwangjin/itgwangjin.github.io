@@ -71,7 +71,7 @@ ex) An image :
 3. machine은 조절이 가능한 내부 파라매터(weight)를 에러율을 줄이수 있게 수정합니다. 
 4. weight를 조절하기 위해서 learning algorithm은 *gradient vector*를 계산합니다.
 > Gradient vector
-> 
+> 기울기를 측정함으로써 
 ---  
 |단어|뜻|
 :----:|:---:|
@@ -87,6 +87,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMxNTQ0MjYsLTU3Njk0ODM0OSwxND
-kwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbMzU0MDI5NjA2LC0xMDgzMTU0NDI2LC01Nz
+Y5NDgzNDksMTQ5MDQ2MTYxNSwxODMzNDE4MTU1LC01MDY4NDg0
+MDhdfQ==
 -->
