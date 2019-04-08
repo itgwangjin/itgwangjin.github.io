@@ -70,6 +70,7 @@ ex) An image :
 2. 우리는 objective function을 통해서 output score와 원하는 scores의 패턴사이의 error률을 계산합니다.
 3. machine은 조절이 가능한 내부 파라매터(weight)를 에러율을 줄이수 있게 수정합니다. 
 4. weight를 조절하기 위해서 learning algorithm은 *gradient vector*를 계산합니다.
+5
 ---  
 |단어|뜻|
 :----:|:---:|
@@ -85,6 +86,6 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Njk0ODM0OSwxNDkwNDYxNjE1LDE4Mz
-M0MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTc4OTY3NTg1MCwtNTc2OTQ4MzQ5LDE0OT
+A0NjE2MTUsMTgzMzQxODE1NSwtNTA2ODQ4NDA4XX0=
 -->
