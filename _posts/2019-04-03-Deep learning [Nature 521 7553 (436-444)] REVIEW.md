@@ -65,8 +65,8 @@ ex) An image :
 ## Supervised learning
 머신러닝에서 가장 일반적인 form은 supervised learning이다.
 우리가 음성, 집, 차, 사람, 동물 분류시스템을 만들수 있다고 상상해보자. 
-1. 매우 큰 집, 차, 사람, 동물의 라벨링된 이미지를 학습시킨다.
-training동안 machine은 각 category별로 점수화 하여 vector 형태로 준다.
+1. 큰 집, 차, 사람, 동물의 아주 많은 라벨링된 이미지를 학습시킨다.
+-> training동안 machine은 각 category별로 점수화 하여 vector 형태로 준다.
 2. 우리는 objective function을 통해서 output score와 원하는 score의 패턴사이의 error률을 계산합니다.
 3. machine은 조절이 가능한 내부 파라매터(weight)를 에러율을 줄이수 있게 수정합니다. 
 4. 조절가능한 파라매터는 실제 숫자입니다.
@@ -86,6 +86,6 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDQ2MTYxNSwxODMzNDE4MTU1LC01MD
-Y4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTU2NTg2Nzg3NiwxNDkwNDYxNjE1LDE4Mz
+M0MTgxNTUsLTUwNjg0ODQwOF19
 -->
