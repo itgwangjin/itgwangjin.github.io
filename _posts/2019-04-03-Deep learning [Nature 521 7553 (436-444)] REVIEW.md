@@ -80,7 +80,7 @@ ex) An image :
 1.  output과 error를 계산
 2.  example를 통해 평균 gradient를 계산하고, weight를 적절히 조절한다.
 3.  training set으로 부터의 example의 작은세트를 objective function이 줄어드는게 멈출때까지 반복하는것이다.
-
+4. rkskk
 
 --- 
  
@@ -98,7 +98,8 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OT
-E0NTE1MDcsLTEwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYx
-NjE1LDE4MzM0MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTE2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMz
+MzNTgyMjIsLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLTU3Njk0
+ODM0OSwxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0ODQwOF
+19
 -->
