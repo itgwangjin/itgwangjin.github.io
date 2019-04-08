@@ -69,7 +69,7 @@ ex) An image :
 training동안 machine은 각 category별로 점수화 하여 vector 형태로 준다.
 2. 우리는 objective function을 통해서 output score와 원하는 score의 패턴사이의 error률을 계산합니다.
 3. machine은 조절이 가능한 내부 파라매터(weight)를 에러율을 줄이수 있게 수정합니다. 
-4. 조절가능한 파라매터는 실제 숫자입닏
+4. 조절가능한 파라매터는 실제 숫자입니다.
 
 ---  
 |단어|뜻|
@@ -86,6 +86,6 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc2MDY4MzAsMTgzMzQxODE1NSwtNT
-A2ODQ4NDA4XX0=
+eyJoaXN0b3J5IjpbMTQ5MDQ2MTYxNSwxODMzNDE4MTU1LC01MD
+Y4NDg0MDhdfQ==
 -->
