@@ -124,13 +124,19 @@ beq = [];
 
 #### 네번째 Example
 Objective fucntion : $f(x) = 100(x_2 - x_1^2)^2 + (1 - x_1)^2$
-$Constraints 1 : $0 \le x_1\le 0.5$ 
+Constraints 1 : $0 \le x_1\le 0.5$ 
 Constraints 2 : $0.2 \le x_2 \le 0.8$
+Constra
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 ```
+정의 : 비선형 제약 조건을 적용하여 함수의 최솟값을 구합니다.
+``` matlab
+function [c,ceq] = circlecon(x)
+c = (x(1)-1/3)^2 + (x(2)-1/3)^2 - (1/3)^2;
+ceq = [];
+```
 
-은 nonlcon에 정의된 비선형 부등식 c(x) 또는 등식 ceq(x)를 최소화에 적용합니다. fmincon은 c(x) ≤ 0 및 ceq(x) = 0 조건에서 최적화합니다. 범위가 존재하지 않는 경우 lb = [] 및/또는 ub = []을 설정하십시오
 
 ######x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
 는 options에 지정된 최적화 옵션을 사용하여 최솟값을 구합니다. 이 옵션을 설정하려면 optimoptions를 사용하십시오. 비선형 부등식 또는 등식 제약 조건이 없을 경우 nonlcon = []을 설정하십시오.
@@ -167,5 +173,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYyNTQ2NjNdfQ==
+eyJoaXN0b3J5IjpbMTAyOTM5MDExNl19
 -->
