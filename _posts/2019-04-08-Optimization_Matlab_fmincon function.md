@@ -48,28 +48,21 @@ x = fminsearch(fun,x0,options) % 로젠브룩 함수를 통해 시작점 x0의 �
  matlab에서  fun  = @(x)sqrt(sum((x(1) - x(2))^ 2)); 을 쓰는 것이 맞지않나싶다 
 
 ## 2) 제약조건이 있는 최적화 - fmincon function
-#### 정의
+### 정의
 비선형 다변수 함수의 최솟값을 찾는 함수입니다.
-![Alt text](./1554344130882.png)
+![enter image description here](https://lh3.googleusercontent.com/3Im8xS2vCpiTIMEdCylQUVgWdqKDiZkBSs7XQV4BSjjZfSj3M7fqqYMirqQqCj8xIkeygxy5gA0 "fmincon")
 위와 같은 문제의 최솟값을 구합니다.
 
-| Variable      |      |  
-| :-------- | :--------| 
-| b, beq    |   Vetor| 
-|A, Aeq | Matrix |
-|c(x), ceq(x) |  function of returning vetor  &  non-linear function |
-| f(x) | function of returning scalar &  non-linear function
-| x, lb, ub |  returning Vetor or Matrix |
 
-#### 구문
+### 구문
 기본적으로 이 함수를 구현해야할 때는 크게 2가지는 기억하고 있어야한다.
 
 **첫째로**. 어떤 함수를 최소화시키고 싶은지(objective function)
 **둘째로**. 최소화된 값이 적어도 어느 범위안에 있어야 하는지? (Constraints)
 
-#### Example
+### Example
 Objective function : Rosenbrock function
-![Alt text](./1554707834576.png)
+$ f(x) =
 Constraints : ?
 
 ######x = fmincon(fun,x0,A,b)
@@ -143,5 +136,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQyMTc2NDddfQ==
+eyJoaXN0b3J5IjpbLTE4MDQ4ODExODFdfQ==
 -->
