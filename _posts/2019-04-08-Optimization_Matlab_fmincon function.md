@@ -126,7 +126,8 @@ beq = [];
 Objective fucntion : $f(x) = 100(x_2 - x_1^2)^2 + (1 - x_1)^2$
 Constraints 1 : $0 \le x_1\le 0.5$ 
 Constraints 2 : $0.2 \le x_2 \le 0.8$
-Constraints 3 : $(x_1 - {1 \over 3}) ^2 +(x_2 - {1 \over 3}) ^2  -({1 \over 3}$
+Constraints 3 : $(x_1 - {1 \over 3}) ^2 +(x_2 - {1 \over 3}) ^2  -({1 \over 3})^2$
+						=> 원 내부
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
 ```
@@ -136,7 +137,20 @@ function [c,ceq] = circlecon(x)
 c = (x(1)-1/3)^2 + (x(2)-1/3)^2 - (1/3)^2;
 ceq = [];
 ```
-
+``` matlab
+lb = [0,0.2];
+ub = [0.5,0.8];
+% 선형조건이 없으므로
+A = [];
+b = [];
+Aeq = [];
+beq = [];
+% 초기값 설정
+x0 = [1/4,1/4];
+% 실행
+nonlcon = @circlecon;
+x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon)
+```
 
 ######x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub,nonlcon,options)
 는 options에 지정된 최적화 옵션을 사용하여 최솟값을 구합니다. 이 옵션을 설정하려면 optimoptions를 사용하십시오. 비선형 부등식 또는 등식 제약 조건이 없을 경우 nonlcon = []을 설정하십시오.
@@ -173,5 +187,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODkwOTYzNl19
+eyJoaXN0b3J5IjpbMTkwMDMwNDA5MV19
 -->
