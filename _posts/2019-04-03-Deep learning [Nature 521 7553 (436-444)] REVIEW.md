@@ -75,7 +75,7 @@ ex) An image :
 5. weight vector는 gradient vector와 반대 방향으로 조절된다.
 
 ### Objective function
-실제로 대부분의
+실제로 대부분의 실무자(practitioners)는 stochastic gradient descent(SGD)를 사용한다.
 
 
 ---  
@@ -93,7 +93,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE4Mjg5ODQsLTEwODMxNTQ0MjYsLT
-U3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0
-ODQwOF19
+eyJoaXN0b3J5IjpbMjEwNDg5MzM1MSwtMTA4MzE1NDQyNiwtNT
+c2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NSwtNTA2ODQ4
+NDA4XX0=
 -->
