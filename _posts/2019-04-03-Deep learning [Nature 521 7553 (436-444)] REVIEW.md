@@ -68,7 +68,8 @@ ex) An image :
 1. 매우 큰 집, 차, 사람, 동물의 라벨링된 이미지를 학습시킨다.
 training동안 machine은 각 category별로 점수화 하여 vector 형태로 준다.
 2. 우리는 objective function을 통해서 output score와 원하는 score의 패턴사이의 error률을 계산합니다.
-3. machine은 조절이 가능한 내부 파라매터를 에러률을 줄이기 위해서 error 
+3. machine은 조절이 가능한 내부 파라매터(weight)를 에러율을 줄이수 있게 수정합니다. 
+4. 조절가능한 파라매터는 실제 숫자입닏
 
 ---  
 |단어|뜻|
@@ -81,8 +82,10 @@ recorrent| 되풀이되는|
 indicate| 나타내다|
 discrimination | 식별, 차별|
 orientation | 방향|
+knobs	| 손잡이|
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mzg2MTMwMywxODMzNDE4MTU1LC01MD
-Y4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzc2MDY4MzAsMTgzMzQxODE1NSwtNT
+A2ODQ4NDA4XX0=
 -->
