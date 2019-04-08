@@ -20,11 +20,12 @@ tag:
 - optimset
 최적의 options 구조체를 만들거나 편집할 수 있다.
 	- 예제
+``` matlab
 options = optimset('Display','iter','TolX',1e-8) % display 옵션이 iter, Tolx옵션이 1e-8
-    optnew = optimset(options,'TolX',1e-4); % TolX옵션의 값을 변경하고 새 값을 optnew에 새 값 저장하고 options라는 options 구조체의 복사본을 만든다.
-    options = optimset('fminbnd') % fminbnd와 관련된 모든 옵션 이름과 디폴트 값을 포함하는 optimization options 구조체 options 반환
- optimset fminbnd % 디폴트 값만 볼때
-
+optnew = optimset(options,'TolX',1e-4); % TolX옵션의 값을 변경하고 새 값을 optnew에 새 값 저장하고 options라는 options 구조체의 복사본을 만든다.
+options = optimset('fminbnd') % fminbnd와 관련된 모든 옵션 이름과 디폴트 값을 포함하는 optimization options 구조체 options 반환
+optimset fminbnd % 디폴트 값만 볼때
+```
 	
 ##### x = fminsearch(problem)
 구조체 problem의 최솟값을 구한다.
@@ -46,7 +47,7 @@ x = fminsearch(fun,x0,options) % 로젠브룩 함수를 통해 시작점 x0의 �
 > Nearest search를 썼을때 Euclidean distance 함수를 쓴것으로 보아
  matlab에서  fun  = @(x)sqrt(sum((x(1) - x(2))^ 2)); 을 쓰는 것이 맞지않나싶다 
 
-### 2) 제약조건이 있는 최적화 - fmincon function
+## 2) 제약조건이 있는 최적화 - fmincon function
 #### 정의
 비선형 다변수 함수의 최솟값을 찾는 함수입니다.
 ![Alt text](./1554344130882.png)
@@ -142,5 +143,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNzU5Mzg1XX0=
+eyJoaXN0b3J5IjpbLTE5OTQyMTc2NDddfQ==
 -->
