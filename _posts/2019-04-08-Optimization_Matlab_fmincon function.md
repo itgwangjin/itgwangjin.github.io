@@ -103,7 +103,7 @@ x = fmincon(fun,x0,A,b,Aeq,beq)
 
 
 ####  세번째 Example
-Objective fucntion : $x_1+$
+Objective fucntion : ${1+x_1} \over {1+x_2} - 3*x_1*x_2 + x_2(1+x_1)$
 Constraints : $lb ≤ x ≤ ub$ 
 ``` matlab
 x = fmincon(fun,x0,A,b,Aeq,beq,lb,ub)
@@ -153,5 +153,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDUxNzg0OF19
+eyJoaXN0b3J5IjpbNzI2MDA3NzUyXX0=
 -->
