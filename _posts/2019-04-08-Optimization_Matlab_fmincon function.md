@@ -70,16 +70,15 @@ Constraints : $A*x ≤ b$
 x = fmincon(fun,x0,A,b)
 ```
 
-x0에서 시작하여 fun에 정의된 함수의 최소점을 찾는다.
-만약 제약조건이 $x_1 + 2x_2 \le 1$라고 한다면
+정의 : x0에서 시작하여 fun에 정의된 함수의 최소점을 찾는다.
+Constraints : $x_1 + 2x_2 \le 1$
 ``` matlab
 x0 = [-1,2];
 A = [1,2];
 b = 1;
 x = fmincon(fun,x0,A,b)
 ```
-로 볼 수 있다.
-예를 들어 $x_1^2 + x_2^2 \le 1$ 와 같은 부등식 제약조건을 의미한다.
+예를 들어 $x_1^2 + x_2^2 \le 1$ 와 같은 부등식 제약조건도 의미한다.
 
 #### 두번째 Example
 Constraints : 제약조건이 2개(선형 부등식, 등식 제약 조건)
@@ -144,5 +143,5 @@ hessian — 해 x에서의 fun의 헤세 행렬입니다. fmincon Hessian 항목
 - Feasibility는 모든 반복에 대해 0입니다. 이 열은 제약 조건이 양수인 각 반복에서 제약 조건 함수 unitdisk의 값을 보여줍니다. unitdisk의 값이 모든 반복에서 음수였기 때문에 매 반복마다 제약 조건을 충족했습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTcxNzU0NF19
+eyJoaXN0b3J5IjpbLTIwNjUyNTkwMDNdfQ==
 -->
