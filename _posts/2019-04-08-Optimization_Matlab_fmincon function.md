@@ -8,7 +8,7 @@ tag:
   - fmincon
   - Optimization
 ---
-In Matlab, fminsearch and fmincon function use optimization
+In Matlab, fminsearch and fmincon function usually use the optimization.
 
 ##  1. fminsearch function
 ### 1) 구문
@@ -265,6 +265,6 @@ Hessian](https://darkpgmr.tistory.com/132)을 사용할 수 있습니다.
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMTAyNjI2LC0xOTUxMjI2MTgxLC04OT
-g1ODE1NDMsLTE1NDY1MzUzMTIsMTc3MzgwMjMwOF19
+eyJoaXN0b3J5IjpbLTE0NTQ4NjYwMDQsLTE5NTEyMjYxODEsLT
+g5ODU4MTU0MywtMTU0NjUzNTMxMiwxNzczODAyMzA4XX0=
 -->
