@@ -78,8 +78,8 @@ ex) An image :
 실제로 대부분의 실무자(practitioners)는 stochastic gradient descent(SGD)를 사용한다.
 #### SGD(Stochastic Gradient Descent)
 1.  Output과 Error를 계산
-2.  example를 통해 평균 기울기를 계산하고, weight를 적절히 조절한다.
-3.  objective function 의 평균이 그만 줄어드는게 멈출때까지 반복하는것이다.
+2.  Example를 통해 평균 기울기를 계산하고, weight를 적절히 조절한다.
+3.  Objective function 의 평균이 더이상 줄어들지 않을때까지 1,2번을 반복한다.
 4. 
 
 --- 
@@ -98,7 +98,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODc1MzIwLDE0NDc3MzI5NDIsLTE2OD
+eyJoaXN0b3J5IjpbOTI3NjE4Mzg1LDE0NDc3MzI5NDIsLTE2OD
 kwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0NTE1
 MDcsLTEwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYxNjE1LD
 E4MzM0MTgxNTUsLTUwNjg0ODQwOF19
