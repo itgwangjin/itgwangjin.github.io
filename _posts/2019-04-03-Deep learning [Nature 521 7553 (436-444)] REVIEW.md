@@ -95,9 +95,8 @@ ex) An image :
 - 1960년도 이래로 linear classified는 오직 input을 간단한 범주로 분류할 수 있었고 반공간은 hyperplane에 의해 분별된다.
 ### Limit of linear classifier
 - mage나 speech recognition의 경우 관련없는 입력변수의 경우 둔감하게 하는 input output function을 요구한다
-
 **Example**
-
+image의 경우 물체의 조명이나 방향, 
 #### 
 
 --- 
@@ -117,10 +116,10 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ1OTUwNDUsNjg4NjM1MzMsLTk1Nz
-Q0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1MSwtODQ0MjE0NzI4
-LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5NDAyMiw5MD
-gzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNywtMTA4MzE1
-NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NS
-wtNTA2ODQ4NDA4XX0=
+eyJoaXN0b3J5IjpbMjA3OTIwOTcyOCwtMTU4NDU5NTA0NSw2OD
+g2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUx
+LC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNj
+g5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUx
+NTA3LC0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNS
+wxODMzNDE4MTU1LC01MDY4NDg0MDhdfQ==
 -->
