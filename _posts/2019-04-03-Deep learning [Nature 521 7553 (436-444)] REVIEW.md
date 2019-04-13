@@ -94,11 +94,7 @@ ex) An image :
 - 만약 가중화된 합이 **threshold**을 넘으면 input은 특정한 범주에 속하는걸로 분류한다.
 - 1960년도 이래로 linear classified는 오직 input을 간단한 범주로 분류할 수 있었고 반공간은 hyperplane에 의해 분별된다.
 ### Limit of linear classifier
-- linear classifier는 위에서 말한 방식과 다르게 중요하게 생각하는 변수와 관련없는 변수를 구별하는 input output function을 요구한다.
-예를들어
-image의 경우 물체의 조명이나 방향, speech의 경우 pitch나 accent의 변화는 중요하지 않으므로 insensitive하게 만들어야 한다.
-
-Sensitive to variations
+- linear classifier는 위에서 말한 방식과 다르게 중요하게 생각하는 변수와 관련없는 변수를 판단해야하는 input output function을 요구한다.
 
 
 #### 
@@ -120,10 +116,10 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2OD
-g2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUx
-LC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNj
-g5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUx
-NTA3LC0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNS
-wxODMzNDE4MTU1LC01MDY4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTM1MzA2MTcyNSwxNjgwOTI2Mzc2LC0xNT
+g0NTk1MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5
+LC02NDA1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0ND
+c3MzI5NDIsLTE2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgy
+MjIsLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLTU3Njk0ODM0OS
+wxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0ODQwOF19
 -->
