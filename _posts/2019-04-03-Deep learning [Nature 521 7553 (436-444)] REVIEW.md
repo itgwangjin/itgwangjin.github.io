@@ -101,8 +101,8 @@ Wolf와 White dog image을 구분하는 모델에서
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 
 ![
-](https://lh3.googleusercontent.com/NPUFiBKAGU1evZ6IeV1TGSXWtclaDbxt21Xtydih81QRCGbUW2ADlTSOSfgwOycu6D3wrU0m7x9l "figure01")
-- input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 할 수 있을까?
+](https://lh3.googleusercontent.com/Pr2c5tDyDU1sozTJh9jbe1862w9ID2SwQ54kiTSkHcXB4blH8dcnXwCoTdfTnuP7I4XWNzWJ32BV "figure1")
+- input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 어떻게 줄 수  있을까?
 
 
 #### 
@@ -126,11 +126,11 @@ namely	| 즉
 shallow | 얕은|
 illustrative example| 설득력있는 예
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MD
-kyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2
-LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMj
-IzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIy
-MiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC0xMDgzMTU0NDI2LC
-01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMzNDE4MTU1LC01MDY4
-NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTA2Mzk3MDcsLTY3NTY4MjY0OSwxNj
+c2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUz
+MywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04ND
+QyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0
+MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC
+0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMz
+NDE4MTU1XX0=
 -->
