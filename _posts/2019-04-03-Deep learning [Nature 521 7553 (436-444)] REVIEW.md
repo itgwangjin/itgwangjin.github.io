@@ -83,7 +83,7 @@ ex) An image :
 
 이것을 Stochastic Gradient Descent라고 하며
 Stochastic의 의미는 각 small set of examples마다 모든 examples평균 기울기의 측정치
-위와 같은 절차는 대체로 좋은 가중치 세트를 빠르게  찾아준다.
+위와 같은 절차는 주로 aodn wjdryg  대체로 좋은 가중치 세트를 빠르게  찾아준다.
 
 
 --- 
@@ -99,12 +99,12 @@ indicate| 나타내다|
 discrimination | 식별, 차별|
 orientation | 방향|
 knobs	| 손잡이|
-
+elaborate | 정교한 |
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ3MTIxLC02NDA1Njk1NTEsLTg0ND
-IxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQw
-MjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0NTE1MDcsLT
-EwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0
-MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTcyODkxNDQyMiwtNjQwNTY5NTUxLC04ND
+QyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0
+MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC
+0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMz
+NDE4MTU1LC01MDY4NDg0MDhdfQ==
 -->
