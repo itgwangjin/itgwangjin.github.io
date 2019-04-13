@@ -124,9 +124,9 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉
 shallow | 얕은|
-illustrative | 설
+illustrative example| 설득력있는 예
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzc1Nzk3OSwxNjc2MDAyMTIsMTY4MD
+eyJoaXN0b3J5IjpbLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MD
 kyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2
 LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMj
 IzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIy
