@@ -96,7 +96,10 @@ ex) An image :
 ### Limit of linear classifier
 - mage나 speech recognition의 경우 관련없는 입력변수의 경우 둔감하게 하는 input output function을 요구한다
 **Example**
-image의 경우 물체의 조명이나 방향, 
+Insensitive to irrelevant variations
+image의 경우 물체의 조명이나 방향
+speech의 경우 pitch나 accent의 변화는 둔
+
 #### 
 
 --- 
@@ -116,10 +119,10 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTIwOTcyOCwtMTU4NDU5NTA0NSw2OD
-g2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUx
-LC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNj
-g5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUx
-NTA3LC0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNS
-wxODMzNDE4MTU1LC01MDY4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTIwMDEwODM1NzcsLTE1ODQ1OTUwNDUsNj
+g4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1
+MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMT
+Y4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1
+MTUwNywtMTA4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MT
+UsMTgzMzQxODE1NSwtNTA2ODQ4NDA4XX0=
 -->
