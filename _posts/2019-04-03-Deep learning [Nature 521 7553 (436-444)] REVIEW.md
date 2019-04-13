@@ -102,7 +102,7 @@ Wolf와 White dog image을 구분하는 모델에서
 
 ![
 ](https://lh3.googleusercontent.com/NPUFiBKAGU1evZ6IeV1TGSXWtclaDbxt21Xtydih81QRCGbUW2ADlTSOSfgwOycu6D3wrU0m7x9l "figure01")
-- input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 
+- input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 할 수 있을까?
 
 
 #### 
@@ -124,8 +124,9 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉
 shallow | 얕은|
+illustrative | 설
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDY0MTIxNCwxNjc2MDAyMTIsMTY4MD
+eyJoaXN0b3J5IjpbMTYxNzc1Nzk3OSwxNjc2MDAyMTIsMTY4MD
 kyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2
 LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMj
 IzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIy
