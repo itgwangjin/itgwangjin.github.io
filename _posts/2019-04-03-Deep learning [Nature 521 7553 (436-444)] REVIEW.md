@@ -83,8 +83,8 @@ ex) An image :
 
 > Stochastic의 의미는 각 small set of examples마다 모든 examples평균 기울기의 측정치
 
-위와 같은 SGD는 주로 정교한 optimization 기술로  대체로 좋은 가중치 세트를 빠르게  찾아준다.
-학습이 끝나고 
+- SGD는 주로 정교한 optimization 기술로  대체로 좋은 가중치 세트를 빠르게  찾아준다.
+- 학습이후  시스템의 성능은 test set이라고 불리는  
 
 
 
@@ -104,9 +104,9 @@ knobs	| 손잡이|
 elaborate | 정교한 |
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYyMDAzMzIsLTY0MDU2OTU1MSwtOD
-Q0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5
-NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNy
-wtMTA4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgz
-MzQxODE1NSwtNTA2ODQ4NDA4XX0=
+eyJoaXN0b3J5IjpbMTcyNDYwNzI1NCwtNjQwNTY5NTUxLC04ND
+QyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0
+MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC
+0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMz
+NDE4MTU1LC01MDY4NDg0MDhdfQ==
 -->
