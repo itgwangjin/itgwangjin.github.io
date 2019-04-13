@@ -93,8 +93,11 @@ ex) An image :
 - 이진 분류기는 feature vector의 구성물의 합을 계산한다.
 - 만약 가중화된 합이 **threshold**을 넘으면 input은 특정한 범주에 속하는걸로 분류한다.
 - 1960년도 이래로 linear classified는 오직 input을 간단한 범주로 분류할 수 있었고 반공간은 hyperplane에 의해 분별된다.
-### Boundary of linear classifier
-- 그러나 image나 speech recognition의 경우 관련없는 입력변수의 경우 둔감하게 하는 input output function을 요구한다
+### Limit of linear classifier
+- mage나 speech recognition의 경우 관련없는 입력변수의 경우 둔감하게 하는 input output function을 요구한다
+
+**Example**
+
 #### 
 
 --- 
@@ -114,10 +117,10 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjAzNjU3NSw2ODg2MzUzMywtOTU3ND
-QwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3Mjgs
-LTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLDkwOD
-M4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC0xMDgzMTU0
-NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMzNDE4MTU1LC
-01MDY4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ1OTUwNDUsNjg4NjM1MzMsLTk1Nz
+Q0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1MSwtODQ0MjE0NzI4
+LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5NDAyMiw5MD
+gzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNywtMTA4MzE1
+NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NS
+wtNTA2ODQ4NDA4XX0=
 -->
