@@ -98,7 +98,7 @@ ex) An image :
 예를들어
 Wolf와 White dog image을 구분하는 모델에서
 다른 포즈로 있고 다른 환경에 있는  white dog 사진은 각각 매우 다를지도 모르지만, 같은 위치와 같은 배경에서 white dog와 wolf의 이미지는 매우 유사하게 보일지도 모른다.
-linear classifier( 매우
+linear classifier( multi-layer neural networkshallow한 classifier)는 왜곡할 수 있다.
 
 
 #### 
@@ -121,10 +121,10 @@ carve	| 새기다, 베다|
 namely	| 즉
 shallow | 얕은|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDgwMjQzNCwxNjgwOTI2Mzc2LC0xNT
-g0NTk1MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5
-LC02NDA1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0ND
-c3MzI5NDIsLTE2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgy
-MjIsLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLTU3Njk0ODM0OS
-wxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbNTExMzg4NzQxLDE2ODA5MjYzNzYsLTE1OD
+Q1OTUwNDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2Mjks
+LTY0MDU2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0Nz
+czMjk0MiwtMTY4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIy
+MiwtMTk5MTQ1MTUwNywtMTA4MzE1NDQyNiwtNTc2OTQ4MzQ5LD
+E0OTA0NjE2MTUsMTgzMzQxODE1NSwtNTA2ODQ4NDA4XX0=
 -->
