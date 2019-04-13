@@ -91,7 +91,8 @@ ex) An image :
 ## linear classifier
 - 현재 머신러닝에서 실무에 나와있는 applications중 다수는 linear classifier를 제일 중점적으로 사용한다.
 - 이진 분류기는 feature vector의 구성물의 합을 계산한다.
-- 만약 가중화된 합이 **threshold**을 넘으
+- 만약 가중화된 합이 **threshold**을 넘으면 input은 특정한 범주에 속하는걸로 분류한다.
+- 
 
 
 --- 
@@ -110,9 +111,9 @@ knobs	| 손잡이|
 elaborate | 정교한 |
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MzQzOTksLTY0MDU2OTU1MSwtODQ0Mj
-E0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5NDAy
-Miw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNywtMT
-A4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQx
-ODE1NSwtNTA2ODQ4NDA4XX0=
+eyJoaXN0b3J5IjpbMjc4NjgzNjI5LC02NDA1Njk1NTEsLTg0ND
+IxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQw
+MjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0NTE1MDcsLT
+EwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0
+MTgxNTUsLTUwNjg0ODQwOF19
 -->
