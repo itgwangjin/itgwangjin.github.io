@@ -104,7 +104,7 @@ Wolf와 White dog image을 구분하는 모델에서
 ](https://lh3.googleusercontent.com/Pr2c5tDyDU1sozTJh9jbe1862w9ID2SwQ54kiTSkHcXB4blH8dcnXwCoTdfTnuP7I4XWNzWJ32BV "figure1")
 - input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 어떻게 줄 수  있을까?
 => Backpropagation을 이용한다.
-b를 보면 알 수 있듯이 
+b를 보면 알 수 있듯이 $\triangle z$ 
 ### Backpropagation
 
 
@@ -131,11 +131,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzYyNTE3LC0xMDk5ODc0MTgyLC02OT
-Y2MjY0MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3
-NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3OD
-Y4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQx
-OCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIyMiwtMT
-MzMzU4MjIyLC0xOTkxNDUxNTA3LC0xMDgzMTU0NDI2LC01NzY5
-NDgzNDldfQ==
+eyJoaXN0b3J5IjpbLTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLT
+Y5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2
+Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYsMj
+c4NjgzNjI5LC02NDA1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMjMw
+NDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQwMjIsOTA4MzgyMjIyLC
+0xMzMzNTgyMjIsLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLTU3
+Njk0ODM0OV19
 -->
