@@ -95,10 +95,9 @@ ex) An image :
 - 1960년도 이래로 linear classified는 오직 input을 간단한 범주로 분류할 수 있었고 반공간은 hyperplane에 의해 분별된다.
 ### Limit of linear classifier
 - linear classifier는 위에서 말한 방식과 다르게 중요하게 생각하는 변수와 관련없는 변수를 구별하는 input output function을 요구한다.
-**Example**
-Insensitive to irrelevant variations
-image의 경우 물체의 조명이나 방향
-speech의 경우 pitch나 accent의 변화
+예를들어
+image의 경우 물체의 조명이나 방향, speech의 경우 pitch나 accent의 변화는 중요하지 않으므로 insensitive하게 만들어야 한다.
+
 Sensitive to variations
 
 
@@ -121,7 +120,7 @@ elaborate | 정교한 |
 carve	| 새기다, 베다|
 namely	| 즉,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTg4NDIwOCwtMTU4NDU5NTA0NSw2OD
+eyJoaXN0b3J5IjpbMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2OD
 g2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUx
 LC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNj
 g5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUx
