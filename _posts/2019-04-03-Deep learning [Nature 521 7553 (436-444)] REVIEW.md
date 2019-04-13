@@ -86,7 +86,7 @@ ex) An image :
 - SGD는 주로 정교한 optimization 기술로  대체로 좋은 가중치 세트를 빠르게  찾아준다.
 - 학습이후  시스템의 성능은 test set이라고 불리는 different set으로 측정된다.
 - test set은 machine의 일반화 능력을 테스트한다.
-- 이러 
+- 일반화 능력은 새로운 입력값에 설득력을 을 준다. 
 
 
 
@@ -106,9 +106,9 @@ knobs	| 손잡이|
 elaborate | 정교한 |
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5MzUwMDU0LC02NDA1Njk1NTEsLTg0ND
-IxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQw
-MjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0NTE1MDcsLT
-EwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0
-MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTE3MDA5MjAyNjYsLTY0MDU2OTU1MSwtOD
+Q0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5
+NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNy
+wtMTA4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgz
+MzQxODE1NSwtNTA2ODQ4NDA4XX0=
 -->
