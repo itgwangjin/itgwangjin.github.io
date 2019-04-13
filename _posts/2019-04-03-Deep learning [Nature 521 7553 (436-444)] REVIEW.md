@@ -79,8 +79,8 @@ ex) An image :
 #### SGD(Stochastic Gradient Descent)
 1.  Output과 Error를 계산
 2.  example를 통해 평균 기울기를 계산하고, weight를 적절히 조절한다.
-3.  1,2번을 train set으로 부터 얻은 example의 작은세트를 objective function이 줄어드는게 멈출때까지 반복하는것이다.
-4. rkskk
+3.  1,2번을 반복하는데 이train set으로 부터 얻은 example의 작은세트를 objective function이 줄어드는게 멈출때까지 반복하는것이다.
+4. 
 
 --- 
  
@@ -98,7 +98,7 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTYwMDc0MCwxNDQ3NzMyOTQyLC0xNj
+eyJoaXN0b3J5IjpbLTM4NzMwMjEzNSwxNDQ3NzMyOTQyLC0xNj
 g5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUx
 NTA3LC0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNS
 wxODMzNDE4MTU1LC01MDY4NDg0MDhdfQ==
