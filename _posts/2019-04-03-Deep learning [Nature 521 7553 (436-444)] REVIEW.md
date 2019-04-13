@@ -83,6 +83,7 @@ ex) An image :
 
 이것을 Stochastic Gradient Descent라고 하며
 Stochastic의 의미는 각 small set of examples마다 모든 examples평균 기울기의 측정치
+위와 같은 절차는 대체로 좋은 가중치 세트를 찾아준다.
 
 
 --- 
@@ -101,8 +102,9 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0ND
-c3MzI5NDIsLTE2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgy
-MjIsLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLTU3Njk0ODM0OS
-wxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTY0MDU2OTU1MSwtODQ0MjE0NzI4LC02MT
+IyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5NDAyMiw5MDgzODIy
+MjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNywtMTA4MzE1NDQyNi
+wtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgzMzQxODE1NSwtNTA2
+ODQ4NDA4XX0=
 -->
