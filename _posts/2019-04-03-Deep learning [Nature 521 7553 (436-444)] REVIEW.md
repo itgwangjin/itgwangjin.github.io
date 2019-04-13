@@ -80,7 +80,7 @@ ex) An image :
 1.  Output과 Error를 계산
 2.  Example를 통해 평균 기울기를 계산하고, weight를 적절히 조절한다.
 3.  Objective function 의 평균이 더이상 줄어들지 않을때까지 1,2번을 반복한다.
-4. 
+이것을 Stochastic Gradient Descent라고 하며
 
 --- 
  
@@ -98,8 +98,8 @@ knobs	| 손잡이|
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3NjE4Mzg1LDE0NDc3MzI5NDIsLTE2OD
-kwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0NTE1
-MDcsLTEwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYxNjE1LD
-E4MzM0MTgxNTUsLTUwNjg0ODQwOF19
+eyJoaXN0b3J5IjpbLTI1NjE0ODcwNSwxNDQ3NzMyOTQyLC0xNj
+g5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUx
+NTA3LC0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNS
+wxODMzNDE4MTU1LC01MDY4NDg0MDhdfQ==
 -->
