@@ -62,7 +62,7 @@ ex) An image :
   > [Point] 이러한 특징을 잡은 layer는 인간이 한것이 아니라. 
   > Data를 통해 일반적인 learning procedure를 통해서 학습한다!
 
-## Supervised learning
+## 3. Supervised learning
 머신러닝에서 가장 일반적인 form은 supervised learning이다.
 우리가 음성, 집, 차, 사람, 동물 분류시스템을 만들수 있다고 상상해보자. 
 1. 큰 집, 차, 사람, 동물의 아주 많은 라벨링된 이미지를 학습시킨다.
@@ -74,7 +74,7 @@ ex) An image :
 > 기울기를 측정함으로써 error가 증가할것인지 감소할것인지 알 수 있다.
 5. weight vector는 gradient vector와 반대 방향으로 조절된다.
 
-### Objective function
+### (1) Objective function
 실제로 대부분의 실무자(practitioners)는 stochastic gradient descent(SGD)를 사용한다.
 #### SGD(Stochastic Gradient Descent)
 1.  Output과 Error를 계산
@@ -88,8 +88,9 @@ ex) An image :
 - test set은 machine의 일반화 능력을 테스트한다.
 - 일반화는 새로운 입력값에 설득력을 더한다. 
 
-
-현재 머신러닝에서 실무에 나와있는 applications중 다수는 linear classifier를 
+## linear classifier
+- 현재 머신러닝에서 실무에 나와있는 applications중 다수는 linear classifier를 제일 중점적으로 사용한다.
+- A two-
 
 
 --- 
@@ -108,9 +109,9 @@ knobs	| 손잡이|
 elaborate | 정교한 |
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjcyNDUwOSwtNjQwNTY5NTUxLC04ND
-QyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0
-MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC
-0xMDgzMTU0NDI2LC01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMz
-NDE4MTU1LC01MDY4NDg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTExMDY0NDQ4ODUsLTY0MDU2OTU1MSwtOD
+Q0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5
+NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1MTUwNy
+wtMTA4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0NjE2MTUsMTgz
+MzQxODE1NSwtNTA2ODQ4NDA4XX0=
 -->
