@@ -104,10 +104,12 @@ Wolf와 White dog image을 구분하는 모델에서
 ](https://lh3.googleusercontent.com/Pr2c5tDyDU1sozTJh9jbe1862w9ID2SwQ54kiTSkHcXB4blH8dcnXwCoTdfTnuP7I4XWNzWJ32BV "figure1")
 - input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 어떻게 줄 수  있을까?
 => Chain rule을 이용한다.
+### Backpropagation
 
-#### 
+
 
 --- 
+ 
  
 |단어|뜻|
 :----:|:---:|
@@ -125,12 +127,14 @@ carve	| 새기다, 베다|
 namely	| 즉
 shallow | 얕은|
 illustrative example| 설득력있는 예
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2Nz
-YwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMz
-LC05NTc0NDAxNzYsMjc4NjgzNjI5LC02NDA1Njk1NTEsLTg0ND
-IxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQw
-MjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0NTE1MDcsLT
-EwODMxNTQ0MjYsLTU3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0
-MTgxNTVdfQ==
+eyJoaXN0b3J5IjpbMTE3MjQ1NzczNCwtNjk2NjI2NDIyLC02Nz
+U2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUw
+NDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MD
+U2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0
+MiwtMTY4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMT
+k5MTQ1MTUwNywtMTA4MzE1NDQyNiwtNTc2OTQ4MzQ5LDE0OTA0
+NjE2MTVdfQ==
 -->
