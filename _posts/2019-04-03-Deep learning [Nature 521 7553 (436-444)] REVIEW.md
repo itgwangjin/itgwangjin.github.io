@@ -100,7 +100,9 @@ Wolf와 White dog image을 구분하는 모델에서
 다른 포즈로 있고 다른 환경에 있는  white dog 사진은 각각 매우 다를지도 모르지만, 같은 위치와 같은 배경에서 white dog와 wolf의 이미지는 매우 유사하게 보일지도 모른다.
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 
-- 어떻게 input space에서 regular grid
+![
+](https://lh3.googleusercontent.com/NPUFiBKAGU1evZ6IeV1TGSXWtclaDbxt21Xtydih81QRCGbUW2ADlTSOSfgwOycu6D3wrU0m7x9l "figure01")
+- input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 
 
 
 #### 
@@ -123,11 +125,11 @@ carve	| 새기다, 베다|
 namely	| 즉
 shallow | 얕은|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDIyMzA4LDE2NzYwMDIxMiwxNjgwOT
-I2Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYs
-Mjc4NjgzNjI5LC02NDA1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMj
-MwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQwMjIsOTA4MzgyMjIy
-LC0xMzMzNTgyMjIsLTE5OTE0NTE1MDcsLTEwODMxNTQ0MjYsLT
-U3Njk0ODM0OSwxNDkwNDYxNjE1LDE4MzM0MTgxNTUsLTUwNjg0
-ODQwOF19
+eyJoaXN0b3J5IjpbMTUzNDY0MTIxNCwxNjc2MDAyMTIsMTY4MD
+kyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2
+LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMj
+IzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIy
+MiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC0xMDgzMTU0NDI2LC
+01NzY5NDgzNDksMTQ5MDQ2MTYxNSwxODMzNDE4MTU1LC01MDY4
+NDg0MDhdfQ==
 -->
