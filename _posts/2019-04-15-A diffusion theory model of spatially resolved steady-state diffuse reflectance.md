@@ -10,12 +10,12 @@ date: 2019-04-15
 
 radial reflectance
 $R(\rho) = (C_1 / \rho^m)exp^{-C_2\rho}$
-$C : dependence upon the tisue optical properties 
-$\rho$  :
+$C$ : dependence upon the tisue optical properties 
+$\rho$  : distance
 $m$ : depends upon the range of $\rho$
-
+Groenhuis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzk5NTAxLDgyNzEwOTU3Ml19
+eyJoaXN0b3J5IjpbLTEyMzIxODY0OTYsODI3MTA5NTcyXX0=
 -->
