@@ -9,11 +9,13 @@ date: 2019-04-15
 ---
 
 radial reflectance
-$R(\rho) = (C_1 / ^m)exp^{-C_2\rho}$
-C
+$R(\rho) = (C_1 / \rho^m)exp^{-C_2\rho}$
+$C$ : 
+$\rho$  :
+$m$ :
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjAzMzY5Niw4MjcxMDk1NzJdfQ==
+eyJoaXN0b3J5IjpbMTkxMzM0MjcxMyw4MjcxMDk1NzJdfQ==
 -->
