@@ -97,7 +97,8 @@ ex) An image :
 - linear classifier는 위에서 말한 방식과 다르게 중요하게 생각하는 변수와 관련없는 변수를 판단해야하는 input output function을 요구한다.
 예를들어
 - linear classifier 혹은 raw pixels에서 동작하는 어느 shallow한 모델은
-같은 자세, 같은 배경의 samoyed와 wolf를 구분하지 못한다.
+같은 자세, 같은 배경의 samoyeds와 wolf를 구분하지 못한다.
+(다른 배경, 다르
  
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
@@ -133,11 +134,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMz
-UxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2
-NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNj
-g4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1
-MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMT
-Y4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1
-MTUwN119
+eyJoaXN0b3J5IjpbLTE3Nzg2NzM2MTksMjk3NzU5MjU5LDg4MD
+AyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2
+NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLT
+E1ODQ1OTUwNDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2
+MjksLTY0MDU2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMT
+Q0NzczMjk0MiwtMTY4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1
+ODIyMl19
 -->
