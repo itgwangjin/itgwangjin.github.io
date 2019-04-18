@@ -121,9 +121,7 @@ ex) An image :
 => Backpropagation을 이용한다.
 b를 보면 알 수 있듯이 $\triangle z$ 
 ## 5. Backpropagation
-
-##
-
+researchers들은 hand-engineered features를   
 
 --- 
  
@@ -147,7 +145,7 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTQ4ODg3MCw1Mzc1NzU4ODksMTUyND
+eyJoaXN0b3J5IjpbLTQzODA2MDQ2NCw1Mzc1NzU4ODksMTUyND
 ExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEs
 LTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNj
 c1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1
