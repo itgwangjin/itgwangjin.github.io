@@ -98,6 +98,7 @@ ex) An image :
 예를들어
 Wolf와 White dog image을 구분하는 모델에서
 다른 포즈로 있고 다른 환경에 있는  white dog 사진은 각각 매우 다를지도 모르지만, 같은 위치와 같은 배경에서 white dog와 wolf의 이미지는 매우 유사하게 보일지도 모른다.
+- linear classifier 혹은 어느 shallow한 ㅂ
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
 ![
@@ -132,11 +133,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDYxODAyOCw4ODAwMjY4MDEsLTEyMT
-M1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNjc1Njgy
-NjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LD
-Y4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5LC02NDA1Njk1
-NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLT
-E2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0
-NTE1MDddfQ==
+eyJoaXN0b3J5IjpbLTExMDMwMjQ3MjIsODgwMDI2ODAxLC0xMj
+EzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4
+MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NS
+w2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5
+NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC
+0xNjg5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkx
+NDUxNTA3XX0=
 -->
