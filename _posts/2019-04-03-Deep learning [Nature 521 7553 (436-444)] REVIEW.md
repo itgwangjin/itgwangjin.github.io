@@ -105,7 +105,7 @@ ex) An image :
 > 2. size invariance : 미지 분류 문제에서 알고리즘이 이미지의 크기가 바뀌더라도 이미지를 분류해 낼 수 있는 능력
  > 3. rotational invariance : 이미지 분류 문제에서 알고리즘이 이미지의 방향이 바뀌더라도 이미지를 분류해 낼 수 있는 능력
 -  classifiers를 좀더 잘 만들기 위해 generic non-linear features를 사용한다. 일명 kernel methods다.
-- 그러나 generic features
+- 그러나 Gaussian kernel과 함께 떠오른 generic features는  learner가 training example 
 
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
@@ -141,11 +141,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTc2MTk5OCwyOTc3NTkyNTksODgwMD
-I2ODAxLC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0
-MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMT
-U4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYy
-OSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxND
-Q3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4
-MjIyXX0=
+eyJoaXN0b3J5IjpbLTE5Mjc2NzYzNzMsMjk3NzU5MjU5LDg4MD
+AyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2
+NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLT
+E1ODQ1OTUwNDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2
+MjksLTY0MDU2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMT
+Q0NzczMjk0MiwtMTY4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1
+ODIyMl19
 -->
