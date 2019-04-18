@@ -121,9 +121,9 @@ ex) An image :
 => Backpropagation을 이용한다.
 b를 보면 알 수 있듯이 $\triangle z$ 
 ## 5. Backpropagation
-과거 Researchers들의 목표는 학습이 가능한 multi-layer networks를 통해 사람이 만든 feature들을 대체해야하는 것이였다.
-Deep learning이 나오며 multi-layer 설계자들은 간단 stochastic gradient descent를 통해 학습시킬 수 있었다.
-
+- 과거 Researchers들의 목표는 학습이 가능한 multi-layer networks를 통해 사람이 만든 feature들을 대체해야하는 것이였다.
+- Deep learning이 나오며 multi-layer 설계자들은 간단 stochastic gradient descent를 통해 학습시킬 수 있었다.
+- module들 input과 internal weight의 
 
 
 --- 
@@ -148,11 +148,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMjQxNzQ0LDUzNzU3NTg4OSwxNTI0MT
-EwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwt
-MTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02Nz
-U2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUw
-NDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MD
-U2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0
-Ml19
+eyJoaXN0b3J5IjpbLTE0MTA1MjExMjAsNTM3NTc1ODg5LDE1Mj
+QxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAx
+LC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLT
+Y3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5
+NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNj
+QwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMy
+OTQyXX0=
 -->
