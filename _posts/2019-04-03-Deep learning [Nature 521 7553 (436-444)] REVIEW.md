@@ -99,13 +99,13 @@ ex) An image :
 - linear classifier 혹은 raw pixels에서 동작하는 어느 shallow한 모델은
 같은 자세, 같은 배경의 samoyeds와 wolf를 구분하지 못한다.
 (단, 다른 배경, 다른 자세의 samoyeds는 구분을 한다)
-- 이것이 왜 shallow한 classifier가 좋은 특성 추출기를 필요로 하는 이유이다.
-> 특성추출기는 invariance dilemma를 풀수있는 것.
+- 이것이 왜 shallow한 classifier가 invariance dilemma를 해결하는 특성 추출기를 필요로 하는 이유이다.
 > **invariance dilemma**
-> invariance dilemma에는 3가지가 있다
 > 1. translational invariance :이미지 분류 문제에서 알고리즘이 이미지에 있는 개체의 위치가 바뀌더라도 이미지를 분류해 낼 수 있는 능력
 > 2. size invariance : 미지 분류 문제에서 알고리즘이 이미지의 크기가 바뀌더라도 이미지를 분류해 낼 수 있는 능력
- > 3. rotational invariance : 이미지 분류 문제에서 알고리즘이 이미지의 방향이 바뀌더라도 이미지를 분류해 낼 수 있는 능력을 의미합니다
+ > 3. rotational invariance : 이미지 분류 문제에서 알고리즘이 이미지의 방향이 바뀌더라도 이미지를 분류해 낼 수 있는 능력
+- 
+
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
 ![
@@ -140,7 +140,7 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjcwMTM3NywyOTc3NTkyNTksODgwMD
+eyJoaXN0b3J5IjpbMTExMDgzMjQ4NSwyOTc3NTkyNTksODgwMD
 I2ODAxLC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0
 MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMT
 U4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYy
