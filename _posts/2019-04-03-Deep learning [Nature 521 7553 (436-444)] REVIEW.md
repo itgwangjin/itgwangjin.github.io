@@ -124,7 +124,7 @@ ex) An image :
 - Deep learning이 나오며 multi-layer 설계자들은 간단 stochastic gradient descent를 통해 학습시킬 수 있었다.
 - module들 input과 internal weight의 함수가 상대적으로 부드러워지고 이를 
 미분이 가능해지자 chain rule for derivatives를 이용하여 backpropagation를 실현 시켰다.
-- backpropagation
+-
 
 --- 
  
@@ -148,11 +148,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTM3ODE3MywxMDEwMDE3MDg4LC0xOD
-c2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0
-MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMT
-A5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMTY3NjAw
-MjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNjg4NjM1MzMsLT
-k1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1MSwtODQ0MjE0
-NzI4XX0=
+eyJoaXN0b3J5IjpbNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4Nz
+Y0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQx
+OSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYxLC0xMD
+k5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNjc2MDAy
+MTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOT
+U3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3
+MjhdfQ==
 -->
