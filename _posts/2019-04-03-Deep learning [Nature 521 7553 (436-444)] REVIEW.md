@@ -96,9 +96,9 @@ ex) An image :
 ### (1) Limit of linear classifier
 - linear classifier는 위에서 말한 방식과 다르게 중요하게 생각하는 변수와 관련없는 변수를 판단해야하는 input output function을 요구한다.
 예를들어
-Wolf와 White dog image을 구분하는 모델에서
-다른 포즈로 있고 다른 환경에 있는  white dog 사진은 각각 매우 다를지도 모르지만, 같은 위치와 같은 배경에서 white dog와 wolf의 이미지는 매우 유사하게 보일지도 모른다.
-- linear classifier 혹은 raw pixels에서 동작하는 어느 shallow한 모델은 
+- linear classifier 혹은 raw pixels에서 동작하는 어느 shallow한 모델은
+같은 자세, 같은 배경의 samoyed와 wolf를 구분하지 못한다.
+ 
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
 ![
@@ -133,11 +133,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjE1Nzc4Myw4ODAwMjY4MDEsLTEyMT
-M1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNjc1Njgy
-NjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LD
-Y4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5LC02NDA1Njk1
-NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLT
-E2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0
-NTE1MDddfQ==
+eyJoaXN0b3J5IjpbMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMz
+UxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2
+NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNj
+g4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1
+MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMT
+Y4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1ODIyMiwtMTk5MTQ1
+MTUwN119
 -->
