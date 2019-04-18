@@ -121,7 +121,7 @@ ex) An image :
 => Backpropagation을 이용한다.
 b를 보면 알 수 있듯이 $\triangle z$ 
 ## 5. Backpropagation
-researchers들은 학습이 가능한 multi-layer networks와 함께 손수만든 feature들을 대체하고 ㅣㅅ펑ㅆ다.
+과거 Researchers들의 목표는 학습이 가능한 multi-layer networks를 통해 사람이 만든 feature들을 대체해왔다.
  
 
 --- 
@@ -146,11 +146,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MzMwMjQ1LDUzNzU3NTg4OSwxNTI0MT
-EwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwt
-MTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02Nz
-U2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUw
-NDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MD
-U2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0
-Ml19
+eyJoaXN0b3J5IjpbLTIxODk5MDUyOCw1Mzc1NzU4ODksMTUyND
+ExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEs
+LTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNj
+c1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1
+MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5LC02ND
+A1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5
+NDJdfQ==
 -->
