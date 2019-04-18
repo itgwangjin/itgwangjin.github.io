@@ -99,7 +99,11 @@ ex) An image :
 - linear classifier 혹은 raw pixels에서 동작하는 어느 shallow한 모델은
 같은 자세, 같은 배경의 samoyeds와 wolf를 구분하지 못한다.
 (단, 다른 배경, 다른 자세의 samoyeds는 구분을 한다)
-- 이것이 왜 shallow한 classifier가 좋은 특성
+- 이것이 왜 shallow한 classifier가 좋은 특성 추출기를 필요로 하는 이유이다.
+> 특성추출기는 invariance dilemma를 풀수있는 것.
+> **invariance dilemma**
+> 변(translational invariance)
+이미지 분류 문제에서 알고리즘이 이미지에 있는 개체의 위치가 바뀌더라도 이미지를 분류해 낼 수 있는 능력을 의미합니다. 예를 들어 이러한 능력을 갖춘 알고리즘은 강아지가 프레임의 중앙에 있든 왼쪽 끝에 있든 간에 강아지를 식별해 낼 수 있습니다.
  
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
@@ -135,7 +139,7 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzMwOTY4MywyOTc3NTkyNTksODgwMD
+eyJoaXN0b3J5IjpbLTY4NDM1ODY2OCwyOTc3NTkyNTksODgwMD
 I2ODAxLC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0
 MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMT
 U4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYy
