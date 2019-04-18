@@ -109,7 +109,8 @@ ex) An image :
 - 전통적인 옵션은 직접 좋은 feature 추출기를 디자인하는거고 이제는 좋은 features들이 general-purpose learning 절차만 따라간다면 직접 디자인 하는 것을 피할 수 있다 => 이것이 deep learning의 큰 장점이다.
 - deep learning architecture는 간단한 modules의 다발로 이루어진 layer의 다발이다.
 - 각 모듈은  input값을 선택성과 대표성의 불변을 증가시킨다.
-- 5~20정도 되는 multiple non-linear layers과 함께 시스템은 이제 원한미세한 디테일도 반응하고, 크게 관련없는(변수 ex) 배경, 주변환경)들은    function
+- 5~20정도 되는 multiple non-linear layers과 함께 시스템은 이제 Samoyeds의작은 디테일도 민감하게 반응하고, 크게 관련없는(변수 ex) 배경, 주변환경)들은    무시하는다.
+
 
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
@@ -145,11 +146,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTkzNzI4NCwxNTI0MTEwMDU0LC02NT
-U1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2
-MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMT
-Y3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNjg4NjM1
-MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1MSwtOD
-Q0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5
-NDAyMl19
+eyJoaXN0b3J5IjpbLTgzNjk5NTAsMTUyNDExMDA1NCwtNjU1NT
+AyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEs
+LTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2Nz
+YwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMz
+LC05NTc0NDAxNzYsMjc4NjgzNjI5LC02NDA1Njk1NTEsLTg0ND
+IxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQw
+MjJdfQ==
 -->
