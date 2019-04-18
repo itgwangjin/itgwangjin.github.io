@@ -76,7 +76,7 @@ ex) An image :
 
 ### (1) Objective function
 실제로 대부분의 실무자(practitioners)는 stochastic gradient descent(SGD)를 사용한다.
-#### SGD(Stochastic Gradient Descent)
+#### - SGD(Stochastic Gradient Descent)
 1.  Output과 Error를 계산
 2.  Example를 통해 평균 기울기를 계산하고, weight를 적절히 조절한다.
 3.  Objective function 의 평균이 더이상 줄어들지 않을때까지 1,2번을 반복한다.
@@ -88,12 +88,12 @@ ex) An image :
 - test set은 machine의 일반화 능력을 테스트한다.
 - 일반화는 새로운 입력값에 설득력을 더한다. 
 
-## linear classifier
+## 4. linear classifier
 - 현재 머신러닝에서 실무에 나와있는 applications중 다수는 linear classifier를 제일 중점적으로 사용한다.
 - 이진 분류기는 feature vector의 구성물의 합을 계산한다.
 - 만약 가중화된 합이 **threshold**을 넘으면 input은 특정한 범주에 속하는걸로 분류한다.
 - 1960년도 이래로 linear classified는 오직 input을 간단한 범주로 분류할 수 있었고 반공간은 hyperplane에 의해 분별된다.
-### Limit of linear classifier
+### (1) Limit of linear classifier
 - linear classifier는 위에서 말한 방식과 다르게 중요하게 생각하는 변수와 관련없는 변수를 판단해야하는 input output function을 요구한다.
 예를들어
 Wolf와 White dog image을 구분하는 모델에서
@@ -105,7 +105,7 @@ Wolf와 White dog image을 구분하는 모델에서
 - input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 어떻게 줄 수  있을까?
 => Backpropagation을 이용한다.
 b를 보면 알 수 있듯이 $\triangle z$ 
-### Backpropagation
+### (2) Backpropagation
 
 ##
 
@@ -132,11 +132,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMDI2ODAxLC0xMjEzNTE5MjYxLC0xMD
-k5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNjc2MDAy
-MTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUzMywtOT
-U3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04NDQyMTQ3
-MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0MDIyLD
-kwODM4MjIyMiwtMTMzMzU4MjIyLC0xOTkxNDUxNTA3LC0xMDgz
-MTU0NDI2XX0=
+eyJoaXN0b3J5IjpbMTQ0NjM0MjcyNSw4ODAwMjY4MDEsLTEyMT
+M1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNjc1Njgy
+NjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LD
+Y4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5LC02NDA1Njk1
+NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5NDIsLT
+E2ODkwOTQwMjIsOTA4MzgyMjIyLC0xMzMzNTgyMjIsLTE5OTE0
+NTE1MDddfQ==
 -->
