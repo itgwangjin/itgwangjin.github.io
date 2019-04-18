@@ -120,7 +120,7 @@ ex) An image :
 - input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 어떻게 줄 수  있을까?
 => Backpropagation을 이용한다.
 b를 보면 알 수 있듯이 $\triangle z$ 
-### (2) Backpropagation
+## 5. Backpropagation
 
 ##
 
@@ -147,11 +147,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NT
-UwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYx
-LC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNj
-c2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUz
-MywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04ND
-QyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0
-MDIyXX0=
+eyJoaXN0b3J5IjpbLTIxNTQ4ODg3MCw1Mzc1NzU4ODksMTUyND
+ExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEs
+LTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNj
+c1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1
+MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYsMjc4NjgzNjI5LC02ND
+A1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMjMwNDE4LDE0NDc3MzI5
+NDJdfQ==
 -->
