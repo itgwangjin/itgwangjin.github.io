@@ -123,8 +123,8 @@ b를 보면 알 수 있듯이 $\triangle z$
 ## 5. Backpropagation
 - 과거 Researchers들의 목표는 학습이 가능한 multi-layer networks를 통해 사람이 만든 feature들을 대체해야하는 것이였다.
 - Deep learning이 나오며 multi-layer 설계자들은 간단 stochastic gradient descent를 통해 학습시킬 수 있었다.
-- module들 input과 internal weight의 
-
+- module들 input과 internal weight의 함수가 상대적으로 부드러워지고 이를 
+미분이 가능해지자 backpropagation
 
 --- 
  
@@ -148,7 +148,7 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA1MjExMjAsNTM3NTc1ODg5LDE1Mj
+eyJoaXN0b3J5IjpbLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1Mj
 QxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAx
 LC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLT
 Y3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5
