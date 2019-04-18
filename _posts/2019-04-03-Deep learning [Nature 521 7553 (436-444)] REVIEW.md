@@ -123,7 +123,8 @@ ex) An image :
 - 과거 Researchers들의 목표는 학습이 가능한 multi-layer networks를 통해 사람이 만든 feature들을 대체해야하는 것이였다.
 - Deep learning이 나오며 multi-layer 설계자들은 간단 stochastic gradient descent를 통해 학습시킬 수 있었다.
 - module들 input과 internal weight의 함수가 상대적으로 부드러워지고 이를 
-미분이 가능해지자  backpropagation
+미분이 가능해지자 chain rule for derivatives를 이용하여 backpropagation를 실현 시켰다.
+- backpropagation
 
 --- 
  
@@ -147,7 +148,7 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODgzMDA1MSwtMTg3NjQ5NDExMiw1Mz
+eyJoaXN0b3J5IjpbMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mz
 c1NzU4ODksMTUyNDExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1
 OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLT
 Y5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2
