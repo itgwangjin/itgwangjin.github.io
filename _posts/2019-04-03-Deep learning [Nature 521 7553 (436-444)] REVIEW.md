@@ -110,21 +110,20 @@ ex) An image :
 - 전통적인 옵션은 직접 좋은 feature 추출기를 디자인하는거고 이제는 좋은 features들이 general-purpose learning 절차만 따라간다면 직접 디자인 하는 것을 피할 수 있다 => 이것이 deep learning의 큰 장점이다.
 - deep learning architecture는 간단한 modules의 다발로 이루어진 layer의 다발이다.
 - 각 모듈은  input값을 선택성과 대표성의 불변을 증가시킨다.
-- 5~20정도 되는 multiple non-linear layers과 함께 시스템은 이제 Samoyeds의작은 디테일도 민감하게 반응하고, 크게 관련없는(변수 ex) 배경, 주변환경)들은    무시하는다.
+- 5~20정도 되는 multiple non-linear layers과 함께 시스템은 이제 Samoyeds의작은 디테일도 민감하게 반응하고, 크게 관련없는(변수 ex) 배경, 주변환경)들은    무시한다.
 
 
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
-- raw pixels은 rkxdms zk
+
 ![
 ](https://lh3.googleusercontent.com/Pr2c5tDyDU1sozTJh9jbe1862w9ID2SwQ54kiTSkHcXB4blH8dcnXwCoTdfTnuP7I4XWNzWJ32BV "figure1")
 - input space에서 규칙적인 격자(left image)에서 hidden unit에 의해 변화를 어떻게 줄 수  있을까?
 => Backpropagation을 이용한다.
-b를 보면 알 수 있듯이 $\triangle z$ 
 ## 5. Backpropagation
 - 과거 Researchers들의 목표는 학습이 가능한 multi-layer networks를 통해 사람이 만든 feature들을 대체해야하는 것이였다.
 - Deep learning이 나오며 multi-layer 설계자들은 간단 stochastic gradient descent를 통해 학습시킬 수 있었다.
 - module들 input과 internal weight의 함수가 상대적으로 부드러워지고 이를 
-미분이 가능해지자 backpropagation
+미분이 가능해지자  backpropagation
 
 --- 
  
@@ -148,11 +147,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1Mj
-QxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAx
-LC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLT
-Y3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5
-NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNj
-QwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMy
-OTQyXX0=
+eyJoaXN0b3J5IjpbMTYwODgzMDA1MSwtMTg3NjQ5NDExMiw1Mz
+c1NzU4ODksMTUyNDExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1
+OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLT
+Y5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2
+Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMzLC05NTc0NDAxNzYsMj
+c4NjgzNjI5LC02NDA1Njk1NTEsLTg0NDIxNDcyOCwtNjEyMjMw
+NDE4XX0=
 -->
