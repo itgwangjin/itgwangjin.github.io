@@ -107,7 +107,8 @@ ex) An image :
 -  classifiers를 좀더 잘 만들기 위해 generic non-linear features를 사용한다. 일명 kernel methods다.
 - 그러나 Gaussian kernel과 함께 떠오른 generic features는  learner가 training examples과 아주멀리 떨어지는것을 허용치 않는다.
 - 전통적인 옵션은 직접 좋은 feature 추출기를 디자인하는거고 이제는 좋은 features들이 general-purpose learning 절차만 따라간다면 직접 디자인 하는 것을 피할 수 있다 => 이것이 deep learning의 큰 장점이다.
-- deep learning architecture는 간단한 modules의  
+- deep learning architecture는 간단한 modules의 다발로 이루어진 layer의 다발이다.
+- 각 모듈은  
 
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
@@ -143,11 +144,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTUwMjQxOSwyOTc3NTkyNTksODgwMD
-I2ODAxLC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0
-MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMT
-U4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYy
-OSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxND
-Q3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4
+eyJoaXN0b3J5IjpbMTUyNDExMDA1NCwtNjU1NTAyNDE5LDI5Nz
+c1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEsLTEwOTk4NzQx
+ODIsLTY5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2NzYwMDIxMiwxNj
+gwOTI2Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMzLC05NTc0NDAx
+NzYsMjc4NjgzNjI5LC02NDA1Njk1NTEsLTg0NDIxNDcyOCwtNj
+EyMjMwNDE4LDE0NDc3MzI5NDIsLTE2ODkwOTQwMjIsOTA4Mzgy
 MjIyXX0=
 -->
