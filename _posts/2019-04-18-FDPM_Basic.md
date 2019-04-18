@@ -4,10 +4,12 @@ collection: post
 permalink: /posts/2019/04/FDPM_Basic
 date: 2019-04-18
 tag:
-  - absorb
-  - overall DNN
-  - CNN
+  - absorption
+  - scattering
+  - FDPM
+  - Frequency domain
+  - 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTUxNjY4M119
+eyJoaXN0b3J5IjpbLTM1NTczMjgwXX0=
 -->
