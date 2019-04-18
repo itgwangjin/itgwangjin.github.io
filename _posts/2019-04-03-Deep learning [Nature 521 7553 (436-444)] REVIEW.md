@@ -98,7 +98,8 @@ ex) An image :
 예를들어
 - linear classifier 혹은 raw pixels에서 동작하는 어느 shallow한 모델은
 같은 자세, 같은 배경의 samoyeds와 wolf를 구분하지 못한다.
-(다른 배경, 다르
+(단, 다른 배경, 다른 자세의 samoyeds는 구분을 한다)
+- 이것이 왜 shallow한 classifier가 좋은 특성
  
 - Multi-layer neural network에서 작동하는 shallow한 linear classifier는 input space를 선형으로 분류가능한 데이터로 왜곡할 수 있다.
 - raw pixels은 rkxdms zk
@@ -134,11 +135,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg2NzM2MTksMjk3NzU5MjU5LDg4MD
-AyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2
-NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLT
-E1ODQ1OTUwNDUsNjg4NjM1MzMsLTk1NzQ0MDE3NiwyNzg2ODM2
-MjksLTY0MDU2OTU1MSwtODQ0MjE0NzI4LC02MTIyMzA0MTgsMT
-Q0NzczMjk0MiwtMTY4OTA5NDAyMiw5MDgzODIyMjIsLTEzMzM1
-ODIyMl19
+eyJoaXN0b3J5IjpbMTI2NzMwOTY4MywyOTc3NTkyNTksODgwMD
+I2ODAxLC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0
+MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMT
+U4NDU5NTA0NSw2ODg2MzUzMywtOTU3NDQwMTc2LDI3ODY4MzYy
+OSwtNjQwNTY5NTUxLC04NDQyMTQ3MjgsLTYxMjIzMDQxOCwxND
+Q3NzMyOTQyLC0xNjg5MDk0MDIyLDkwODM4MjIyMiwtMTMzMzU4
+MjIyXX0=
 -->
