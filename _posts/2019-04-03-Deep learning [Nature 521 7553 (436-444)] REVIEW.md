@@ -88,7 +88,7 @@ ex) An image :
 - test set은 machine의 일반화 능력을 테스트한다.
 - 일반화는 새로운 입력값에 설득력을 더한다. 
 
-## 4. Back propagation
+## 4. linear classifier
 - 현재 머신러닝에서 실무에 나와있는 applications중 다수는 linear classifier를 제일 중점적으로 사용한다.
 - 이진 분류기는 feature vector의 구성물의 합을 계산한다.
 - 만약 가중화된 합이 **threshold**을 넘으면 input은 특정한 범주에 속하는걸로 분류한다.
@@ -147,11 +147,11 @@ illustrative example| 설득력있는 예
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTU2NzA2NiwxNTI0MTEwMDU0LC02NT
-U1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2
-MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMT
-Y3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNjg4NjM1
-MzMsLTk1NzQ0MDE3NiwyNzg2ODM2MjksLTY0MDU2OTU1MSwtOD
-Q0MjE0NzI4LC02MTIyMzA0MTgsMTQ0NzczMjk0MiwtMTY4OTA5
-NDAyMl19
+eyJoaXN0b3J5IjpbNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NT
+UwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYx
+LC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNj
+c2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUz
+MywtOTU3NDQwMTc2LDI3ODY4MzYyOSwtNjQwNTY5NTUxLC04ND
+QyMTQ3MjgsLTYxMjIzMDQxOCwxNDQ3NzMyOTQyLC0xNjg5MDk0
+MDIyXX0=
 -->
