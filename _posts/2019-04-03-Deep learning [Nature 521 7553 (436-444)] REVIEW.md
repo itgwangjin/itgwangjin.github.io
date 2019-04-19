@@ -171,6 +171,7 @@ colour image는 3개의 2D array로 구성되어 있다.
 여기에는 pixel 마다 RGB와 같은 3개의 채널내의 세기 정도가 포함되어 있다.
 
 많은 data 양상(modality)은 multiple array의 형태에 있다.
+1. 1D느
 
 - 
 
@@ -197,7 +198,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MzczODUxLDE3ODI4NDc3NTMsMTY1NT
+eyJoaXN0b3J5IjpbNzEwMjI4OTQzLDE3ODI4NDc3NTMsMTY1NT
 Q4NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEs
 MTczODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MD
 Q4NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0
