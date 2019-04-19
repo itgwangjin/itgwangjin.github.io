@@ -218,8 +218,10 @@ CNN을 통한 Backpropagation 기울기는 일반 deep network로 한것 만큼 
 deep neural networks는 많은 natural 시그널이 계층구조로 되어있다는 특성을 활용한다.
 > 계층구조 의미는 higher-level 특성이 lower-level의 특성으로 구성된걸로 이루어 졌다는것을 뜻한다.
 
-모서리의 loocal combinations는 motifs를 형성하고 
-motifs는 parts를 조립하고 parts는 object를 형성한다.
+- 예를들어 motifs 이미지에서
+1. 모서리의 loocal combinations로 motifs를 형성 
+2. 형성된 motifs는 parts를 조립
+3. parts로 object를 형성한다.
 
 
 - 
@@ -247,7 +249,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTAyOTU3NSwtMTI0ODc5MDM1OCw1OT
+eyJoaXN0b3J5IjpbMTEyNDMwODYyNCwtMTI0ODc5MDM1OCw1OT
 EwNjQ0NTYsMjAzMTI5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4
 OTM3LDE3ODI4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMT
 k4NDkyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2
