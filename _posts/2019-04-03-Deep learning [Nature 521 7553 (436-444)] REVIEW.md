@@ -212,7 +212,7 @@ convolution, non-linearity, pooling stages 이후  더 convolutional하고 fully
 
 CNN을 통한 Backpropagation 기울기는 일반 deep network로 한것 만큼 간단하다 모든 filter banks내 모든 가중치는 trained될 수 있다.
 
-deep neural networks는 활용한다 많은 natural 시그널 이 구성ㅇ
+deep neural networks는 많은 natural 시그널 이 피라미드 구조로 되어있다는 특성을 활용한다.
 
 
 - 
@@ -240,11 +240,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM5MTY0NjIsMjAzMTI5NDIwMSwtMT
-kyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4NDc3NTMsMTY1NTQ4
-NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEsMT
-czODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4
-NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MD
-E4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODld
-fQ==
+eyJoaXN0b3J5IjpbNTkxMDY0NDU2LDIwMzEyOTQyMDEsLTE5Mj
+A2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODcz
+NTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3Mz
+gyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcs
+MTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxOD
+U4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5XX0=
+
 -->
