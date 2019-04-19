@@ -158,8 +158,10 @@ ex) An image :
 - 2012년에는 주요 speech groups이 많이 개발되었고 이미 android에 배치 되었었다.
 - 작은 데이터셋을 위해 unsupervised pre-training은 overfitting을 방지했고 결과적으로 labelling된 sxamples 의 수가 적을떄 아주 좋은 성능을 냈다.
 - 이리하여 deep learning이 재건되었고 이것은 pr-training stage는 small data set만큼은 잘 작동한다는 것을 알 수 있었다.
-- 그러나 한 deep하고 feedforward한 network type에서 
+- 그러나 한 deep하고 feedforward한 network type에서 인접한 layers들 사이로 fully connected한 
 
+## CNN의 등장
+CNN의 등장은 많은 현실적인 문제를 해결했다.
 
 --- 
  
@@ -183,7 +185,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA1ODQ3ODQsNTQzMTgxNzU2LDE5OD
+eyJoaXN0b3J5IjpbLTE2MDMxMzYxMTksNTQzMTgxNzU2LDE5OD
 Q5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2Niwt
 NzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2Nz
 ExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4
