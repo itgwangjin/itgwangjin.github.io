@@ -203,7 +203,7 @@ CNN은 구조가 2배 인 이유는
 **pooling layer**는 의미상으로 비삿한 features를 한개로 합쳐주는 역할을 한다. 왜냐하면 motif를 형성한 features 의 상대적인 위치는 약간 달라질수도 있고
 
 확실하게 motif를 발견하는것은 각 feature의 위치를 coarse-graining(굵게 나뭇결처럼 내는것)하는 것으로 끝낼 수있다.
-
+### (2) pooling
 
 
 
@@ -232,11 +232,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNzM2Njc1LC0xOTIwNjA3MDk5LC03Mz
-A3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1
-NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNT
-gwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5Miwt
-NDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MD
-g4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0XX0=
-
+eyJoaXN0b3J5IjpbLTE0ODYyMjAwOTcsLTE5MjA2MDcwOTksLT
+czMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgx
+NzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3Mz
+A1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1Mzky
+LC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMT
+cwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTRd
+fQ==
 -->
