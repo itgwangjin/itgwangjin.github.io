@@ -243,7 +243,11 @@ convolutional network를  1,000개의 다른 클래스를 포함하는 백만개
 이러한 성공은 computer vision분야에서 큰 성공을 거뒀는데, ConvNet은 이제 거의 모든 인지와 인식분야에서 전반적으로 쓰인다.
 
 최근 놀랄만한 증명은 ConvNets과 recurrent net modules를 image 제목 생성을 위해 조합하는것이다.
-![|center|300x0](https://lh3.googleusercontent.com/RgrSg0S-jyLydZaWVs3LcW3tgKG4dFFW68GnH2DW0vODUdQtdU07isSaRw8SFRk9YvJmM_3U5l5b "cnn and rnn")
+![|center|300x0|](https://lh3.googleusercontent.com/RgrSg0S-jyLydZaWVs3LcW3tgKG4dFFW68GnH2DW0vODUdQtdU07isSaRw8SFRk9YvJmM_3U5l5b "cnn and rnn")
+[예 위와같이 채소를 파는 아주머니들이 있는 사진]
+
+
+
 
 - 
 
@@ -270,11 +274,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg4MTYwMjQsMTIxODg2NTU2LC0xND
-U1OTEwMTcyLDE5OTY3ODQ1MTIsNTE3MDkyNDg3LDE3NTg4MzU5
-NTEsMTc5NzY1NDI3MiwtMTI0ODc5MDM1OCw1OTEwNjQ0NTYsMj
-AzMTI5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4
-NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMi
-wtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2LC03NTA5NDkz
-NDBdfQ==
+eyJoaXN0b3J5IjpbNjEyMjc4NjgzLDEyMTg4NjU1NiwtMTQ1NT
+kxMDE3MiwxOTk2Nzg0NTEyLDUxNzA5MjQ4NywxNzU4ODM1OTUx
+LDE3OTc2NTQyNzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMz
+EyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3
+NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLT
+IxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQw
+XX0=
 -->
