@@ -146,7 +146,8 @@ ex) An image :
 그러므로 saddle points중 algorithm이 멈추는 문제는 별로 중요하지 않다.
 ## 뭐하지
 - deep feedforward networks의 관심은 2006년도에 다시 살아났따. researcher들이 CIFAR(Canadian Institute for Advanced Research)에 의해 모여졌기 때문이다.
-- researcher들은 unsupervised learning 절차를 소개했다. 이 절차는 특성 검출기에서 
+- researcher들은 unsupervised learning 절차를 소개했다. 이 절차는 특성 검출기에서 labeling 된 데이터를 요구하지 않는 layers를 만들 수 있다.
+- 각 layers에서 특성을 배우는 layer들에서의 목적은 재구성할수 있거나 특성 검출기의 
 
 --- 
  
@@ -170,11 +171,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzcyODE5LC03NTA5NDkzNDAsMTI2OT
-U2MDQ4NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1
-ODU0MDE4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1Nz
-U4ODksMTUyNDExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4
-ODAwMjY4MDEsLTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLTY5Nj
-YyNjQyMiwtNjc1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2
-XX0=
+eyJoaXN0b3J5IjpbLTEyNjMwMTE5NjcsLTc1MDk0OTM0MCwxMj
+Y5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2Nzcw
+LDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNz
+U3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5
+LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNj
+k2NjI2NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYz
+NzZdfQ==
 -->
