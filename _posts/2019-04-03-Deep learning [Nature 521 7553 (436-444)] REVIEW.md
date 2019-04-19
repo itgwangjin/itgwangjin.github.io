@@ -165,8 +165,8 @@ CNN의 등장은 많은 Computer vision에서의 현실적인 문제를 해결�
 ### (1) CNN의 특징
 Convolution Neural Network는 multiple arrays 형태로 구성되어 있다. 
 
-- 예를 들어 3개의 2D
-
+- 예를 들어.
+colour image는 3개의 2D  
 
 
 --- 
@@ -191,11 +191,10 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg1MzY5NDcsMTY1NTQ4NzM1Niw1ND
-MxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1
-LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NT
-UzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAx
-MDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMD
-A1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDFdfQ==
-
+eyJoaXN0b3J5IjpbLTkyNTY4MDk0OCwxNjU1NDg3MzU2LDU0Mz
+E4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUs
+NzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NT
+M5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEw
+MDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMD
+U0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMV19
 -->
