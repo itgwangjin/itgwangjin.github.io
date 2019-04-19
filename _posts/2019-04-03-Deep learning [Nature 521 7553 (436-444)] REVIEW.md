@@ -162,6 +162,9 @@ ex) An image :
 - 그러나 한 deep하고 feedforward한 network type에서 인접한 layers들 사이로 fully connected한 
 
 ## CNN의 등장
+[참고할것1](https://hamait.tistory.com/535)
+[참고할것2]
+
 CNN의 등장은 많은 Computer vision에서의 현실적인 문제를 해결했다.
 ### (1) CNN의 특징
 Convolution Neural Network는 multiple arrays 형태로 구성되어 있다. 
@@ -240,11 +243,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMDY0NDU2LDIwMzEyOTQyMDEsLTE5Mj
-A2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODcz
-NTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3Mz
-gyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcs
-MTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxOD
-U4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5XX0=
+eyJoaXN0b3J5IjpbMjAxNjk2Mjc4OCw1OTEwNjQ0NTYsMjAzMT
+I5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4NDc3
+NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMj
+E1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAs
+MTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNj
+c3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMl19
 
 -->
