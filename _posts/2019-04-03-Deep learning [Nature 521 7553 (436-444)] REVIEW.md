@@ -208,7 +208,9 @@ CNN은 구조가 2배 인 이유는
 
 인접한 pooling units는 input을 patch로 부터 가져옵니다. patch는 1 row 혹은 col 보다 더 이동되었고 그래서 representation의 차원을 줄이고   왜곡의 불변성을 만듭니다.  
 
-2-3개의 convolution,non-linearity하고 pooling
+convolution, non-linearity, pooling stages 이후  더 convolutional하고 fully-connected layers가 나타난다.
+
+Backpropagatin
 
 
 - 
@@ -236,7 +238,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc4MDQzNTksMjAzMTI5NDIwMSwtMT
+eyJoaXN0b3J5IjpbLTEwNzA1NzY5NTksMjAzMTI5NDIwMSwtMT
 kyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4NDc3NTMsMTY1NTQ4
 NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEsMT
 czODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4
