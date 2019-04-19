@@ -225,7 +225,7 @@ deep neural networks는 많은 natural 시그널이 계층구조로 되어있다
 
 pooling은 이전 레이어에서의 요소가 위치와 외형이 다를 경우에만 아주 조금 다른것의 대표성을 허용한다.
 
-CNN에서의 convol
+CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic noti
 
 
 - 
@@ -253,11 +253,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjA5MzM0NiwxNzU4ODM1OTUxLDE3OT
-c2NTQyNzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMzEyOTQy
-MDEsLTE5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLD
-E2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3
-MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNj
-k1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzBd
-fQ==
+eyJoaXN0b3J5IjpbLTE4NjE0MTkxODMsMTc1ODgzNTk1MSwxNz
+k3NjU0MjcyLC0xMjQ4NzkwMzU4LDU5MTA2NDQ1NiwyMDMxMjk0
+MjAxLC0xOTIwNjA3MDk5LC03MzA3Mjg5MzcsMTc4Mjg0Nzc1My
+wxNjU1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUx
+NzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMj
+Y5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2Nzcw
+XX0=
 -->
