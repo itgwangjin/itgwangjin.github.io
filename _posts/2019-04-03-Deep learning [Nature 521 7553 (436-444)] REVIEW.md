@@ -200,7 +200,8 @@ CNN은 구조가 2배 인 이유는
 수학적으로 feature map에 의해 수행된 연산자를 필터링은 별개의 convolution이다. 그러므로 이름이다.
 
 비록 convolution layer의 역할이 이전 layer로 부터의 features의 접합을 발견하는것일지라도,
-**pooling layer**는 의미상으로 비삿한 features를 한개로 합쳐주는 역할을 한다. 왜냐하면 features
+**pooling layer**는 의미상으로 비삿한 features를 한개로 합쳐주는 역할을 한다. 왜냐하면 motif를 형성한 features 의 상대적인 위치는 약간 달라질수도 있고
+확실하게 motif를 인지하는것은 
 
 
 - 
@@ -228,11 +229,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY4NDQ2NzQsLTE5MjA2MDcwOTksLT
-czMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgx
-NzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3Mz
-A1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1Mzky
-LC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMT
-cwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTRd
-fQ==
+eyJoaXN0b3J5IjpbODY2NTAyMzEsLTE5MjA2MDcwOTksLTczMD
+cyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2
+LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1OD
+A2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00
+ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwOD
+gsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTRdfQ==
+
 -->
