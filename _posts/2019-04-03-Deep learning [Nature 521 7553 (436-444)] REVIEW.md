@@ -217,6 +217,8 @@ CNN을 통한 Backpropagation 기울기는 일반 deep network로 한것 만큼 
 
 deep neural networks는 많은 natural 시그널 이 피라미드 구조로 되어있다는 특성을 활용한다.
 
+le
+
 
 - 
 
@@ -243,11 +245,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMz
-EyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3
-NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLT
-IxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQw
-LDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMT
-Y3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTJd
+eyJoaXN0b3J5IjpbLTE2OTMxMTIwODMsLTEyNDg3OTAzNTgsNT
+kxMDY0NDU2LDIwMzEyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcy
+ODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LD
+E5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2
+NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00OD
+Y2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODhd
 fQ==
 -->
