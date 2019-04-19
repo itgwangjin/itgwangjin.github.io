@@ -191,6 +191,10 @@ weight이 적용된 local 하브이 결과는 ReLU와 같은 non-linearity를 �
 feature map내 모든 units은 같은 filter bank를 공유한다.
 단, 한 layer내 다른 feature maps은 다른 filter bank를 사용한다.
 
+CNN은 구조가 2배 인 이유는
+첫째로 값들의  local groups은 종종 높게 연관된어있고
+ 
+
 - 
 
 
@@ -216,11 +220,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA2MDcwOTksLTczMDcyODkzNywxNz
-gyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3
-MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOT
-Q5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2
-NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OT
-QxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOV19
-
+eyJoaXN0b3J5IjpbLTE0Nzg2NTY0NjQsLTE5MjA2MDcwOTksLT
+czMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgx
+NzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3Mz
+A1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1Mzky
+LC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMT
+cwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTRd
+fQ==
 -->
