@@ -149,7 +149,7 @@ ex) An image :
 - researcher들은 unsupervised learning 절차를 소개했다. 이 절차는 특성 검출기에서 labeling 된 데이터를 요구하지 않는 layers를 만들 수 있다.
 - 각 layers에서 특성을 배우는 layer들에서의 목적은 재구성할수 있거나 특성 검출기의 활동을 모델링하는 것이다.
 - pre-training된 layer는 재구성 objective를 사용하는 더 복잡해진 특성검출기에 의해 deep network의 weights는 초기에 sensible한 values를 설정할 수 있었다.
-- output의 마지막 layerㄴㄴ 
+- output의 마지막 layer
 
 --- 
  
@@ -173,11 +173,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NT
-YwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4
-NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NT
-g4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4
-MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2Nj
-I2NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzZd
-fQ==
+eyJoaXN0b3J5IjpbLTE4Njg5NDg4NzgsNzMwNTgwNjYsLTc1MD
+k0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIs
+NjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2ND
+k0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTks
+Mjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OT
+g3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMTY3NjAwMjEy
+XX0=
 -->
