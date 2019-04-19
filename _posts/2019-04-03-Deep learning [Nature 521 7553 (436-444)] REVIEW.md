@@ -157,7 +157,8 @@ ex) An image :
 이것은 기존에 녹음없이 음성인식하는 방식은 적은 단어만 음성을 녹음시키고 인식하는 방식이 였는데 Deep learning의 탄생으로 많은 단어를 처리 수 있었다.
 - 2012년에는 주요 speech groups이 많이 개발되었고 이미 android에 배치 되었었다.
 - 작은 데이터셋을 위해 unsupervised pre-training은 overfitting을 방지했고 결과적으로 labelling된 sxamples 의 수가 적을떄 아주 좋은 성능을 냈다.
-- 이리하여 deep learning이 재건되
+- 이리하여 deep learning이 재건되었고 이것은 pr-training stage는 small data set만큼은 잘 작동한다는 것을 알 수 있었다.
+- 그러나 한 deep하고 feedforward한 network type에서 
 
 
 --- 
@@ -182,10 +183,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NDI3NTUyLDU0MzE4MTc1NiwxOTg0OT
-I3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1
-MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMT
-IsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2
-NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MT
-ksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MV19
+eyJoaXN0b3J5IjpbLTE0NzA1ODQ3ODQsNTQzMTgxNzU2LDE5OD
+Q5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2Niwt
+NzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2Nz
+ExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4
+NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMj
+QxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYxXX0=
+
 -->
