@@ -187,6 +187,7 @@ convolutional layers와 pooling layer이다.
 
 convolutional layer내 units들은 feature maps안에 생성된다. 각각 unit들은 filter bank라고 불리는 weights의 세트를 통해 이전 레이어의 특징 맵안의 local patches와 연결되어 있다.
 
+
 - 
 
 
@@ -212,11 +213,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NT
-U0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUx
-LDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1Nj
-A0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1
-NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NTc1OD
-g5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTldfQ==
+eyJoaXN0b3J5IjpbNjY4OTI0MTAxLC03MzA3Mjg5MzcsMTc4Mj
+g0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIy
+LC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OT
+M0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2
+MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MT
+EyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTldfQ==
 
 -->
