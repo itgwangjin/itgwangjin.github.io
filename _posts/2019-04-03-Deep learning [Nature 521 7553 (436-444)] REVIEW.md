@@ -228,13 +228,14 @@ pooling은 이전 레이어에서의 요소가 위치와 외형이 다를 경우
 CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic 
 [ 이후 CNN에 대한 역사는 생략하고 바로 image understanding with deep convolutional network로 넘어가겠습니다.]
 
-### Image understanding with deep convolutional networks
+## Image understanding with deep convolutional networks
 2000년도에 CNN은 detection과 segmentation, image내 object와 region recognition에서 성공을 거뒀다.
 그 중에서 face recognition에서 큰 성공을 거뒀다.
 중요하게 이미지는 pixel 단위에서 라벨링 될 수 있다.
 
 자율주행에도 쓰이고 mobileye나 nvidia와 같은 회사는 cnn방식으로  자동차에 최신 비전시스템에 사용했다.
-이런 성공에도 불구하고 CNN은 컴퓨터비전과 머신러닝 커뮤
+이런 성공에도 불구하고 ConvNet은 컴퓨터비전과 머신러닝 주류에서 버려졌다.
+2012년  ImageNet competition
 
 
 - 
@@ -262,7 +263,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDk1ODAyMCwtMTQ1NTkxMDE3MiwxOT
+eyJoaXN0b3J5IjpbMjA0MTkwMzM2NywtMTQ1NTkxMDE3MiwxOT
 k2Nzg0NTEyLDUxNzA5MjQ4NywxNzU4ODM1OTUxLDE3OTc2NTQy
 NzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMzEyOTQyMDEsLT
 E5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0
