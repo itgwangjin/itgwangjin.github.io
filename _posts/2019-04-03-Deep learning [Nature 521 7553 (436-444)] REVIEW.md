@@ -139,9 +139,8 @@ ex) An image :
 - input layer, output layer의 유닛은 일반적으로 hidden units라고 부른다.
 -  The hidden layers는 non-linear에 있는 input를 왜곡시킬수도 있다고 보았기 때문에 카테고리는 마지막 레이어에 의해서 선형적으로 분할이 가능하다.
 - 1990년도에 neural nets은 poor local minima 문제에 빠졌기 때문에 학계에서 무시당했었다.
-- 실무에서 poor local minima는 큰 networks에서 드문 문제이다
-- 초기상태에 관계없이 system은 대부분 좋은 성과를 냈다.
-- 최근들어 theoretical하고 empirical한 결과는 local minima는 일반적으로 심각한 문제가 아니라고 말했다.
+- 실제로 poor local minima는 큰 networks에서는 드문 문제이다
+- 최근들어 theoretical하고 empirical한 결과들은 local minima는 일반적으로 심각한 문제가 아님을 나타낸다..
 - 그래프의 형태는 많은 saddle point로 구성되어 있다지만
 
 
@@ -167,11 +166,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MD
-U1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwx
-MDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MT
-EwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwt
-MTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02Nz
-U2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUw
-NDVdfQ==
+eyJoaXN0b3J5IjpbLTExMjg5NTg3MzEsLTc1MDk0OTM0MCwxMj
+Y5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2Nzcw
+LDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNz
+U3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5
+LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNj
+k2NjI2NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYz
+NzZdfQ==
 -->
