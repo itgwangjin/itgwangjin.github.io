@@ -223,8 +223,9 @@ deep neural networks는 많은 natural 시그널이 계층구조로 되어있다
 2. 형성된 motifs로 parts를 조립
 3. 조립된 parts로 object를 형성한다.
 
-pooling은 이전 레이어에서의 요소가 위치와 외형이 다를 경우에만 아주조금 다른것을 허용한다.
-단
+pooling은 이전 레이어에서의 요소가 위치와 외형이 다를 경우에만 아주 조금 다른것의 대표성을 허용한다.
+
+CNN에서의 convol
 
 
 - 
@@ -252,11 +253,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODgzNTk1MSwxNzk3NjU0MjcyLC0xMj
-Q4NzkwMzU4LDU5MTA2NDQ1NiwyMDMxMjk0MjAxLC0xOTIwNjA3
-MDk5LC03MzA3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LD
-U0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4Mjkw
-NDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MD
-U1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OF19
-
+eyJoaXN0b3J5IjpbMTQ0MjA5MzM0NiwxNzU4ODM1OTUxLDE3OT
+c2NTQyNzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMzEyOTQy
+MDEsLTE5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLD
+E2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3
+MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNj
+k1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzBd
+fQ==
 -->
