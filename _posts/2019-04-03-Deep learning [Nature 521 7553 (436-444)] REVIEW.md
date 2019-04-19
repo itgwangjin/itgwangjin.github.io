@@ -194,7 +194,8 @@ feature map내 모든 units은 같은 filter bank를 공유한다.
 CNN은 구조가 2배 인 이유는
 첫째로 값들의  local groups은 종종 높게 연관된어있고
 독특한 local motifs를 형성한다.
-둘째로 images와 다른 신호의 local statistics의 위치는 변하지 않는다. 다시 말하면 만약 motif가 
+둘째로 images와 다른 신호의 local statistics의 위치는 변하지 않는다. 다시 말하면 만약 motif가 이미지의 한 부분에 있다면 이것은 어디서든 나타날 수 있다.
+그러므로 다른 위치에 있는 units의  
 
 - 
 
@@ -221,11 +222,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5MDAyNzEsLTE5MjA2MDcwOTksLT
-czMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgx
-NzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3Mz
-A1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1Mzky
-LC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMT
-cwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTRd
-fQ==
+eyJoaXN0b3J5IjpbNzIxMzIyNzUxLC0xOTIwNjA3MDk5LC03Mz
+A3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1
+NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNT
+gwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5Miwt
+NDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MD
+g4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0XX0=
+
 -->
