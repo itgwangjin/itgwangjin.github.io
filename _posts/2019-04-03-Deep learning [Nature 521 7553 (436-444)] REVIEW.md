@@ -161,7 +161,8 @@ ex) An image :
 - 그러나 한 deep하고 feedforward한 network type에서 인접한 layers들 사이로 fully connected한 
 
 ## CNN의 등장
-CNN의 등장은 많은 현실적인 문제를 해결했다.
+CNN의 등장은 많은 Computer vision에서의 현실적인 문제를 해결했다.
+### (1) CNN의 특징
 
 --- 
  
@@ -185,11 +186,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMxMzYxMTksNTQzMTgxNzU2LDE5OD
-Q5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2Niwt
-NzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2Nz
-ExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4
-NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMj
-QxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYxXX0=
+eyJoaXN0b3J5IjpbMTY1NTQ4NzM1Niw1NDMxODE3NTYsMTk4ND
+kyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2LC03
+NTA5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4NjY3MT
+EyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwtMTg3
+NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NTAyND
+E5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjFdfQ==
 
 -->
