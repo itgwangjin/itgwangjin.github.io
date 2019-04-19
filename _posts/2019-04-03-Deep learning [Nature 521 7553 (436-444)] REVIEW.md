@@ -215,9 +215,10 @@ convolution, non-linearity, pooling stages 이후  더 convolutional하고 fully
 
 CNN을 통한 Backpropagation 기울기는 일반 deep network로 한것 만큼 간단하다 모든 filter banks내 모든 가중치는 trained될 수 있다.
 
-deep neural networks는 많은 natural 시그널 이 피라미드 구조로 되어있다는 특성을 활용한다.
+deep neural networks는 많은 natural 시그널이 계층구조로 되어있다는 특성을 활용한다.  이 계층구조는 higher-level 특
 
-le
+모서리의 loocal combinations는 motifs를 형성하고 
+motifs는 parts를 조립하고 parts는 object를 형성한다.
 
 
 - 
@@ -245,7 +246,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxMTIwODMsLTEyNDg3OTAzNTgsNT
+eyJoaXN0b3J5IjpbLTExMTI4MDM5NzEsLTEyNDg3OTAzNTgsNT
 kxMDY0NDU2LDIwMzEyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcy
 ODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LD
 E5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2
