@@ -134,6 +134,7 @@ ex) An image :
 > **ReLU**
 > $f(z) = max(z,0)$라는 형태의 non-linear activation function
 
+- 지난 수십년동안 neural nets는 $tanh(z)$ or $1 \over e$
 
 
 --- 
@@ -158,7 +159,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NDUzNjc0LDE1MDU1NTM5MiwtNDg2Nj
+eyJoaXN0b3J5IjpbMTE5ODM0MTg3LDE1MDU1NTM5MiwtNDg2Nj
 cxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0x
 ODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MD
 I0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwt
