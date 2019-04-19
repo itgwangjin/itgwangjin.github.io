@@ -143,7 +143,7 @@ ex) An image :
 - 초기상태에 관계없이 system은 대부분 좋은 성과를 냈다.
 - 최근들어 theoretical하고 empirical한 결과는 local minima는 일반적으로 심각한 문제가 아니라고 말했다.
 - 그래프의 형태는 많은 saddle point로 구성되어 있다
-그리고 표면은 
+그래서 결과적으로 실제로 가
 
 
 --- 
@@ -168,11 +168,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTA2MTAwNiwxMjY5NTYwNDg3LDE1MD
-U1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwx
-MDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MT
-EwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwt
-MTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02Nz
-U2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUw
-NDVdfQ==
+eyJoaXN0b3J5IjpbNzU1OTAxMDM3LDEyNjk1NjA0ODcsMTUwNT
+U1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEw
+MTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMT
+AwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0x
+MjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLTY3NT
+Y4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0
+NV19
 -->
