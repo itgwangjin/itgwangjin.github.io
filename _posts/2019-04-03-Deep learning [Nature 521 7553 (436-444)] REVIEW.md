@@ -215,7 +215,8 @@ convolution, non-linearity, pooling stages 이후  더 convolutional하고 fully
 
 CNN을 통한 Backpropagation 기울기는 일반 deep network로 한것 만큼 간단하다 모든 filter banks내 모든 가중치는 trained될 수 있다.
 
-deep neural networks는 많은 natural 시그널이 계층구조로 되어있다는 특성을 활용한다.  이 계층구조는 higher-level 특
+deep neural networks는 많은 natural 시그널이 계층구조로 되어있다는 특성을 활용한다.
+> 계층구조 의미는 higher-level 특성이 lower-level의 특성으로 구성된걸로 이루어 졌다는것을 뜻한다.
 
 모서리의 loocal combinations는 motifs를 형성하고 
 motifs는 parts를 조립하고 parts는 object를 형성한다.
@@ -246,11 +247,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI4MDM5NzEsLTEyNDg3OTAzNTgsNT
-kxMDY0NDU2LDIwMzEyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcy
-ODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LD
-E5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2
-NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00OD
-Y2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODhd
-fQ==
+eyJoaXN0b3J5IjpbMTE0NTAyOTU3NSwtMTI0ODc5MDM1OCw1OT
+EwNjQ0NTYsMjAzMTI5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4
+OTM3LDE3ODI4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMT
+k4NDkyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2
+LC03NTA5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4Nj
+Y3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OF19
+
 -->
