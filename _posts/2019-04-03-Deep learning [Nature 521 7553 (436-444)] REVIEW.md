@@ -234,7 +234,7 @@ CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic
 중요하게 이미지는 pixel 단위에서 라벨링 될 수 있다.
 
 자율주행에도 쓰이고 mobileye나 nvidia와 같은 회사는 cnn방식으로  자동차에 최신 비전시스템에 사용했다.
-다른 
+이런 성공에도 불구하고 CNN은 컴퓨터비전과 머신러닝 커뮤
 
 
 - 
@@ -262,7 +262,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjI4NDMyNCwtMTQ1NTkxMDE3MiwxOT
+eyJoaXN0b3J5IjpbMTQzNDk1ODAyMCwtMTQ1NTkxMDE3MiwxOT
 k2Nzg0NTEyLDUxNzA5MjQ4NywxNzU4ODM1OTUxLDE3OTc2NTQy
 NzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMzEyOTQyMDEsLT
 E5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0
