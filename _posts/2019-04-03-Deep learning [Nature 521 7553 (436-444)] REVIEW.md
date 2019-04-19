@@ -182,7 +182,10 @@ CNN에는 총 4가지의 주요 ideas가 들어간다.
 4. the use of many layers
 
 일반적인 CNN의 구조는 stage의 연속이다.
-첫째로 적은 stages는 2rkwldml 
+첫째로 몇몇 stages는 2가지의 type으로 구성되어있는데 
+convolutional layers와 pooling layer이다.
+
+convolutional layer내 units드
 
 - 
 
@@ -209,7 +212,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTgzOTUxMiwxNzgyODQ3NzUzLDE2NT
+eyJoaXN0b3J5IjpbLTUyMzQxMDAwNCwxNzgyODQ3NzUzLDE2NT
 U0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUx
 LDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1Nj
 A0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1
