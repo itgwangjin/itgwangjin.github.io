@@ -144,6 +144,7 @@ ex) An image :
 - gradient가 0인 많은 saddle point로 구성되어 있다지만
 분석은 오직 아래로 내려가는 방향의 saddle point가 현재 큰 수에서 나타나고 있지만 그들 중 대부분은 objective funcion의 값과 매우 유사하다.
 그러므로 saddle points중 algorithm이 멈추는 문제는 별로 중요하지 않다.
+
 ## 뭐하지
 - deep feedforward networks의 관심은 2006년도에 다시 살아났따. researcher들이 CIFAR(Canadian Institute for Advanced Research)에 의해 모여졌기 때문이다.
 - researcher들은 unsupervised learning 절차를 소개했다. 이 절차는 특성 검출기에서 labeling 된 데이터를 요구하지 않는 layers를 만들 수 있다.
@@ -196,10 +197,10 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0Mz
-E4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUs
-NzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NT
-M5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEw
-MDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMD
-U0LC02NTU1MDI0MTksMjk3NzU5MjU5LDg4MDAyNjgwMV19
+eyJoaXN0b3J5IjpbMjc3MzczODUxLDE3ODI4NDc3NTMsMTY1NT
+Q4NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEs
+MTczODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MD
+Q4NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0
+MDE4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4OD
+ksMTUyNDExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OV19
 -->
