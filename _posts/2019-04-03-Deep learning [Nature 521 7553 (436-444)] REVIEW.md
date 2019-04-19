@@ -171,7 +171,10 @@ colour image는 3개의 2D array로 구성되어 있다.
 여기에는 pixel 마다 RGB와 같은 3개의 채널내의 세기 정도가 포함되어 있다.
 
 많은 data 양상(modality)은 multiple array의 형태에 있다.
-1. 1D느
+1. 1D :  language와 같은 sequences를 나타낸다.
+2. 2D : images 혹은 audio spectrograms를 나타낸다.
+3. 3D : video 혹은 volumetric images를 나타낸다.
+
 
 - 
 
@@ -198,10 +201,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjI4OTQzLDE3ODI4NDc3NTMsMTY1NT
-Q4NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEs
-MTczODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MD
-Q4NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0
-MDE4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4OD
-ksMTUyNDExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OV19
+eyJoaXN0b3J5IjpbLTE0OTM0ODc2OTMsMTc4Mjg0Nzc1MywxNj
+U1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1
+MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NT
+YwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4
+NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NT
+g4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5XX0=
+
 -->
