@@ -149,7 +149,8 @@ ex) An image :
 - researcher들은 unsupervised learning 절차를 소개했다. 이 절차는 특성 검출기에서 labeling 된 데이터를 요구하지 않는 layers를 만들 수 있다.
 - 각 layers에서 특성을 배우는 layer들에서의 목적은 재구성할수 있거나 특성 검출기의 활동을 모델링하는 것이다.
 - pre-training된 layer는 재구성 objective를 사용하는 더 복잡해진 특성검출기에 의해 deep network의 weights는 초기에 sensible한 values를 설정할 수 있었다.
-- output의 마지막 layer
+- output의 마지막 layer는 network의 처음부터 더해지고 전체 deep system은 기본 backpropagation을 사용하여 weight를 튜닝한다.
+- ㄴ
 
 --- 
  
@@ -173,7 +174,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg5NDg4NzgsNzMwNTgwNjYsLTc1MD
+eyJoaXN0b3J5IjpbLTE2ODQ3MjE1NjEsNzMwNTgwNjYsLTc1MD
 k0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIs
 NjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2ND
 k0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTks
