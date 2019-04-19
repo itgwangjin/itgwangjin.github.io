@@ -185,7 +185,7 @@ CNN에는 총 4가지의 주요 ideas가 들어간다.
 첫째로 몇몇 stages는 2가지의 type으로 구성되어있는데 
 convolutional layers와 pooling layer이다.
 
-convolutional layer내 units드
+convolutional layer내 units들은 feature maps안에 생성된다. 각각 unit들은 filter bank라고 불리는 weights의 세틀local patches와 연결되어 
 
 - 
 
@@ -212,7 +212,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzQxMDAwNCwxNzgyODQ3NzUzLDE2NT
+eyJoaXN0b3J5IjpbMTEwMTYyMzg0MywxNzgyODQ3NzUzLDE2NT
 U0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUx
 LDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1Nj
 A0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1
