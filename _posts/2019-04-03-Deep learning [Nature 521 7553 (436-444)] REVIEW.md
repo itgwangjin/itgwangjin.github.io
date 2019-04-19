@@ -155,7 +155,9 @@ ex) An image :
 - 첫번제 pre training approach의 주요 application은 speech recognition이고 이것은 GPU등장으로 인해서 기존보다 10~ 20배 빠르게 사용할 수 있다.
 - 2009년에 위와 같은 접근법은 음파로부터 추출된 계수의 짧은 시간 windows를 음성의 다양한 단편을 위한 확률 set에 mapp ing시키는데 사용되었다.
 이것은 기존에 녹음없이 음성인식하는 방식은 적은 단어만 음성을 녹음시키고 인식하는 방식이 였는데 Deep learning의 탄생으로 많은 단어를 처리 수 있었다.
-- 2012년에는 주요 speech groups이 많이 개발되었고 이미 
+- 2012년에는 주요 speech groups이 많이 개발되었고 이미 android에 배치 되었었다.
+- 작은 데이터셋을 위해 unsupervised pre-training은 overfitting을 방지했고 결과적으로 labelling된 sxamples 의 수가 적을떄 아주 좋은 성능을 냈다.
+- 
 
 
 --- 
@@ -180,11 +182,10 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODI4MzMxMiw1NDMxODE3NTYsMTk4ND
-kyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2LC03
-NTA5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4NjY3MT
-EyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwtMTg3
-NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NTAyND
-E5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjFdfQ==
-
+eyJoaXN0b3J5IjpbMjkyNjY1NDAyLDU0MzE4MTc1NiwxOTg0OT
+I3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1
+MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMT
+IsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2
+NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MT
+ksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MV19
 -->
