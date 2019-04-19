@@ -188,7 +188,8 @@ convolutional layers와 pooling layer이다.
 convolutional layer내 units들은 feature maps안에 생성된다. 각각 unit들은 filter bank라고 불리는 weights의 세트를 통해 이전 레이어의 특징 맵안의 local patches와 연결되어 있다.
 
 weight이 적용된 local 하브이 결과는 ReLU와 같은 non-linearity를 통과한다.
-feature mpa내 모든 units
+feature map내 모든 units은 같은 filter bank를 공유한다.
+단, 한 layer내 다른 feature maps은 다른 filter bank를 사용한다.
 
 - 
 
@@ -215,11 +216,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTQxOTI0OCwtNzMwNzI4OTM3LDE3OD
-I4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcy
-MiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2LC03NTA5ND
-kzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0
-NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5ND
-ExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NTAyNDE5XX0=
+eyJoaXN0b3J5IjpbLTE5MjA2MDcwOTksLTczMDcyODkzNywxNz
+gyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3
+MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOT
+Q5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2
+NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OT
+QxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOV19
 
 -->
