@@ -206,7 +206,9 @@ CNN은 구조가 2배 인 이유는
 ### (2) pooling
 일반적으로 pooling unit은 한 feature map내 units의 local 부분의 최대값을 계산한다.
 
-인접한 pooling units는 input을 patch로 부터 가져옵니다. patch는 1 row 혹은 col 보다 더 이동되었고 그래서 represen 
+인접한 pooling units는 input을 patch로 부터 가져옵니다. patch는 1 row 혹은 col 보다 더 이동되었고 그래서 representation의 차원을 줄이고   왜곡의 불변성을 만듭니다.  
+
+2-3개의 convolution stages
 
 
 - 
@@ -234,11 +236,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjExODQwOTAsMjAzMTI5NDIwMSwtMT
-kyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4NDc3NTMsMTY1NTQ4
-NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEsMT
-czODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4
-NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MD
-E4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODld
-fQ==
+eyJoaXN0b3J5IjpbMTE3NjM0OTAxLDIwMzEyOTQyMDEsLTE5Mj
+A2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODcz
+NTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3Mz
+gyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcs
+MTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxOD
+U4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NTc1ODg5XX0=
+
 -->
