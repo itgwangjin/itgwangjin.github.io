@@ -152,6 +152,7 @@ ex) An image :
 - output의 마지막 layer는 network의 처음부터 더해지고 전체 deep system은 기본 backpropagation을 사용하여 weight를 튜닝한다.
 - 이 방식은 손글씨 인식이나 보행자 인식에서 눈에 띄게 잘 작동한다.(labelled data가 매우 제한적일때)
 
+- 첫번제 pre training approach의 주요 application은 speech recognition이고 
 
 --- 
  
@@ -175,7 +176,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzY0OTAwOSw3MzA1ODA2NiwtNzUwOT
+eyJoaXN0b3J5IjpbLTgyODg5MjIzOSw3MzA1ODA2NiwtNzUwOT
 Q5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2
 NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OT
 QxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOSwy
