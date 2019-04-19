@@ -153,7 +153,9 @@ ex) An image :
 - 이 방식은 손글씨 인식이나 보행자 인식에서 눈에 띄게 잘 작동한다.(labelled data가 매우 제한적일때)
 
 - 첫번제 pre training approach의 주요 application은 speech recognition이고 이것은 GPU등장으로 인해서 기존보다 10~ 20배 빠르게 사용할 수 있다.
-- 2009년에 음파로부터 추출된 계수의 짧은 시간 windows를 음
+- 2009년에 위와 같은 접근법은 음파로부터 추출된 계수의 짧은 시간 windows를 음성의 다양한 단편을 위한 확률 set에 mapp ing시키는데 사용되었다.
+이것은 
+
 
 --- 
  
@@ -177,7 +179,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM5Nzc3NCwtMjE1MTcyNTEsMTczOD
+eyJoaXN0b3J5IjpbMTk4NDkyNzcyMiwtMjE1MTcyNTEsMTczOD
 I5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4Nywx
 NTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NT
 gsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUy
