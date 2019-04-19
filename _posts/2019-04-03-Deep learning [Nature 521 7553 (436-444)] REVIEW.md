@@ -232,7 +232,6 @@ CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic
 
 
 
-
 - 
 
 
@@ -258,7 +257,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTI5ODAzMCw1MTcwOTI0ODcsMTc1OD
+eyJoaXN0b3J5IjpbMTk5Njc4NDUxMiw1MTcwOTI0ODcsMTc1OD
 gzNTk1MSwxNzk3NjU0MjcyLC0xMjQ4NzkwMzU4LDU5MTA2NDQ1
 NiwyMDMxMjk0MjAxLC0xOTIwNjA3MDk5LC03MzA3Mjg5MzcsMT
 c4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3
