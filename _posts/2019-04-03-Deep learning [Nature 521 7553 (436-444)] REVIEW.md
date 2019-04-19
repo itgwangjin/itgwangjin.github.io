@@ -140,7 +140,9 @@ ex) An image :
 -  The hidden layers는 non-linear에 있는 input를 왜곡시킬수도 있다고 보았기 때문에 카테고리는 마지막 레이어에 의해서 선형적으로 분할이 가능하다.
 - 1990년도에 neural nets은 poor local minima 문제에 빠졌기 때문에 학계에서 무시당했었다.
 - 실무에서 poor local minima는 큰 networks에서 드문 문제이다
-- 초기상태에 관계없이 system
+- 초기상태에 관계없이 system은 대부분 좋은 성과를 냈다.
+- 최근들어 theoretical하고 empirical한 결과는 local minima는 일반적으로 심각한 문제가 아니라고 말했다.
+- landscape(산샅0)는 combinatorially
 --- 
  
  
@@ -163,7 +165,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTU4Njc0MSwxNTA1NTUzOTIsLTQ4Nj
+eyJoaXN0b3J5IjpbMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4Nj
 Y3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwt
 MTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NT
 AyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEs
