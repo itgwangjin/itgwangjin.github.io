@@ -204,6 +204,8 @@ CNN은 구조가 2배 인 이유는
 
 확실하게 motif를 발견하는것은 각 feature의 위치를 coarse-graining(굵게 나뭇결처럼 내는것)하는 것으로 끝낼 수있다.
 ### (2) pooling
+일반적으로 pooling unit은 한 feature map내 units의 local 부분의 최대값을 계산한다.
+
 
 
 
@@ -232,7 +234,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYyMjAwOTcsLTE5MjA2MDcwOTksLT
+eyJoaXN0b3J5IjpbLTE1MzY0MTUyNzYsLTE5MjA2MDcwOTksLT
 czMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgx
 NzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3Mz
 A1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1Mzky
