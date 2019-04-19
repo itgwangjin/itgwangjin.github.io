@@ -246,7 +246,9 @@ convolutional network를  1,000개의 다른 클래스를 포함하는 백만개
 ![|center|300x0|](https://lh3.googleusercontent.com/RgrSg0S-jyLydZaWVs3LcW3tgKG4dFFW68GnH2DW0vODUdQtdU07isSaRw8SFRk9YvJmM_3U5l5b "cnn and rnn")
 [예 위와같이 채소를 파는 아주머니들이 있는 사진]
 
+### Distributed representations and language processing
 
+Deep -
 
 
 - 
@@ -274,11 +276,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMjc4NjgzLDEyMTg4NjU1NiwtMTQ1NT
-kxMDE3MiwxOTk2Nzg0NTEyLDUxNzA5MjQ4NywxNzU4ODM1OTUx
-LDE3OTc2NTQyNzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMz
-EyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3
-NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLT
-IxNTE3MjUxLDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQw
-XX0=
+eyJoaXN0b3J5IjpbMjA5MzgzNDYxNiwxMjE4ODY1NTYsLTE0NT
+U5MTAxNzIsMTk5Njc4NDUxMiw1MTcwOTI0ODcsMTc1ODgzNTk1
+MSwxNzk3NjU0MjcyLC0xMjQ4NzkwMzU4LDU5MTA2NDQ1NiwyMD
+MxMjk0MjAxLC0xOTIwNjA3MDk5LC03MzA3Mjg5MzcsMTc4Mjg0
+Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIyLC
+0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0
+MF19
 -->
