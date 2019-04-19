@@ -197,7 +197,9 @@ CNN은 구조가 2배 인 이유는
 둘째로 images와 다른 신호의 local statistics의 위치는 변하지 않는다. 다시 말하면 만약 motif가 이미지의 한 부분에 있다면 이것은 어디서든 나타날 수 있다.
 그러므로 다른 위치에 있는 units은 같은 weight를 공유하고 다른 array의 부분에서 같은 패턴을 발견한다.
 
-수학적으로 feature map에 의해 수행된 연산자를 필터링은 
+수학적으로 feature map에 의해 수행된 연산자를 필터링은 별개의 convolution이다. 그러므로 이름이다.
+
+비록 convolution layer의 역할은 이전 layer로 부터의 features의 접합을 발견하는것일지라도
 
 - 
 
@@ -224,11 +226,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Nzk3NDMzMywtMTkyMDYwNzA5OSwtNz
-MwNzI4OTM3LDE3ODI4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3
-NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMD
-U4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIs
-LTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNz
-A4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NF19
+eyJoaXN0b3J5IjpbNjM4NjU0MjIzLC0xOTIwNjA3MDk5LC03Mz
+A3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1
+NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNT
+gwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5Miwt
+NDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MD
+g4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0XX0=
 
 -->
