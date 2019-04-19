@@ -134,7 +134,8 @@ ex) An image :
 > **ReLU**
 > $f(z) = max(z,0)$라는 형태의 non-linear activation function
 
-- 지난 수십년동안 neural nets는 $tanh(z)$ or $1 \over e$
+- 지난 수십년동안 neural nets는 $tanh(z)$ or Sigmoid ${1 \over 1+e^-z}$와 같은 형태를 띄는 activation function을 썼었다.
+- 그러나 ReLU가 일반적으로 많은 layer에서 빠르고 결과적으로 unsupervised pre-training을 제외하곤 
 
 
 --- 
@@ -159,11 +160,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODM0MTg3LDE1MDU1NTM5MiwtNDg2Nj
-cxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0x
-ODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MD
-I0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwt
-MTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMTY3Nj
-AwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNjg4NjM1MzNd
-fQ==
+eyJoaXN0b3J5IjpbMTQ0NTI5MjMxNywxNTA1NTUzOTIsLTQ4Nj
+Y3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwt
+MTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NT
+AyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEs
+LTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2Nz
+YwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMz
+XX0=
 -->
