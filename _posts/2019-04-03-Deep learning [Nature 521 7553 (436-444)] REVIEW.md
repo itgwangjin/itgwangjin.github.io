@@ -238,6 +238,7 @@ CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic
 ###  ImageNet competition
 convolutional network를  1,000개의 다른 클래스를 포함하는 백만개의 이미지 dataset을 적용시켰을때
 훌륭한 결과를 뽑아냈다. 
+이러한 성공은 GPU, ReLU, dropout이라고 불리는 regularization 기술, 기존의 것을 변ㅎ
 
 - 
 
@@ -264,11 +265,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzOTU2NDgsLTE0NTU5MTAxNzIsMT
-k5Njc4NDUxMiw1MTcwOTI0ODcsMTc1ODgzNTk1MSwxNzk3NjU0
-MjcyLC0xMjQ4NzkwMzU4LDU5MTA2NDQ1NiwyMDMxMjk0MjAxLC
-0xOTIwNjA3MDk5LC03MzA3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1
-NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MS
-wxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYw
-NDg3XX0=
+eyJoaXN0b3J5IjpbMTI5NTIwMTgyNiwtMTQ1NTkxMDE3MiwxOT
+k2Nzg0NTEyLDUxNzA5MjQ4NywxNzU4ODM1OTUxLDE3OTc2NTQy
+NzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMzEyOTQyMDEsLT
+E5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0
+ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLD
+E3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0
+ODddfQ==
 -->
