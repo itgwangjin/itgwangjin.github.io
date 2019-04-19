@@ -242,7 +242,7 @@ convolutional network를  1,000개의 다른 클래스를 포함하는 백만개
 
 이러한 성공은 computer vision분야에서 큰 성공을 거뒀는데, ConvNet은 이제 거의 모든 인지와 인식분야에서 전반적으로 쓰인다.
 
-최근 놀랄만한 증명은 ConvNets과 recurrent net modules를 image 자막 생성을 위해 조합하는것이다.
+최근 놀랄만한 증명은 ConvNets과 recurrent net modules를 image 제목 생성을 위해 조합하는것이다.
 ![
 ](https://lh3.googleusercontent.com/RgrSg0S-jyLydZaWVs3LcW3tgKG4dFFW68GnH2DW0vODUdQtdU07isSaRw8SFRk9YvJmM_3U5l5b "cnn and rnn")
 
@@ -271,7 +271,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMzE2MTA0LC0xNDU1OTEwMTcyLDE5OT
+eyJoaXN0b3J5IjpbMTIxODg2NTU2LC0xNDU1OTEwMTcyLDE5OT
 Y3ODQ1MTIsNTE3MDkyNDg3LDE3NTg4MzU5NTEsMTc5NzY1NDI3
 MiwtMTI0ODc5MDM1OCw1OTEwNjQ0NTYsMjAzMTI5NDIwMSwtMT
 kyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4NDc3NTMsMTY1NTQ4
