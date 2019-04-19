@@ -137,7 +137,8 @@ ex) An image :
 - 지난 수십년동안 neural nets는 $tanh(z)$ or Sigmoid ${1 \over 1+e^-z}$와 같은 형태를 띄는 activation function을 썼었다.
 - 그러나 ReLU가 일반적으로 많은 layer에서 빠르고 결과적으로 unsupervised pre-training을 제외하곤 supervised network에서 좋은 성능을 나타냈다.
 - input layer, output layer의 유닛은 일반적으로 hidden units라고 부른다.
--  The hidden layers는 
+-  The hidden layers는 non-linear에 있는 input를 왜곡시킬수도 있다고 보았기 때문에 카테고리는 마지막 레이어에 의해서 선형적으로 분할이 가능하다.
+- 1990년도에 neural nets과 backpropagation은 
 
 --- 
  
@@ -161,7 +162,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjY0NTM0MywxNTA1NTUzOTIsLTQ4Nj
+eyJoaXN0b3J5IjpbMTQxMTk5MjE2MywxNTA1NTUzOTIsLTQ4Nj
 Y3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwt
 MTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NT
 AyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEs
