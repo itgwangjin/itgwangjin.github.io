@@ -129,8 +129,8 @@ ex) An image :
 ](https://lh3.googleusercontent.com/FhHSkXVOl4nC4KNMVBz9vh5vmamamUNfHCYz6AE6X9JFA5IFwSMGI3ofQ6NJWH5MkD4xoyWGXsvf "backpropagation")
 - backpropagation 방정식은 모든 모듈들을 통해서 output에서 input으로 모든 모듈을 통해 기울기를  전파한다. 
 - 일단 이러한 기울기가 계산되면, 이것은 각 weight에 대해서 gradient를 계산할 수 있다.
-- 한 layer에서 다음 layer로 넘어갈때 각 유닛들은 이전 layer의 가중치(weight)들의 합을 n계산한다
-
+- 한 layer에서 다음 layer로 넘어갈때 각 유닛들은 이전 layer의 가중치(weight)들의 합을 non-linear function을 통해서 결과를 계산한다.
+- 현재 대부분 non-linear function에는 ReLURectified Linear Unithalf-wave rectifier
 
 --- 
  
@@ -154,11 +154,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNTY5NjE4LDE1MDU1NTM5MiwtNDg2Nj
-cxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0x
-ODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MD
-I0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwt
-MTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMTY3Nj
-AwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNjg4NjM1MzNd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMTY0MjgwMjQsMTUwNTU1MzkyLC00OD
+Y2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgs
+LTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NT
+UwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYx
+LC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNj
+c2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUz
+M119
 -->
