@@ -220,8 +220,10 @@ deep neural networks는 많은 natural 시그널이 계층구조로 되어있다
 
 - 예를들어 motifs 이미지에서
 1. 모서리의 loocal combinations로 motifs를 형성 
-2. 형성된 motifs는 parts를 조립
-3. parts로 object를 형성한다.
+2. 형성된 motifs로 parts를 조립
+3. 조립된 parts로 object를 형성한다.
+
+유사하게 
 
 
 - 
@@ -249,7 +251,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDMwODYyNCwtMTI0ODc5MDM1OCw1OT
+eyJoaXN0b3J5IjpbMjExMDk5MTg4MywtMTI0ODc5MDM1OCw1OT
 EwNjQ0NTYsMjAzMTI5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4
 OTM3LDE3ODI4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMT
 k4NDkyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2
