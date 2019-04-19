@@ -142,7 +142,10 @@ ex) An image :
 - 실무에서 poor local minima는 큰 networks에서 드문 문제이다
 - 초기상태에 관계없이 system은 대부분 좋은 성과를 냈다.
 - 최근들어 theoretical하고 empirical한 결과는 local minima는 일반적으로 심각한 문제가 아니라고 말했다.
-- landscape(산샅0)는 combinatorially
+- 그래프의 형태는 많은 saddle point로 구성되어 있다
+그리고 표면은 대
+
+
 --- 
  
  
@@ -165,11 +168,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4Nj
-Y3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OCwt
-MTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyNDExMDA1NCwtNjU1NT
-AyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEsLTEyMTM1MTkyNjEs
-LTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNjc1NjgyNjQ5LDE2Nz
-YwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1MDQ1LDY4ODYzNTMz
-XX0=
+eyJoaXN0b3J5IjpbLTIxMTcwMjkwNDIsMTI2OTU2MDQ4NywxNT
+A1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgs
+MTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUyND
+ExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MDEs
+LTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMiwtNj
+c1NjgyNjQ5LDE2NzYwMDIxMiwxNjgwOTI2Mzc2LC0xNTg0NTk1
+MDQ1XX0=
 -->
