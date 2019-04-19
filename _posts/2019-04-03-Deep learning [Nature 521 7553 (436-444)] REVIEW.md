@@ -125,9 +125,10 @@ ex) An image :
 - module들 input과 internal weight의 함수가 상대적으로 부드러워지고 이를 
 미분이 가능해지자 chain rule for derivatives를 이용하여 backpropagation를 실현 시켰다. 
 - module의 output에 관한 기울기로 부터  input에 관한 목적함수로 즉, 반대로 계산이 가능하다는 점이다.
-- ![
+![
 ](https://lh3.googleusercontent.com/FhHSkXVOl4nC4KNMVBz9vh5vmamamUNfHCYz6AE6X9JFA5IFwSMGI3ofQ6NJWH5MkD4xoyWGXsvf "backpropagation")
-- backpropagation 방정식은 모든 모듈들을 통해서 
+- backpropagation 방정식은 모든 모듈들을 통해서 output에서 input으로 모든 모듈을 통해 기울기를  전파한다. 
+- 일단 이러한 기울기가 계산되면, 
 
 --- 
  
@@ -151,11 +152,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkzMzMwMTEsMTUwNTU1MzkyLC00OD
-Y2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgs
-LTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NT
-UwMjQxOSwyOTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYx
-LC0xMDk5ODc0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNj
-c2MDAyMTIsMTY4MDkyNjM3NiwtMTU4NDU5NTA0NSw2ODg2MzUz
-M119
+eyJoaXN0b3J5IjpbMjMzNTQ3Njk1LDE1MDU1NTM5MiwtNDg2Nj
+cxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0x
+ODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MD
+I0MTksMjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwt
+MTA5OTg3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMTY3Nj
+AwMjEyLDE2ODA5MjYzNzYsLTE1ODQ1OTUwNDUsNjg4NjM1MzNd
+fQ==
 -->
