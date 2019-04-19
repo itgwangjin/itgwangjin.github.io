@@ -201,7 +201,10 @@ CNN은 구조가 2배 인 이유는
 
 비록 convolution layer의 역할이 이전 layer로 부터의 features의 접합을 발견하는것일지라도,
 **pooling layer**는 의미상으로 비삿한 features를 한개로 합쳐주는 역할을 한다. 왜냐하면 motif를 형성한 features 의 상대적인 위치는 약간 달라질수도 있고
-확실하게 motif를 인지하는것은 
+
+확실하게 motif를 발견하는것은 각 feature의 위치를 coarse-graining(굵게 나뭇결처럼 내는것)하는 것으로 끝낼 수있다.
+
+
 
 
 - 
@@ -229,11 +232,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NTAyMzEsLTE5MjA2MDcwOTksLTczMD
-cyODkzNywxNzgyODQ3NzUzLDE2NTU0ODczNTYsNTQzMTgxNzU2
-LDE5ODQ5Mjc3MjIsLTIxNTE3MjUxLDE3MzgyOTA0NSw3MzA1OD
-A2NiwtNzUwOTQ5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00
-ODY2NzExMiw2NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwOD
-gsLTE4NzY0OTQxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTRdfQ==
+eyJoaXN0b3J5IjpbNjAzNzM2Njc1LC0xOTIwNjA3MDk5LC03Mz
+A3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1
+NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNT
+gwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5Miwt
+NDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MD
+g4LC0xODc2NDk0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0XX0=
 
 -->
