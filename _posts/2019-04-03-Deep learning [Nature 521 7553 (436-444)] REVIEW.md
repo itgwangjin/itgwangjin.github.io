@@ -166,7 +166,10 @@ CNN의 등장은 많은 Computer vision에서의 현실적인 문제를 해결�
 Convolution Neural Network는 multiple arrays 형태로 구성되어 있다. 
 
 - 예를 들어.
-colour image는 3개의 2D  
+colour image는 3개의 2D array로 구성되어 있다. 
+여기에는 pixel 마다 RGB와 같은 3개의 채널내의 세기 정도가 포함되어 있다.
+
+맣은 data 
 
 
 --- 
@@ -191,7 +194,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTY4MDk0OCwxNjU1NDg3MzU2LDU0Mz
+eyJoaXN0b3J5IjpbMTY5ODM4ODM3OSwxNjU1NDg3MzU2LDU0Mz
 E4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUs
 NzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NT
 M5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEw
