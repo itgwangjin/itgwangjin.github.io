@@ -154,7 +154,7 @@ ex) An image :
 
 - 첫번제 pre training approach의 주요 application은 speech recognition이고 이것은 GPU등장으로 인해서 기존보다 10~ 20배 빠르게 사용할 수 있다.
 - 2009년에 위와 같은 접근법은 음파로부터 추출된 계수의 짧은 시간 windows를 음성의 다양한 단편을 위한 확률 set에 mapp ing시키는데 사용되었다.
-이것은 
+이것은 기존에 음성을 녹음시키고 인식하는 방시
 
 
 --- 
@@ -179,11 +179,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDkyNzcyMiwtMjE1MTcyNTEsMTczOD
-I5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4Nywx
-NTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NT
-gsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODksMTUy
-NDExMDA1NCwtNjU1NTAyNDE5LDI5Nzc1OTI1OSw4ODAwMjY4MD
-EsLTEyMTM1MTkyNjEsLTEwOTk4NzQxODIsLTY5NjYyNjQyMl19
+eyJoaXN0b3J5IjpbMTY5OTQ0MzMxNiwxOTg0OTI3NzIyLC0yMT
+UxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwx
+MjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2Nz
+cwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUz
+NzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5Mj
+U5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4Ml19
 
 -->
