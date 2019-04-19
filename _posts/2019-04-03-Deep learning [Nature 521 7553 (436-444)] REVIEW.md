@@ -224,6 +224,7 @@ deep neural networks는 많은 natural 시그널이 계층구조로 되어있다
 3. 조립된 parts로 object를 형성한다.
 
 pooling은 이전 레이어에서의 요소가 위치와 외형이 아주조금 다른것을 허용한다.
+단
 
 
 - 
@@ -251,11 +252,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzY1NDI3MiwtMTI0ODc5MDM1OCw1OT
-EwNjQ0NTYsMjAzMTI5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4
-OTM3LDE3ODI4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMT
-k4NDkyNzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2
-LC03NTA5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4Nj
-Y3MTEyLDY0NjAxNjc3MCw1ODU0MDE4NTgsMTAxMDAxNzA4OF19
+eyJoaXN0b3J5IjpbMTk2MTI3NzExMiwxNzk3NjU0MjcyLC0xMj
+Q4NzkwMzU4LDU5MTA2NDQ1NiwyMDMxMjk0MjAxLC0xOTIwNjA3
+MDk5LC03MzA3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LD
+U0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNzM4Mjkw
+NDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3LDE1MD
+U1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMTg1OF19
 
 -->
