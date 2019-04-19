@@ -150,7 +150,8 @@ ex) An image :
 - 각 layers에서 특성을 배우는 layer들에서의 목적은 재구성할수 있거나 특성 검출기의 활동을 모델링하는 것이다.
 - pre-training된 layer는 재구성 objective를 사용하는 더 복잡해진 특성검출기에 의해 deep network의 weights는 초기에 sensible한 values를 설정할 수 있었다.
 - output의 마지막 layer는 network의 처음부터 더해지고 전체 deep system은 기본 backpropagation을 사용하여 weight를 튜닝한다.
-- ㄴ
+- 이 방식은 손글씨 인식이나 보행자 인식에서 눈에 띄게 잘 작동한다.(labelled data가 매우 제한적일때)
+
 
 --- 
  
@@ -174,11 +175,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ3MjE1NjEsNzMwNTgwNjYsLTc1MD
-k0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIs
-NjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2ND
-k0MTEyLDUzNzU3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTks
-Mjk3NzU5MjU5LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OT
-g3NDE4MiwtNjk2NjI2NDIyLC02NzU2ODI2NDksMTY3NjAwMjEy
-XX0=
+eyJoaXN0b3J5IjpbMTgzMzY0OTAwOSw3MzA1ODA2NiwtNzUwOT
+Q5MzQwLDEyNjk1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2
+NDYwMTY3NzAsNTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OT
+QxMTIsNTM3NTc1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOSwy
+OTc3NTkyNTksODgwMDI2ODAxLC0xMjEzNTE5MjYxLC0xMDk5OD
+c0MTgyLC02OTY2MjY0MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTJd
+fQ==
 -->
