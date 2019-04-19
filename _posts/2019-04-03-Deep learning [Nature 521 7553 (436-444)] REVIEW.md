@@ -238,7 +238,11 @@ CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic
 ###  ImageNet competition
 convolutional network를  1,000개의 다른 클래스를 포함하는 백만개의 이미지 dataset을 적용시켰을때
 훌륭한 결과를 뽑아냈다. 
-이러한 성공은 GPU, ReLU, dropout이라고 불리는 regularization 기술, 기존의 것을 변ㅎ
+이러한 성공은 GPU, ReLU, dropout이라고 불리는 regularization 기술, 기존의 것을 변형하면서 traning set을 만드는 기술의 발달 때문이다.
+
+이러한 성공은 computer vision분야에서 큰 성공을 거뒀는데, ConvNet은 이제 거의 모든 인지와 인식분야에서 전반적으로 쓰인다.
+
+최근 
 
 - 
 
@@ -265,7 +269,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTIwMTgyNiwtMTQ1NTkxMDE3MiwxOT
+eyJoaXN0b3J5IjpbMTYzMTE5NjM1NCwtMTQ1NTkxMDE3MiwxOT
 k2Nzg0NTEyLDUxNzA5MjQ4NywxNzU4ODM1OTUxLDE3OTc2NTQy
 NzIsLTEyNDg3OTAzNTgsNTkxMDY0NDU2LDIwMzEyOTQyMDEsLT
 E5MjA2MDcwOTksLTczMDcyODkzNywxNzgyODQ3NzUzLDE2NTU0
