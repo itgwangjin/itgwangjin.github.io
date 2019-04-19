@@ -147,7 +147,8 @@ ex) An image :
 ## 뭐하지
 - deep feedforward networks의 관심은 2006년도에 다시 살아났따. researcher들이 CIFAR(Canadian Institute for Advanced Research)에 의해 모여졌기 때문이다.
 - researcher들은 unsupervised learning 절차를 소개했다. 이 절차는 특성 검출기에서 labeling 된 데이터를 요구하지 않는 layers를 만들 수 있다.
-- 각 layers에서 특성을 배우는 layer들에서의 목적은 재구성할수 있거나 특성 검출기의 
+- 각 layers에서 특성을 배우는 layer들에서의 목적은 재구성할수 있거나 특성 검출기의 활동을 모델링하는 것이다.
+- pre-training된 몇가지 진보적으로 더 복잡한 특성검출기
 
 --- 
  
@@ -171,11 +172,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMwMTE5NjcsLTc1MDk0OTM0MCwxMj
-Y5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2Nzcw
-LDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNz
-U3NTg4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5
-LDg4MDAyNjgwMSwtMTIxMzUxOTI2MSwtMTA5OTg3NDE4MiwtNj
-k2NjI2NDIyLC02NzU2ODI2NDksMTY3NjAwMjEyLDE2ODA5MjYz
-NzZdfQ==
+eyJoaXN0b3J5IjpbMTQ1MTYwNzMyNywtNzUwOTQ5MzQwLDEyNj
+k1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAs
+NTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NT
+c1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTks
+ODgwMDI2ODAxLC0xMjEzNTE5MjYxLC0xMDk5ODc0MTgyLC02OT
+Y2MjY0MjIsLTY3NTY4MjY0OSwxNjc2MDAyMTIsMTY4MDkyNjM3
+Nl19
 -->
