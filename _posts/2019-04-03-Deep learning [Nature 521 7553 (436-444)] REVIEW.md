@@ -143,7 +143,9 @@ ex) An image :
 - 최근 theoretical하고 empirical한 결과들은 local minima는 일반적으로 심각한 문제가 아님을 나타낸다.
 - gradient가 0인 많은 saddle point로 구성되어 있다지만
 분석은 오직 아래로 내려가는 방향의 saddle point가 현재 큰 수에서 나타나고 있지만 그들 중 대부분은 objective funcion의 값과 매우 유사하다.
-그러므로 s
+그러므로 saddle points중 algorithm이 멈추는 문제는 별로 중요하지 않다.
+
+deep feedforward networks의 과ㅅ
 
 --- 
  
@@ -167,7 +169,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzI2OTA1MCwtNzUwOTQ5MzQwLDEyNj
+eyJoaXN0b3J5IjpbLTIxMDU2Mjk2OSwtNzUwOTQ5MzQwLDEyNj
 k1NjA0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAs
 NTg1NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NT
 c1ODg5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTks
