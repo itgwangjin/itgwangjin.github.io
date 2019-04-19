@@ -210,7 +210,7 @@ CNN은 구조가 2배 인 이유는
 
 convolution, non-linearity, pooling stages 이후  더 convolutional하고 fully-connected layers가 나타난다.
 
-Backpropagatin
+CNN을 통한 Backpropagation 기울기는 일반 deep network로 한것 만큼 간단하다
 
 
 - 
@@ -238,11 +238,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA1NzY5NTksMjAzMTI5NDIwMSwtMT
-kyMDYwNzA5OSwtNzMwNzI4OTM3LDE3ODI4NDc3NTMsMTY1NTQ4
-NzM1Niw1NDMxODE3NTYsMTk4NDkyNzcyMiwtMjE1MTcyNTEsMT
-czODI5MDQ1LDczMDU4MDY2LC03NTA5NDkzNDAsMTI2OTU2MDQ4
-NywxNTA1NTUzOTIsLTQ4NjY3MTEyLDY0NjAxNjc3MCw1ODU0MD
-E4NTgsMTAxMDAxNzA4OCwtMTg3NjQ5NDExMiw1Mzc1NzU4ODld
-fQ==
+eyJoaXN0b3J5IjpbLTk5ODc5MjczNywyMDMxMjk0MjAxLC0xOT
+IwNjA3MDk5LC03MzA3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3
+MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1MSwxNz
+M4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NTYwNDg3
+LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4NTQwMT
+g1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NTg4OV19
+
 -->
