@@ -171,10 +171,17 @@ colour image는 3개의 2D array로 구성되어 있다.
 여기에는 pixel 마다 RGB와 같은 3개의 채널내의 세기 정도가 포함되어 있다.
 
 많은 data 양상(modality)은 multiple array의 형태에 있다.
-1. 1D :  language와 같은 sequences를 나타낸다.
-2. 2D : images 혹은 audio spectrograms를 나타낸다.
-3. 3D : video 혹은 volumetric images를 나타낸다.
+- 1D :  language와 같은 sequences를 나타낸다.
+- 2D : images 혹은 audio spectrograms를 나타낸다.
+- 3D : video 혹은 volumetric images를 나타낸다.
 
+CNN에는 총 4가지의 주요 ideas가 들어간다.
+1. local connections
+2. shared weight
+3. pooling
+4. the use of many layers
+
+ 
 
 - 
 
@@ -201,11 +208,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM0ODc2OTMsMTc4Mjg0Nzc1MywxNj
-U1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3NzIyLC0yMTUxNzI1
-MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MDk0OTM0MCwxMjY5NT
-YwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTIsNjQ2MDE2NzcwLDU4
-NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2NDk0MTEyLDUzNzU3NT
-g4OSwxNTI0MTEwMDU0LC02NTU1MDI0MTksMjk3NzU5MjU5XX0=
+eyJoaXN0b3J5IjpbMTIxMDQ5MDAzNSwxNzgyODQ3NzUzLDE2NT
+U0ODczNTYsNTQzMTgxNzU2LDE5ODQ5Mjc3MjIsLTIxNTE3MjUx
+LDE3MzgyOTA0NSw3MzA1ODA2NiwtNzUwOTQ5MzQwLDEyNjk1Nj
+A0ODcsMTUwNTU1MzkyLC00ODY2NzExMiw2NDYwMTY3NzAsNTg1
+NDAxODU4LDEwMTAwMTcwODgsLTE4NzY0OTQxMTIsNTM3NTc1OD
+g5LDE1MjQxMTAwNTQsLTY1NTUwMjQxOSwyOTc3NTkyNTldfQ==
 
 -->
