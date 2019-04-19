@@ -157,7 +157,7 @@ ex) An image :
 이것은 기존에 녹음없이 음성인식하는 방식은 적은 단어만 음성을 녹음시키고 인식하는 방식이 였는데 Deep learning의 탄생으로 많은 단어를 처리 수 있었다.
 - 2012년에는 주요 speech groups이 많이 개발되었고 이미 android에 배치 되었었다.
 - 작은 데이터셋을 위해 unsupervised pre-training은 overfitting을 방지했고 결과적으로 labelling된 sxamples 의 수가 적을떄 아주 좋은 성능을 냈다.
-- 
+- 이리하여 deep learning이 재건되
 
 
 --- 
@@ -182,7 +182,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNjY1NDAyLDU0MzE4MTc1NiwxOTg0OT
+eyJoaXN0b3J5IjpbMzk1NDI3NTUyLDU0MzE4MTc1NiwxOTg0OT
 I3NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1
 MDk0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMT
 IsNjQ2MDE2NzcwLDU4NTQwMTg1OCwxMDEwMDE3MDg4LC0xODc2
