@@ -230,7 +230,9 @@ CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic
 
 ### Image understanding with deep convolutional networks
 2000년도에 CNN은 detection과 segmentation, image내 object와 region recognition에서 성공을 거뒀다.
-그 
+그 중에서 face recognition에서 큰 성공을 거뒀다.
+
+중요하게 이미지는 pixel 단위에서 라벨링 될 수 있다.
 
 
 - 
@@ -258,7 +260,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk0MTU1NTMsMTk5Njc4NDUxMiw1MT
+eyJoaXN0b3J5IjpbLTE0NTU5MTAxNzIsMTk5Njc4NDUxMiw1MT
 cwOTI0ODcsMTc1ODgzNTk1MSwxNzk3NjU0MjcyLC0xMjQ4Nzkw
 MzU4LDU5MTA2NDQ1NiwyMDMxMjk0MjAxLC0xOTIwNjA3MDk5LC
 03MzA3Mjg5MzcsMTc4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4
