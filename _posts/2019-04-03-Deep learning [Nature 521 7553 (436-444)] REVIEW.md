@@ -226,7 +226,11 @@ deep neural networks는 많은 natural 시그널이 계층구조로 되어있다
 pooling은 이전 레이어에서의 요소가 위치와 외형이 다를 경우에만 아주 조금 다른것의 대표성을 허용한다.
 
 CNN에서의 convolutional layer와 pooling layer는 직접적으로 classic 
-d
+[ 이후 CNN에 대한 역사는 생략하고 바로 image understanding with deep convolutional network로 넘어가겠습니다.]
+
+### Image understanding with deep convolutional networks
+
+
 
 
 - 
@@ -254,11 +258,11 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcwOTU3MjMsNTE3MDkyNDg3LDE3NT
-g4MzU5NTEsMTc5NzY1NDI3MiwtMTI0ODc5MDM1OCw1OTEwNjQ0
-NTYsMjAzMTI5NDIwMSwtMTkyMDYwNzA5OSwtNzMwNzI4OTM3LD
-E3ODI4NDc3NTMsMTY1NTQ4NzM1Niw1NDMxODE3NTYsMTk4NDky
-NzcyMiwtMjE1MTcyNTEsMTczODI5MDQ1LDczMDU4MDY2LC03NT
-A5NDkzNDAsMTI2OTU2MDQ4NywxNTA1NTUzOTIsLTQ4NjY3MTEy
-XX0=
+eyJoaXN0b3J5IjpbMTg3OTI5ODAzMCw1MTcwOTI0ODcsMTc1OD
+gzNTk1MSwxNzk3NjU0MjcyLC0xMjQ4NzkwMzU4LDU5MTA2NDQ1
+NiwyMDMxMjk0MjAxLC0xOTIwNjA3MDk5LC03MzA3Mjg5MzcsMT
+c4Mjg0Nzc1MywxNjU1NDg3MzU2LDU0MzE4MTc1NiwxOTg0OTI3
+NzIyLC0yMTUxNzI1MSwxNzM4MjkwNDUsNzMwNTgwNjYsLTc1MD
+k0OTM0MCwxMjY5NTYwNDg3LDE1MDU1NTM5MiwtNDg2NjcxMTJd
+fQ==
 -->
