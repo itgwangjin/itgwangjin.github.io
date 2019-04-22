@@ -11,6 +11,7 @@ tag:
   - CUDA
   - cuDNN
 ---
+
 연구실에 tensorflow 2.0 를 까는데 일정한 가이드라인이 없는거같아
 직접 만들어 보았다.
  
@@ -92,5 +93,5 @@ Hello, TensorFlow!
 ```
 위와 같이 잘 나타난다면 성공~! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MjQ3OTU5XX0=
+eyJoaXN0b3J5IjpbMTM4NjY0NjU2OV19
 -->
