@@ -2,8 +2,8 @@
 ---
 title: "tensorflow 2.0 환경설정"
 collection: post
-permalink: /posts/2019/04/FDPM_Basic
-date: 2019-04-18
+permalink: /posts/2019/04/tensorflow 2.0 환경설정
+date: 2019-04-22
 tag:
   - tensorflow 2.0
   - window 10
@@ -88,5 +88,5 @@ Hello, TensorFlow!
 ```
 위와 같이 잘 나타난다면 성공~! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDk2NjMwNF19
+eyJoaXN0b3J5IjpbLTg0NTg0NjYwMl19
 -->
