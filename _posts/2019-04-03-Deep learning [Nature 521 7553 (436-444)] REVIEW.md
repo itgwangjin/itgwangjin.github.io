@@ -254,8 +254,10 @@ Deep -
 - 
 
 ## Recurrent neural networks
-
-
+![
+](https://lh3.googleusercontent.com/3w4vOHMhUvyvfW5K57mq3QCRBj242_p0u0gdsA3rfqRNEwZv275aP7F8EWCB3a17SiAMBMlh7c4e "rnn")
+### RNN process
+input : sequence on element at a time
 
 --- 
  
@@ -279,7 +281,7 @@ illustrative example| 설득력있는 예 |
 with respect to | ~에 대한|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDU0NTIzOCwyMDkzODM0NjE2LDEyMT
+eyJoaXN0b3J5IjpbLTYzMzg5NTkyMiwyMDkzODM0NjE2LDEyMT
 g4NjU1NiwtMTQ1NTkxMDE3MiwxOTk2Nzg0NTEyLDUxNzA5MjQ4
 NywxNzU4ODM1OTUxLDE3OTc2NTQyNzIsLTEyNDg3OTAzNTgsNT
 kxMDY0NDU2LDIwMzEyOTQyMDEsLTE5MjA2MDcwOTksLTczMDcy
