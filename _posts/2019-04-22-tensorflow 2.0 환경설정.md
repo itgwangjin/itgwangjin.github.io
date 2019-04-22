@@ -11,7 +11,9 @@ tag:
   - CUDA
   - cuDNN
 ---
+
 # tensorflow 2.0-alpha 설치
+
 ## 0. requirment 확인하기
 ![enter image description here](https://lh3.googleusercontent.com/we1XaiLx80omuwkYKZMSetmo5moOuY3K6iglZqzPna7J-u0mBdejDO2JidBDwkV-Zb6Au5BlY2_H)
 ## 1. ananconda 설치
@@ -88,5 +90,5 @@ Hello, TensorFlow!
 ```
 위와 같이 잘 나타난다면 성공~! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTkyMzgxOF19
+eyJoaXN0b3J5IjpbNjMyMzk5NTEwXX0=
 -->
