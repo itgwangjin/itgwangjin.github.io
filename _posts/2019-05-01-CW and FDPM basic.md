@@ -14,14 +14,12 @@ CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 
 
 우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$,  $\mu_s'$)을 얻어내기 위함이다.
-매질의 특성이라 함은 $mu_a$,  $mu_s'$을 의미한다.
-하지만 빛을 쏴 얻을 수 있는건 amp와 phase 밖에 없다.
-이를 curve fitting 혹은 p1approximation, steady state 방식으로
-optical property를 구할 수 있는데 구하기 전 반드시 해줘야 할 부분이 
-Calibration이다.
+하지만 빛을 쏴 얻을 수 있는건 amplitude와 phase 밖에 없다.
+이를 curve fitting, p1approximation 혹은 steady state 방식으로
+optical property를 구할 수 있다.
 > Curve fitting
 > non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
-> 
+
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
 기기마다 고유의 특성이 있는데 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
@@ -92,5 +90,5 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTY0MjQ5XX0=
+eyJoaXN0b3J5IjpbLTk5NjA3MDY2NV19
 -->
