@@ -48,7 +48,15 @@ p는 고정
 애시당초에 phantom을 만들때 $\mu_a$, $\mu_s'$을 넣어주니까 알고있음.
 처음에는 Target이 phantom이다.
 빛을 쏘면 Amp와 phase를 알수 있는데,
-p1approximation
+p1approximation을 통해 amp를 구한다. 
+amp는 나눠주고 phase는 빼주고
+
+input : $\mu_a$, $\mu_s'$, $f$ (modulation frequency)
+model : p1 Approximation
+output : AMp phase
+
+## 실제 데이터
+Target 
 
 ## FDPM nomalization
 CW와 다른점이 얘는 Amp와 phase가 다르다
@@ -70,7 +78,7 @@ photon 을 매질의 특성을 넣어준것.
 curve fitting
 non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MTIzODI1LC03NDUyMzQyNjksLTkwNz
-Y1NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAs
-LTk0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbLTQ5NDIyMzE2MywtNzQ1MjM0MjY5LC05MD
+c2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgw
+LC05NDgyMTk4NF19
 -->
