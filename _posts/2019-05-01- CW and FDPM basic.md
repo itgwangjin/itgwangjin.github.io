@@ -10,6 +10,7 @@ tag:
   - Frequency domain
   - 
 ---
+
 # CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
@@ -68,7 +69,8 @@ CW에는 mus를 구할 근거가 마땅히 없다 극복 LUT
 
 SFDI 공간 주파수에서 frequency 변화를 통해 위상 차이를 얻어낸다
 phase를 iterat
-DC값으로 mua값을 구하면 된다.
+DC값으로 mua값을 구한다.
+
 
 ## FDPM nomalization
 CW와 다른점이 얘는 Amp와 phase가 다르다
@@ -90,7 +92,7 @@ photon 을 매질의 특성을 넣어준것.
 curve fitting
 non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjQwNjA2OCwtNzQ1MjM0MjY5LC05MD
+eyJoaXN0b3J5IjpbLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MD
 c2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgw
 LC05NDgyMTk4NF19
 -->
