@@ -16,8 +16,7 @@ tag:
 	- Measured phantom data : Amp1, Amp2, Amp3
 	- Reference_optical property : $\mu_a$, $\mu_s'$
 - 측정해서 나온 값
-	- Target data
-	- Measured data(Amp1,Amp2,Amp3)
+	- Target data(Amp1,Amp2,Amp3)
 
 ## CW normalization 
 system response를 없애주는 과정
@@ -36,10 +35,14 @@ model : least square curve fit
 Output : $\mu_a$, $\mu_s'$ x 6(wavelength)
 
 # FDPM
-
+- 초기에 알고 있는 값.
+	- Reference phantom data : $\mu_a$, $\mu_s'$
+	- Measured phantom data : Amp, Phase
+- 측정해서 나온 값
+	- Measured target data : Amp & phase
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzU5MDM1LDc0MjY3NDM0NSwyOTUzMD
-A3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTMxOTAyNzgsNzQyNjc0MzQ1LDI5NT
+MwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
 -->
