@@ -22,7 +22,7 @@ Calibration이다.
 > 
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
-기기마다 고유의 특성이 있는데 optical property를 알고 있는 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
+기기마다 고유의 특성이 있는데 이미 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
 ## 1) Forward model (= Calibration)
@@ -35,14 +35,10 @@ Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 2. 측정된 Amp를  $A_1$, $A_2$, $A_3$ 라고 하자.
 3. phantom의  $\mu_a$, $\mu_s'$와 $f$ 을 [*Rtherory*](https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117%2F1.3523616) 공식을 통해  diffuse reflectance값인  R $R_1$, $R_2$, $R_3$을 구한다. 
 4. Calibrated Amplitude은 $A_{1}$ $\div$ $R_{1}$ 으로 구한다.
-R3까지 해줘서 Calibrated Amplitude 총 ㄲ
+R3까지 Calibrated Amplitude는 총 $R_{c1}$,$R_{c2}$,$R_{c3}$이 나온다.
 
 
 system response를 없애주는 과정
-\* **system response?** -> 기기의 고유 특성
-> Measured Amp    
-> Theoretical R   
-
 이 두개를 나눠줌으로써 system response를 구한다.
 Target Amp을 system response를 내려서 
 Target의 R1, R2, R3 구한다. 
@@ -93,8 +89,8 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc0OTczMTMsLTg2NjUwNTIzOSwtMT
-ExNzc3ODY1MywtMTI2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUy
-MzQyNjksLTkwNzY1NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LD
-E3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbMjExMzEzOTI5NywtODY2NTA1MjM5LC0xMT
+E3Nzc4NjUzLC0xMjY0OTY0NzUwLC04MTA3NTY4NDQsLTc0NTIz
+NDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0NSwyOTUzMDA3NjcsMT
+czNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
