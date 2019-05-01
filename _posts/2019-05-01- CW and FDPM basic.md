@@ -14,8 +14,10 @@ CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
 	- Measured phantom data : Amp1, Amp2, Amp3
-	- Reference_optical  
+	- Reference_optical property : $\mu_a$, $\mu_s'$
+- 측정햇
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbLTcwMTU4NTgwOCwxNzM1MTM5NTgwLC05ND
+gyMTk4NF19
 -->
