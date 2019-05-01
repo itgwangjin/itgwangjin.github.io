@@ -37,6 +37,7 @@ Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
 	- Measured phantom data : Amp, Phase
+	$\mu_a$, $\mu_s'$로 구한 값
 - 측정해서 나온 값
 	- Measured target data : Amp & phase
 ## FDPM nomalization
@@ -44,11 +45,13 @@ CW와 다른점이 얘는 Amp와 phase가 다르다
 - Amplitude
 기존에 알고
 - Phase
+
 p1seminf을 통
 n이 frequency 
 여기는 빼는것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzY1NTI4MSw3NDI2NzQzNDUsMjk1Mz
-AwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbLTM3OTQ4Nzg2MCwtOTA3NjU1MjgxLDc0Mj
+Y3NDM0NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRd
+fQ==
 -->
