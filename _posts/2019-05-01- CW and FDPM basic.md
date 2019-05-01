@@ -58,7 +58,9 @@ output : AMp phase
 ## 실제 데이터
 Target에 빛을 쐈을때 얻은 Amp와 phase를
 기존에 구한 ca1과 cal2를 각각 나눠주고 빼줌으로써
-Amp와 phase를 다시 
+Amp와 phase를 다시 p1 approximation으로 $\mu_a$, $\mu_s'$를 구한다.
+
+phase
 
 ## FDPM nomalization
 CW와 다른점이 얘는 Amp와 phase가 다르다
@@ -80,7 +82,7 @@ photon 을 매질의 특성을 넣어준것.
 curve fitting
 non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDE4MTU5MiwtNzQ1MjM0MjY5LC05MD
+eyJoaXN0b3J5IjpbLTk2MzQzMjM0MiwtNzQ1MjM0MjY5LC05MD
 c2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgw
 LC05NDgyMTk4NF19
 -->
