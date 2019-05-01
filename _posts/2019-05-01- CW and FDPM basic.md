@@ -38,7 +38,19 @@ Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 R3까지 Calibrated Amplitude는 총 $R_{c1}$,$R_{c2}$,$R_{c3}$이 나온다.
 
 ## 2) Inverse model (=> apply to real world)
+(1) **준비물**
+
 Calibrated Amplitude  $R_{c1}$,$R_{c2}$,$R_{c3}$
+
+(2) **Flow**
+1. Light source에 600 ~ 1000Mhz modulation을 걸어 Target에 쏜다.
+2. 측정된  Amplitude 1,2,3을  $A_{target}$ $P_{target}$ 라고 하자.
+3. $A_{target}$ $\div$ $A_{c}$으로 $A_{calT}$ , 
+$P_{target}$ $-$ $P_{c}$으로 $P_{calT}$ 를 구한다.
+4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
+> phase를 통해서 $\mu_s$는 이미 구할수 있다
+> Deep learning은 4번의 *p1 Approximation*를 대체한다.
+
 
 # 2. FDPM
 
@@ -81,8 +93,8 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjQ5NTY4MywtODY2NTA1MjM5LC0xMT
-E3Nzc4NjUzLC0xMjY0OTY0NzUwLC04MTA3NTY4NDQsLTc0NTIz
-NDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0NSwyOTUzMDA3NjcsMT
-czNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbNTg2NzAxODIyLC04NjY1MDUyMzksLTExMT
+c3Nzg2NTMsLTEyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0
+MjY5LC05MDc2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNz
+M1MTM5NTgwLC05NDgyMTk4NF19
 -->
