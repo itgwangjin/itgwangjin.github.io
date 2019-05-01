@@ -58,18 +58,19 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 
 (2) **Flow**
 1. Light source에 50Mhz - 500Mhz modulation을 걸어 phantom에 쏜다.
-2. 측정된  Amp와 phase를 $A_{measure}$, $P_m$ 라고 하자.
-3. phantom의  $\mu_a$, $\mu_s'$와 $f$ 을 *p1 Approximation* 공식을 통해  theoretical 한 값인 $A_p$, $P_p$ 구한다. 
-4. Calibrated Amplitude은 $A_m$ / $A_p$ 으로 구한다.
-5. Calibrated Phase의 경우 $P_m$ - $P_p$ 으로 구한다.
+2. 측정된  Amp와 phase를 $A_{measured}$, $P_{measured}$ 라고 하자.
+3. phantom의  $\mu_a$, $\mu_s'$와 $f$ 을 *p1 Approximation* 공식을 통해  theoretical 한 값인 $A_{theoretical}$, $P_{theoretical}$ 구한다. 
+4. Calibrated Amplitude은 $A_{measured}$ / $A_{theoretical}$ 으로 구한다.
+5. Calibrated Phase의 경우 $P_{measured}$ - $P_{theoretical}$ 으로 구한다.
 
 ## Inverse model ( apply real world )
 
 (1) **준비물**
-Calibrated Amplitude ($A_c$) ,  Calibrated Phase ($P_c$) 
+Calibrated Amplitude ($A_{calibrated}$) ,  Calibrated Phase ($P_{calibrated}$) 
 (2) **Flow**
 1. Light source에 50Mhz - 500Mhz modulation을 걸어 Target에 쏜다.
-2. 측정된  Amp와 phase를 $A_T$ $P_T$ 라고 하자.
+2. 측정된  Amp와 phase를 $A_{target}$ $P_{target}$ 라고 하자.
+3. 
 기존에 구한 ca1과 cal2를 각각 나눠주고 빼줌으로써
 Amp와 phase를 다시 p1 approximation으로 $\mu_a$, $\mu_s'$를 구한다.
 
@@ -98,8 +99,8 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM5NTkwOTgsLTExMTc3Nzg2NTMsLT
-EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
-NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
-05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbLTgwMjUxNzEzNCwtMTExNzc3ODY1MywtMT
+I2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1
+NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLT
+k0ODIxOTg0XX0=
 -->
