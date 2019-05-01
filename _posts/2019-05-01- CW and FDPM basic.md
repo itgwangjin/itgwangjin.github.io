@@ -72,7 +72,7 @@ Calibrated Amplitude ($A_{calibrated}$) ,  Calibrated Phase ($P_{calibrated}$)
 2. 측정된  Amp와 phase를 $A_{target}$ $P_{target}$ 라고 하자.
 3. $A_{target}$ $\div$ $A_{calibrated}$으로 $A_{calT}$ , 
 $P_{target}$ $-$ $P_{calibrated}$으로 $P_{calT}$ 를 구한다.
-4. 
+4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 
 기존에 구한 ca1과 cal2를 각각 나눠주고 빼줌으로써
 Amp와 phase를 다시 p1 approximation으로 $\mu_a$, $\mu_s'$를 구한다.
 
@@ -101,8 +101,8 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNzAzNzMzLC0xMTE3Nzc4NjUzLC0xMj
-Y0OTY0NzUwLC04MTA3NTY4NDQsLTc0NTIzNDI2OSwtOTA3NjU1
-MjgxLDc0MjY3NDM0NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOT
-Q4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDcxNDM4MjEsLTExMTc3Nzg2NTMsLT
+EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
+NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
+05NDgyMTk4NF19
 -->
