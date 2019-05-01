@@ -8,6 +8,10 @@ tag:
   - scattering
   - FDPM
   - Frequency domain
+  - CW
+  - calibration
+  - forward model
+  - inverse model
   - 
 ---
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
@@ -84,11 +88,12 @@ $P_{target}$ $-$ $P_{c}$으로 $P_{calT}$ 를 구한다.
 장점 : CW에는 $\mu_s$를 구할 근거가 마땅히 없어 LUT로 구해야한다.
 단점 : Inverse model의 시간이 오래걸린다
 
-SFDI 공간 주파수에서 frequency 변화를 통해 위상 차이를 얻어낸다
-phase를 iterat
+# 3. 번외
+
+SFDI는 공간 주파수에서 frequency 변화를 통해 phase 차이를 얻어낸다
 DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjA3MDY2NV19
+eyJoaXN0b3J5IjpbMjA1NzY0MTAzMCwtOTk2MDcwNjY1XX0=
 -->
