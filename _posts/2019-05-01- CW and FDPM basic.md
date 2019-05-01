@@ -26,7 +26,10 @@ CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거�
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
 ## 1) Forward model (= Calibration)
-Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
+(1) **준비물** 
+- Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
+
+(2) **Flow**
 
 system response를 없애주는 과정
 \* **system response?** -> 기기의 고유 특성
@@ -37,7 +40,7 @@ system response를 없애주는 과정
 Target Amp을 system response를 내려서 
 Target의 R1, R2, R3 구한다. 
 
-## 2) Inverse model (= apply real world)
+## 2) Inverse model (=> apply to real world)
 Input : R1, R2, R3
 model : least square curve fit
 Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
@@ -57,7 +60,7 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 4. Calibrated Amplitude은 $A_{measured}$ $\div$ $A_{theoretical}$ 으로 구한다.
 5. Calibrated Phase의 경우 $P_{measured}$ $-$ $P_{theoretical}$ 으로 구한다.
 
-## 2) Inverse model (=> apply toreal world )
+## 2) Inverse model (=> apply to real world )
 
 (1) **준비물**
 
@@ -83,8 +86,8 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY0NTcwMjAsLTExMTc3Nzg2NTMsLT
-EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
-NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
-05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbLTIxNjg1NDcsLTExMTc3Nzg2NTMsLTEyNj
+Q5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2NTUy
+ODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05ND
+gyMTk4NF19
 -->
