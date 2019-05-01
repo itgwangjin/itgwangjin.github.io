@@ -41,12 +41,14 @@ Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 - 측정해서 나온 값
 	- Measured target data : Amp & phase
 
-light source를 target에 쏜다. 우선 $\mu_a$, $\mu_s'$
+light source를 50Mhz - 500Mhz modulation을 걸어 target에 쏜다.
+p는 고정 
 처음엔 무조건 calibration 과정이 필요함
 준비물 : Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 애시당초에 phantom을 만들때 $\mu_a$, $\mu_s'$을 넣어주니까 알고있음.
 처음에는 Target이 phantom이다.
-
+빛을 쏘면 Amp와 phase를 알수 있는데,
+p1approc
 
 ## FDPM nomalization
 CW와 다른점이 얘는 Amp와 phase가 다르다
@@ -68,7 +70,7 @@ photon 을 매질의 특성을 넣어준것.
 curve fitting
 non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODEwNDgwLC05MDc2NTUyODEsNzQyNj
-c0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
-
+eyJoaXN0b3J5IjpbLTc0NTIzNDI2OSwtOTA3NjU1MjgxLDc0Mj
+Y3NDM0NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRd
+fQ==
 -->
