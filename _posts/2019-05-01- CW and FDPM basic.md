@@ -22,8 +22,8 @@ Calibration이다.
 > 
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
-기기마다 고유의 특성이 있는데 그것을 제거해줘야하는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
-
+기기마다 고유의 특성이 있는데 optical property를 알고 있는 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
+이후에 다른 매질을 측정했을때
 
 ## 1)Forward model (= Calibration)
 
@@ -94,7 +94,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MjkyMzA5LC0xMjY0OTY0NzUwLC04MT
+eyJoaXN0b3J5IjpbNTQxNjUxMTk5LC0xMjY0OTY0NzUwLC04MT
 A3NTY4NDQsLTc0NTIzNDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0
 NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
