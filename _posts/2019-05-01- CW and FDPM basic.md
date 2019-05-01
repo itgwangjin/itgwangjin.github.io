@@ -60,8 +60,10 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 1. light source에 50Mhz - 500Mhz modulation을 걸어 phantom에 쏜다.
 2. $A_m$, $P_m$를 구한다.
 3. phantom의  $\mu_a$, $\mu_s'$ 을 p1 Approximation 공식을 통해  $A_p$, $P_p$ 구한다. 
-4. Calibrated Amplitude : $A_m$ / $A_p$ 함
-5. Calibrated Phase : $P_m$ - $P_p$
+4. Calibrated Amplitude은 $A_m$ / $A_p$ 통해 구한다.
+5. Calibrated Phase의 경우 $P_m$ - $P_p$ 통해 구한다.
+
+## Inverse model ( apply real world )
 p1approximation을 통해 amp를 구한다. 
 amp는 나눠주고 phase는 빼주고
 
@@ -99,8 +101,8 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjg2OTMwMCwtMTExNzc3ODY1MywtMT
-I2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1
-NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLT
-k0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbLTEzNjQ2MDkwNDMsLTExMTc3Nzg2NTMsLT
+EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
+NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
+05NDgyMTk4NF19
 -->
