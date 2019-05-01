@@ -60,6 +60,7 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 
 ## 1) Forward model (=> Calibration)
 (1) **준비물** 
+
  Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 
 (2) **Flow**
@@ -96,6 +97,6 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzAwNjYzNiwtMTE5NTA5MzM4MSwxOT
-U3MDQ4MTIwLC05OTYwNzA2NjVdfQ==
+eyJoaXN0b3J5IjpbOTk1NTU5ODk4LDE2NDcwMDY2MzYsLTExOT
+UwOTMzODEsMTk1NzA0ODEyMCwtOTk2MDcwNjY1XX0=
 -->
