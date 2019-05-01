@@ -21,20 +21,19 @@ tag:
 
 ## CW normalization 
 system response를 없애주는 과정
-### 1.System response를 구한다.
+### 1. Forward model
 \* **system response?** -> 기기의 고유 특성
 > Measured Amp    
 > Theoretical R   
 
 이 두개를 나눠줌으로써 system response를 구한다.
-
-### 2. 
 Target Amp을 system response를 내려서 
-Target Reflectance를 구할 수 있다. (R1, R2, R3)
-이를 least square curve fit을 통해서
+Target의 R1, R2, R3 구한다. 
 
+### 2. inverse model
+input
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA5NDUyMTUsNzQyNjc0MzQ1LDI5NT
+eyJoaXN0b3J5IjpbLTE5NjQ5MDU4NzgsNzQyNjc0MzQ1LDI5NT
 MwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
 -->
