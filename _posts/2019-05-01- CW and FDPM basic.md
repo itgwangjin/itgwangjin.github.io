@@ -20,14 +20,15 @@ Calibration이다.
 > Curve fitting
 > non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 > 
-# CW
+# 1. CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
 	- Measured phantom data : Amp1, Amp2, Amp3
 - 측정해서 나온 값
 	- Target data(Amp1,Amp2,Amp3)
 
-## Forward model (= Calibration)
+CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다
+## 1)Forward model (= Calibration)
 
 system response를 없애주는 과정
 ### 1. Forward model
@@ -96,7 +97,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2OTg4NDM0LC0xMjY0OTY0NzUwLC04MT
-A3NTY4NDQsLTc0NTIzNDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0
-NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzM2NDU2MDUsLTEyNjQ5NjQ3NTAsLT
+gxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2NTUyODEsNzQyNjc0
+MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
 -->
