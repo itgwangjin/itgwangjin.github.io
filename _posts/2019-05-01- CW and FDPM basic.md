@@ -27,7 +27,7 @@ Calibration이다.
 - 측정해서 나온 값
 	- Target data(Amp1,Amp2,Amp3)
 
-## Forward model (= calibration)
+## Forward model (= Calibration)
 
 system response를 없애주는 과정
 ### 1. Forward model
@@ -96,7 +96,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNz
-Q1MjM0MjY5LC05MDc2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2
-NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbODI2OTg4NDM0LC0xMjY0OTY0NzUwLC04MT
+A3NTY4NDQsLTc0NTIzNDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0
+NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
