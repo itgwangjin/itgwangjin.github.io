@@ -22,7 +22,7 @@ Calibration이다.
 > 
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
-기기마다 고유의 특성이 있는데 이미 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
+기기마다 고유의 특성이 있는데 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
 ## 1) Forward model (= Calibration)
@@ -37,16 +37,8 @@ Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 4. Calibrated Amplitude은 $A_{1}$ $\div$ $R_{1}$ 으로 구한다.
 R3까지 Calibrated Amplitude는 총 $R_{c1}$,$R_{c2}$,$R_{c3}$이 나온다.
 
-
-system response를 없애주는 과정
-이 두개를 나눠줌으로써 system response를 구한다.
-Target Amp을 system response를 내려서 
-Target의 R1, R2, R3 구한다. 
-
 ## 2) Inverse model (=> apply to real world)
-Input : R1, R2, R3
-model : least square curve fit
-Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
+Calibrated Amplitude  $R_{c1}$,$R_{c2}$,$R_{c3}$
 
 # 2. FDPM
 
@@ -67,13 +59,13 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 
 (1) **준비물**
 
-Calibrated Amplitude ($A_{calibrated}$) ,  Calibrated Phase ($P_{calibrated}$) 
+Calibrated Amplitude ($A_{c}$) ,  Calibrated Phase ($P_{c}$) 
 
 (2) **Flow**
 1. Light source에 50Mhz - 500Mhz modulation을 걸어 Target에 쏜다.
 2. 측정된  Amp와 phase를 $A_{target}$ $P_{target}$ 라고 하자.
-3. $A_{target}$ $\div$ $A_{calibrated}$으로 $A_{calT}$ , 
-$P_{target}$ $-$ $P_{calibrated}$으로 $P_{calT}$ 를 구한다.
+3. $A_{target}$ $\div$ $A_{c}$으로 $A_{calT}$ , 
+$P_{target}$ $-$ $P_{c}$으로 $P_{calT}$ 를 구한다.
 4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
 > phase를 통해서 $\mu_s$는 이미 구할수 있다
 > Deep learning은 4번의 *p1 Approximation*를 대체한다.
@@ -89,7 +81,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzEzOTI5NywtODY2NTA1MjM5LC0xMT
+eyJoaXN0b3J5IjpbMTc5MjQ5NTY4MywtODY2NTA1MjM5LC0xMT
 E3Nzc4NjUzLC0xMjY0OTY0NzUwLC04MTA3NTY4NDQsLTc0NTIz
 NDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0NSwyOTUzMDA3NjcsMT
 czNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
