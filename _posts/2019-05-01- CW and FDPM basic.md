@@ -14,7 +14,6 @@ tag:
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
 	- Measured phantom data : Amp1, Amp2, Amp3
-	- Reference_optical property : $\mu_a$, $\mu_s'$
 - 측정해서 나온 값
 	- Target data(Amp1,Amp2,Amp3)
 
@@ -29,10 +28,10 @@ system response를 없애주는 과정
 Target Amp을 system response를 내려서 
 Target의 R1, R2, R3 구한다. 
 
-### 2. inverse model
+### 2. Inverse model
 Input : R1, R2, R3
 model : least square curve fit
-Output : $\mu_a$, $\mu_s'$ x 6(wavelength)
+Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 
 # FDPM
 - 초기에 알고 있는 값.
@@ -43,6 +42,6 @@ Output : $\mu_a$, $\mu_s'$ x 6(wavelength)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMxOTAyNzgsNzQyNjc0MzQ1LDI5NT
-MwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbLTI5NjEyNjA3MSw3NDI2NzQzNDUsMjk1Mz
+AwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
 -->
