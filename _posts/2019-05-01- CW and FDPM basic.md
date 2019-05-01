@@ -20,10 +20,11 @@ CW
 	- Measured data(Amp1,Amp2,Amp3)
 
 1. System response를 구한다.
-\* system response?
+\* **system response?**
+	기기의 고유 특성
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYzNjU5NDUsMTczNTEzOTU4MCwtOT
-Q4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbMjk1MzAwNzY3LDE3MzUxMzk1ODAsLTk0OD
+IxOTg0XX0=
 -->
