@@ -46,10 +46,8 @@ Calibrated Amplitude  $R_{c1}$,$R_{c2}$,$R_{c3}$
 1. Light source에 600 ~ 1000Mhz modulation을 걸어 Target에 쏜다.
 2. 측정된  Amplitude 1,2,3을  $A_{t1}$, $A_{t2}$, $A_{t3}$ 라고 하자.
 3. $A_{t1}$ $\div$ $A_{c1}$으로 $A_{calT1}$ ,  A_{calT2}$, A_{calT3}$를 구한다.
-4. $A_{calT1}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
-> phase를 통해서 $\mu_s$는 이미 구할수 있다
-> Deep learning은 4번의 *p1 Approximation*를 대체한다.
-
+4. $A_{calT1}$, $A_{calT2}$, $A_{calT3}$를 *least square curve fit*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
+> wavelength때문에 x6의 $\mu_a$, $\mu_s'$를 구한다.
 
 # 2. FDPM
 
@@ -92,7 +90,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzczMjg0MTIsLTg2NjUwNTIzOSwtMT
+eyJoaXN0b3J5IjpbLTE1MjkzOTU5NzEsLTg2NjUwNTIzOSwtMT
 ExNzc3ODY1MywtMTI2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUy
 MzQyNjksLTkwNzY1NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LD
 E3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
