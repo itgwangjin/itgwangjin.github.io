@@ -14,8 +14,12 @@ CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$,  $\mu_s'$)을 얻어내기 위함이다.
 매질의 특성이라 함은 $mu_a$,  $mu_s'$을 의미한다.
 하지만 빛을 쏴 얻을 수 있는건 amp와 phase 밖에 없다.
-이를 curve fitting 혹은 p1approximati
-non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
+이를 curve fitting 혹은 p1approximation, steady state 방식으로
+optical property를 구할 수 있는데 구하기 전 반드시 해줘야 할 부분이 
+Calibration이다.
+> Curve fitting
+> non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
+> 
 # CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
@@ -23,7 +27,7 @@ non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 inp
 - 측정해서 나온 값
 	- Target data(Amp1,Amp2,Amp3)
 
-## CW normalization 
+## Forward model (= calibration)
 system response를 없애주는 과정
 ### 1. Forward model
 \* **system response?** -> 기기의 고유 특성
@@ -91,7 +95,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk0ODk4MzAsLTgxMDc1Njg0NCwtNz
-Q1MjM0MjY5LC05MDc2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2
-NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbNzk4MzYxODg4LC04MTA3NTY4NDQsLTc0NT
+IzNDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0NSwyOTUzMDA3Njcs
+MTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
