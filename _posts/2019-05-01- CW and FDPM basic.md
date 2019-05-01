@@ -22,12 +22,12 @@ tag:
 ## CW normalization 
 즉, system response를 없애주는 과정
 1. System response를 구한다.
-\* **system response?**
-기기의 고유 특성
- 
+\* **system response?** -> 기기의 고유 특성
+ measured Amp
+ theoritical R 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDQ4MjYxMywyOTUzMDA3NjcsMTczNT
+eyJoaXN0b3J5IjpbMTM3Nzg1ODQ3MCwyOTUzMDA3NjcsMTczNT
 EzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
