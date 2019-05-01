@@ -53,10 +53,10 @@ Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터를 받는다. CW와 동일하게 calibration을 해주는 과정이 필요하다.
 
 ## Forward model (Calibration)
-light source를 50Mhz - 500Mhz modulation을 걸어 target에 쏜다.
-p는 고정 
-처음엔 무조건 calibration 과정이 필요함
-준비물 : Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
+준비물 :  Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
+**Flow**
+1. light source에 50Mhz - 500Mhz modulation을 걸어 phantom에 쏜다.
+2. 
 애시당초에 phantom을 만들때 $\mu_a$, $\mu_s'$을 넣어주니까 알고있음.
 처음에는 Target이 phantom이다.
 빛을 쏘면 Amp와 phase를 알수 있는데,
@@ -97,7 +97,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjIxODU3MywtMTI2NDk2NDc1MCwtOD
+eyJoaXN0b3J5IjpbLTg5MDY1MzU2OCwtMTI2NDk2NDc1MCwtOD
 EwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1NTI4MSw3NDI2NzQz
 NDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
 -->
