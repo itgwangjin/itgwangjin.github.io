@@ -31,9 +31,15 @@ Target Amp을 system response를 내려서
 Target의 R1, R2, R3 구한다. 
 
 ### 2. inverse model
-input
+Input : R1, R2, R3
+model : least square curve fit
+Output : $\mu_a$, $\mu_s'$ x 6(wavelength)
+
+# FDPM
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ5MDU4NzgsNzQyNjc0MzQ1LDI5NT
-MwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbLTQyMzU5MDM1LDc0MjY3NDM0NSwyOTUzMD
+A3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
