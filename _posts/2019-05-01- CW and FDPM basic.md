@@ -63,7 +63,12 @@ Amp와 phase를 다시 p1 approximation으로 $\mu_a$, $\mu_s'$를 구한다.
 phase를 통해서 mus를 통해 이미 구할수 있으니까 LUT 굳이 필요없다.
 단점 시간이 오래걸린다 극복 DNN amp
 
-CW에는 mus를 구할 근거가 마타
+CW에는 mus를 구할 근거가 마땅히 없다 극복 LUT
+잘 안되면 DNN
+
+SFDI 공간 주파수에서 frequency 변화를 통해 위상 차이를 얻어낸다
+phase를 iterat
+DC값으로 mua값을 구하면 된다.
 
 ## FDPM nomalization
 CW와 다른점이 얘는 Amp와 phase가 다르다
@@ -85,7 +90,7 @@ photon 을 매질의 특성을 넣어준것.
 curve fitting
 non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjU5NTI2MCwtNzQ1MjM0MjY5LC05MD
+eyJoaXN0b3J5IjpbMTI3NjQwNjA2OCwtNzQ1MjM0MjY5LC05MD
 c2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgw
 LC05NDgyMTk4NF19
 -->
