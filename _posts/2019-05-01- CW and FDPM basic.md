@@ -58,8 +58,8 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 
 (2) **Flow**
 1. light source에 50Mhz - 500Mhz modulation을 걸어 phantom에 쏜다.
-2. Amplitude, Phase를 측정한다.
-3. phantom의  $\mu_a$, $\mu_s'$ 을 통해 $Amplitude_p$, $phase_p$ 
+2. $A_m$, $P_m$를 측정한다.
+3. phantom의  $\mu_a$, $\mu_s'$ 을 통해 $A_p$, $P_p$ 구한다. 
 4. 
 
 애시당초에 phantom을 만들때 $\mu_a$, $\mu_s'$을 넣어주니까 알고있음.
@@ -100,7 +100,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTIzMzQwOSwtMTI2NDk2NDc1MCwtOD
-EwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1NTI4MSw3NDI2NzQz
-NDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbLTExMTc3Nzg2NTMsLTEyNjQ5NjQ3NTAsLT
+gxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2NTUyODEsNzQyNjc0
+MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
 -->
