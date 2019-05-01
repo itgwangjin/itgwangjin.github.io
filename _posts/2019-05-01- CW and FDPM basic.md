@@ -46,12 +46,12 @@ CW와 다른점이 얘는 Amp와 phase가 다르다
 기존에 알고
 - Phase
 
-p1seminf을 통
+p1seminf의 input data는 $\mu_a$, $\mu_s'$, n (frequency)통
 n이 frequency 
 여기는 빼는것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTQ4Nzg2MCwtOTA3NjU1MjgxLDc0Mj
-Y3NDM0NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRd
-fQ==
+eyJoaXN0b3J5IjpbODYwNzc1MzIwLC05MDc2NTUyODEsNzQyNj
+c0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
+
 -->
