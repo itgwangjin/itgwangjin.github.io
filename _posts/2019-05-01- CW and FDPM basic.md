@@ -39,9 +39,10 @@ Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 	- Measured phantom data : Amp, Phase
 - 측정해서 나온 값
 	- Measured target data : Amp & phase
+## FDPM nomalization
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjEyNjA3MSw3NDI2NzQzNDUsMjk1Mz
+eyJoaXN0b3J5IjpbMTg2NzEyMjA4NSw3NDI2NzQzNDUsMjk1Mz
 AwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
 -->
