@@ -24,10 +24,10 @@ tag:
 1. System response를 구한다.
 \* **system response?** -> 기기의 고유 특성
  measured Amp
- theoritical R 
+ theoretical R 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Nzg1ODQ3MCwyOTUzMDA3NjcsMTczNT
+eyJoaXN0b3J5IjpbMTU3MDg1Nzc3MCwyOTUzMDA3NjcsMTczNT
 EzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
