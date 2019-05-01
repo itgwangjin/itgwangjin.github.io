@@ -19,7 +19,7 @@ CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 
 우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$,  $\mu_s'$)을 얻어내기 위함이다.
 하지만 빛을 쏴 얻을 수 있는건 amplitude와 phase 밖에 없다.
-이를 curve fitting, p1approximation 혹은 steady state 방식으로
+이를 curve fitting, p1 approximation 혹은 steady state 방식으로
 optical property를 구할 수 있다.
 > Curve fitting
 > non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
@@ -95,5 +95,5 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzY0MTAzMCwtOTk2MDcwNjY1XX0=
+eyJoaXN0b3J5IjpbMTk1NzA0ODEyMCwtOTk2MDcwNjY1XX0=
 -->
