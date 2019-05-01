@@ -66,21 +66,20 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 ## Inverse model ( apply real world )
 
 (1) **준비물**
+
 Calibrated Amplitude ($A_{calibrated}$) ,  Calibrated Phase ($P_{calibrated}$) 
+
 (2) **Flow**
 1. Light source에 50Mhz - 500Mhz modulation을 걸어 Target에 쏜다.
 2. 측정된  Amp와 phase를 $A_{target}$ $P_{target}$ 라고 하자.
 3. $A_{target}$ $\div$ $A_{calibrated}$으로 $A_{calT}$ , 
 $P_{target}$ $-$ $P_{calibrated}$으로 $P_{calT}$ 를 구한다.
-4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 
-기존에 구한 ca1과 cal2를 각각 나눠주고 빼줌으로써
-Amp와 phase를 다시 p1 approximation으로 $\mu_a$, $\mu_s'$를 구한다.
-
-phase를 통해서 mus를 통해 이미 구할수 있으니까 LUT 굳이 필요없다.
-단점 시간이 오래걸린다 극복 DNN amp
-
-CW에는 mus를 구할 근거가 마땅히 없다 극복 LUT
+4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
+> phase를 통해서 $\mu_s$는 이미 구할수 있다
+장점 : CW에는 mus를 구할 근거가 마땅히 없다 극복 LUT
 잘 안되면 DNN
+
+단점 시간이 오래걸린다 극복 DNN amp
 
 SFDI 공간 주파수에서 frequency 변화를 통해 위상 차이를 얻어낸다
 phase를 iterat
@@ -101,7 +100,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcxNDM4MjEsLTExMTc3Nzg2NTMsLT
+eyJoaXN0b3J5IjpbLTE3NzM5Mzk4MDIsLTExMTc3Nzg2NTMsLT
 EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
 NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
 05NDgyMTk4NF19
