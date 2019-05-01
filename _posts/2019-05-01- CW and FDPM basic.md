@@ -40,9 +40,13 @@ Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 - 측정해서 나온 값
 	- Measured target data : Amp & phase
 ## FDPM nomalization
-
+CW와 다른점이 얘는 Amp와 phase가 다르다
+- Amplitude
+기존에 알고
+- Phase
+여기는 빼는것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzEyMjA4NSw3NDI2NzQzNDUsMjk1Mz
+eyJoaXN0b3J5IjpbMjA4NTA4MDIxOSw3NDI2NzQzNDUsMjk1Mz
 AwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
 -->
