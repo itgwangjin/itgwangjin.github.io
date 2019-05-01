@@ -29,9 +29,10 @@ system response를 없애주는 과정
 이 두개를 나눠줌으로써 system response를 구한다.
 
 ### 2. 
+Target 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MT
-M5NTgwLC05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbNDE3MzkxODQ2LDc0MjY3NDM0NSwyOTUzMD
+A3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
