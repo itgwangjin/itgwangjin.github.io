@@ -11,7 +11,7 @@ tag:
   - 
 ---
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
-우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 optical을 얻어내기 위함이다.
+우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$,  $\mu_s'$ )을 얻어내기 위함이다.
 매질의 특성이라 함은 $mu_a$,  $mu_s'$을 의미한다.
 하지만 빛을 쏴 얻을 수 있는건 amp와 phase 밖에 없다.
 
@@ -95,7 +95,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTAxMzcyLC04MTA3NTY4NDQsLTc0NT
+eyJoaXN0b3J5IjpbNTkzMTk2Nzg1LC04MTA3NTY4NDQsLTc0NT
 IzNDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0NSwyOTUzMDA3Njcs
 MTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
