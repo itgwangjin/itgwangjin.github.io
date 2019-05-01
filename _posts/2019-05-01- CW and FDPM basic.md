@@ -31,7 +31,14 @@ Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 �
 Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 
 (2) **Flow**
-1. Light source에 600 ~ 1000Mhz 범위내 
+1. Light source에 600 ~ 1000Mhz modulation을 걸어 phantom에 쏜다.
+2. 측정된  Amp와 phase를 $A_{measured}$, $P_{measured}$ 라고 하자.
+3. phantom의  $\mu_a$, $\mu_s'$와 $f$ 을 *Rtherory* 공식을 통해  theoretical 한 값인 $A_{theoretical}$, $P_{theoretical}$ 구한다. 
+4. Calibrated Amplitude은 $A_{measured}$ $\div$ $A_{theoretical}$ 으로 구한다.
+5. Calibrated Phase의 경우 $P_{measured}$ $-$ $P_{theoretical}$ 으로 구한다.
+
+
+
 system response를 없애주는 과정
 \* **system response?** -> 기기의 고유 특성
 > Measured Amp    
@@ -87,7 +94,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzU0MjI0OCwtMTExNzc3ODY1MywtMT
+eyJoaXN0b3J5IjpbLTg2NjUwNTIzOSwtMTExNzc3ODY1MywtMT
 I2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1
 NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLT
 k0ODIxOTg0XX0=
