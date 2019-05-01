@@ -23,16 +23,15 @@ tag:
 system response를 없애주는 과정
 ### 1.System response를 구한다.
 \* **system response?** -> 기기의 고유 특성
-<blockquote>
-measured Amp   
- 
-theoretical R   
-</blockquote>
+> Measured Amp    
+> Theoretical R   
+
 이 두개를 나눠줌으로써 system response를 구한다.
 
+### 2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5Mjk1NTkzLDI5NTMwMDc2NywxNzM1MT
+eyJoaXN0b3J5IjpbNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MT
 M5NTgwLC05NDgyMTk4NF19
 -->
