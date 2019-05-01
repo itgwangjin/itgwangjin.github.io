@@ -33,10 +33,9 @@ Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 (2) **Flow**
 1. Light source에 600 ~ 1000Mhz modulation을 걸어 phantom에 쏜다.
 2. 측정된 Amp를  $A_1$, $A_2$, $A_3$ 라고 하자.
-3. phantom의  $\mu_a$, $\mu_s'$와 $f$ 을 [*Rtherory*](https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117%2F1.3523616) 공식을 통해  R $A_{theoretical}$, $P_{theoretical}$ 구한다. 
-4. Calibrated Amplitude은 $A_{measured}$ $\div$ $A_{theoretical}$ 으로 구한다.
-5. Calibrated Phase의 경우 $P_{measured}$ $-$ $P_{theoretical}$ 으로 구한다.
-
+3. phantom의  $\mu_a$, $\mu_s'$와 $f$ 을 [*Rtherory*](https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117%2F1.3523616) 공식을 통해  diffuse reflectance값인  R $R_1$, $R_2$, $R_3$을 구한다. 
+4. Calibrated Amplitude은 $A_{1}$ $\div$ $R_{1}$ 으로 구한다.
+R3까지 해줘서 Calibrated Amplitude 총 ㄲ
 
 
 system response를 없애주는 과정
@@ -94,7 +93,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU5NzgyMTksLTg2NjUwNTIzOSwtMT
+eyJoaXN0b3J5IjpbLTE5Mjc0OTczMTMsLTg2NjUwNTIzOSwtMT
 ExNzc3ODY1MywtMTI2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUy
 MzQyNjksLTkwNzY1NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LD
 E3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
