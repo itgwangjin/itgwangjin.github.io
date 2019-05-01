@@ -11,7 +11,15 @@ tag:
   - 
 ---
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
-우선 왜 CW, FDPM을 쓴느 걸까?
+우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 특성을 얻어내기 위함이다.
+매질의 특
+우리가 알고 싶은건 매질의 특성 mua mus인거고
+우리가 얻을 수 있는건 amp나 ref data밖에 없음
+매질의 특성을 알기 위한건 mua mus
+
+처음에 구할땐 취득한 데이터를 토대로
+curve fitting
+non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 # CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
@@ -85,15 +93,9 @@ n이 frequency
 여기는 빼는것.
 DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
-우리가 알고 싶은건 매질의 특성 mua mus인거고
-우리가 얻을 수 있는건 amp나 ref data밖에 없음
-매질의 특성을 알기 위한건 mua mus
 
-처음에 구할땐 취득한 데이터를 토대로
-curve fitting
-non-linear상태에서 해당 주어진 output을 가지고 가장 근접한 input을 찾는것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzE4NTUwNywtODEwNzU2ODQ0LC03ND
-UyMzQyNjksLTkwNzY1NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3
-LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbLTExNzAwOTk0MDcsLTgxMDc1Njg0NCwtNz
+Q1MjM0MjY5LC05MDc2NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2
+NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
 -->
