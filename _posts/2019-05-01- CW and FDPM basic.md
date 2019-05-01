@@ -27,10 +27,11 @@ Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 �
 
 ## 1) Forward model (= Calibration)
 (1) **준비물** 
-- Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
+
+Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 
 (2) **Flow**
-
+1. Light source에 600 ~ 1000Mhz 범위내 
 system response를 없애주는 과정
 \* **system response?** -> 기기의 고유 특성
 > Measured Amp    
@@ -86,8 +87,8 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjg1NDcsLTExMTc3Nzg2NTMsLTEyNj
-Q5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2NTUy
-ODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05ND
-gyMTk4NF19
+eyJoaXN0b3J5IjpbMTk4NzU0MjI0OCwtMTExNzc3ODY1MywtMT
+I2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1
+NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLT
+k0ODIxOTg0XX0=
 -->
