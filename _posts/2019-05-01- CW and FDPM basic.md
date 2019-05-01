@@ -23,7 +23,7 @@ Calibration이다.
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
 기기마다 고유의 특성이 있는데 optical property를 알고 있는 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
-이후에 다른 매질을 측정했을때
+Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
 ## 1)Forward model (= Calibration)
 
@@ -49,6 +49,8 @@ Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 	$\mu_a$, $\mu_s'$로 구한 값
 - 측정해서 나온 값
 	- Measured target data : Amp & phase
+
+FDPM의 경우 CW처럼 $\rho$가 떨어져 있지 않고 한 곳을 
 
 light source를 50Mhz - 500Mhz modulation을 걸어 target에 쏜다.
 p는 고정 
@@ -94,7 +96,7 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNjUxMTk5LC0xMjY0OTY0NzUwLC04MT
-A3NTY4NDQsLTc0NTIzNDI2OSwtOTA3NjU1MjgxLDc0MjY3NDM0
-NSwyOTUzMDA3NjcsMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
+eyJoaXN0b3J5IjpbMTY4ODE5NzIxMCwtMTI2NDk2NDc1MCwtOD
+EwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1NTI4MSw3NDI2NzQz
+NDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLTk0ODIxOTg0XX0=
 -->
