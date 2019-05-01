@@ -15,9 +15,15 @@ CW
 	- Reference phantom data : $\mu_a$, $\mu_s'$
 	- Measured phantom data : Amp1, Amp2, Amp3
 	- Reference_optical property : $\mu_a$, $\mu_s'$
-- 측정햇
+- 측정해서 나온 값
+	- Target data
+	- Measured data(Amp1,Amp2,Amp3)
+
+1. System response를 구한다.
+\* system response?
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTU4NTgwOCwxNzM1MTM5NTgwLC05ND
-gyMTk4NF19
+eyJoaXN0b3J5IjpbLTE3MDYzNjU5NDUsMTczNTEzOTU4MCwtOT
+Q4MjE5ODRdfQ==
 -->
