@@ -43,12 +43,6 @@ model : least square curve fit
 Output : $\mu_a$, $\mu_s'$ x 6 (wavelength)
 
 # FDPM
-- 초기에 알고 있는 값.
-	- Reference phantom data : $\mu_a$, $\mu_s'$
-	- Measured phantom data : Amp, Phase
-	$\mu_a$, $\mu_s'$로 구한 값
-- 측정해서 나온 값
-	- Measured target data : Amp & phase
 
 FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터를 받는다. CW와 동일하게 calibration을 해주는 과정이 필요하다.
 
@@ -76,30 +70,21 @@ Calibrated Amplitude ($A_{calibrated}$) ,  Calibrated Phase ($P_{calibrated}$)
 $P_{target}$ $-$ $P_{calibrated}$으로 $P_{calT}$ 를 구한다.
 4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
 > phase를 통해서 $\mu_s$는 이미 구할수 있다
-> Deep learning은 4번의 p1 
+> Deep learning은 4번의 *p1 Approximation*를 대체한다.
 
 ## Feature
 
 장점 : CW에는 $\mu_s$를 구할 근거가 마땅히 없어 LUT로 구해야한다.
-단점 시간이 오래걸린다 극복 DNN amp
+단점 : Inverse model의 시간이 오래걸린다
 
+SFDI 공간 주파수에서 frequency 변화를 통해 위상 차이를 얻어낸다
+phase를 iterat
+DC값으로 mua값을 구한다.
 
-## FDPM nomalization
-CW와 다른점이 얘는 Amp와 phase가 다르다
-- Amplitude
-기존에 알고
-- Phase
-
-
-p1seminf의 input data는 $\mu_a$, $\mu_s'$, n (frequency)통
-n이 frequency 
-여기는 빼는것.
-DNN은 reverse 모델이니까.
-photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzA1NTc0MCwtMTExNzc3ODY1MywtMT
-I2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1
-NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLT
-k0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbLTEwMTU0NjczNjksLTExMTc3Nzg2NTMsLT
+EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
+NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
+05NDgyMTk4NF19
 -->
