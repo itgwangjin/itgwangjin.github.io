@@ -11,6 +11,8 @@ tag:
   - 
 ---
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
+
+
 우선 왜 CW, FDPM을 쓰는 걸까? 매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$,  $\mu_s'$)을 얻어내기 위함이다.
 매질의 특성이라 함은 $mu_a$,  $mu_s'$을 의미한다.
 하지만 빛을 쏴 얻을 수 있는건 amp와 phase 밖에 없다.
@@ -90,5 +92,5 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkzOTU5NzFdfQ==
+eyJoaXN0b3J5IjpbMTM1MTY0MjQ5XX0=
 -->
