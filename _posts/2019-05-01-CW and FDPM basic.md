@@ -29,7 +29,7 @@ CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거�
 기기마다 고유의 특성이 있는데 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
-## 1) Forward model (= Calibration)
+## 1) Forward model (=> Calibration)
 (1) **준비물** 
 
 Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
@@ -57,7 +57,7 @@ Calibrated Amplitude  $R_{c1}$,$R_{c2}$,$R_{c3}$
 
 FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터를 받는다. CW와 동일하게 calibration을 해주는 과정이 필요하다.
 
-## 1) Forward model (Calibration)
+## 1) Forward model (=> Calibration)
 (1) **준비물** 
  Reference phantom (인체와 유사한 $\mu_a$, $\mu_s'$를 지닌 물질)
 
@@ -95,5 +95,6 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzA0ODEyMCwtOTk2MDcwNjY1XX0=
+eyJoaXN0b3J5IjpbLTExOTUwOTMzODEsMTk1NzA0ODEyMCwtOT
+k2MDcwNjY1XX0=
 -->
