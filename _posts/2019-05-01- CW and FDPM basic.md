@@ -46,12 +46,17 @@ CW와 다른점이 얘는 Amp와 phase가 다르다
 기존에 알고
 - Phase
 
+
 p1seminf의 input data는 $\mu_a$, $\mu_s'$, n (frequency)통
 n이 frequency 
 여기는 빼는것.
-
+DNN은 reverse 모델이니까.
+photon 을 매질의 특성을 넣어준것.
+우리가 알고 싶은건 매질의 특성 mua mus인거고
+우리가 얻을 수 있는건 amp나 ref data밖에 없음
+매질의 특성을 알기 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNzc1MzIwLC05MDc2NTUyODEsNzQyNj
+eyJoaXN0b3J5IjpbODI0NDY4NTk4LC05MDc2NTUyODEsNzQyNj
 c0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC05NDgyMTk4NF19
 
 -->
