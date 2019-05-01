@@ -10,7 +10,7 @@ tag:
   - Frequency domain
   - 
 ---
-CW
+# CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
 	- Measured phantom data : Amp1, Amp2, Amp3
@@ -19,12 +19,14 @@ CW
 	- Target data
 	- Measured data(Amp1,Amp2,Amp3)
 
+## CW normalization 
+즉, system response를 없애주는 과정
 1. System response를 구한다.
 \* **system response?**
 	기기의 고유 특성
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MzAwNzY3LDE3MzUxMzk1ODAsLTk0OD
-IxOTg0XX0=
+eyJoaXN0b3J5IjpbLTIxNDIxMTgwMTUsMjk1MzAwNzY3LDE3Mz
+UxMzk1ODAsLTk0ODIxOTg0XX0=
 -->
