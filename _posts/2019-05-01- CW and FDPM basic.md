@@ -13,8 +13,9 @@ tag:
 CW
 - 초기에 알고 있는 값.
 	- Reference phantom data : $\mu_a$, $\mu_s'$
-	- Measured phanto 
+	- Measured phantom data : Amp1, Amp2, Amp3
+	- Reference_optical  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc4MDg4NTYsLTk0ODIxOTg0XX0=
+eyJoaXN0b3J5IjpbMTczNTEzOTU4MCwtOTQ4MjE5ODRdfQ==
 -->
