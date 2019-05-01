@@ -76,14 +76,12 @@ Calibrated Amplitude ($A_{calibrated}$) ,  Calibrated Phase ($P_{calibrated}$)
 $P_{target}$ $-$ $P_{calibrated}$으로 $P_{calT}$ 를 구한다.
 4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
 > phase를 통해서 $\mu_s$는 이미 구할수 있다
-장점 : CW에는 mus를 구할 근거가 마땅히 없다 극복 LUT
-잘 안되면 DNN
+> Deep learning은 4번의 p1 
 
+## Feature
+
+장점 : CW에는 $\mu_s$를 구할 근거가 마땅히 없어 LUT로 구해야한다.
 단점 시간이 오래걸린다 극복 DNN amp
-
-SFDI 공간 주파수에서 frequency 변화를 통해 위상 차이를 얻어낸다
-phase를 iterat
-DC값으로 mua값을 구한다.
 
 
 ## FDPM nomalization
@@ -100,8 +98,8 @@ DNN은 reverse 모델이니까.
 photon 을 매질의 특성을 넣어준것.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM5Mzk4MDIsLTExMTc3Nzg2NTMsLT
-EyNjQ5NjQ3NTAsLTgxMDc1Njg0NCwtNzQ1MjM0MjY5LC05MDc2
-NTUyODEsNzQyNjc0MzQ1LDI5NTMwMDc2NywxNzM1MTM5NTgwLC
-05NDgyMTk4NF19
+eyJoaXN0b3J5IjpbMTA4MzA1NTc0MCwtMTExNzc3ODY1MywtMT
+I2NDk2NDc1MCwtODEwNzU2ODQ0LC03NDUyMzQyNjksLTkwNzY1
+NTI4MSw3NDI2NzQzNDUsMjk1MzAwNzY3LDE3MzUxMzk1ODAsLT
+k0ODIxOTg0XX0=
 -->
