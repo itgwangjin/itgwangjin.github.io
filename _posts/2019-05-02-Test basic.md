@@ -44,11 +44,9 @@ Content
 A = B 이느냐를 확인함으로써
 `차이가 있다/없다`를 계속 상황을 변경시키는 것을 의미
 
-## 그럼 A와 B 집단을 어떻게 나눌까?
-### - Groupping
+# 2. Hypothesis
+앞에서 보았던 A/B test와 
 
-
-### - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAzMjExMF19
+eyJoaXN0b3J5IjpbNTAyNjMxMjYyLC0xMTkwMzIxMTBdfQ==
 -->
