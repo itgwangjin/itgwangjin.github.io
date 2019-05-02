@@ -8,7 +8,7 @@ tag:
   - FDPM
   - optical property
   - calibration
-  - cuDNN
+  - SFDI
 
 ---
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
@@ -94,7 +94,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3OTgwMTgsMTEzMzQxNzU2MywxOTM0Mz
-AwNjUyLDE2NDcwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEy
-MCwtOTk2MDcwNjY1XX0=
+eyJoaXN0b3J5IjpbODMxOTMwNjI4LDExMzM0MTc1NjMsMTkzND
+MwMDY1MiwxNjQ3MDA2NjM2LC0xMTk1MDkzMzgxLDE5NTcwNDgx
+MjAsLTk5NjA3MDY2NV19
 -->
