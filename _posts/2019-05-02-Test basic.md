@@ -45,8 +45,11 @@ A = B 이느냐를 확인함으로써
 `차이가 있다/없다`를 계속 상황을 변경시키는 것을 의미
 
 # 2. Hypothesis
-앞에서 보았던 A/B test와 
+앞에서 보았던 A/B test에서
+`차이가 있다/없다`를 본다는 것임을 일수 있다.
+여기서 A의 영향을 $p_A$, B의 영향을 $p_B$ㄹ
+>$H_0 : d = 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNjMxMjYyLC0xMTkwMzIxMTBdfQ==
+eyJoaXN0b3J5IjpbLTYyNTk2ODM3MywtMTE5MDMyMTEwXX0=
 -->
