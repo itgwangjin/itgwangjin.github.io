@@ -11,6 +11,7 @@ tag:
   - SFDI
 
 ---
+
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 
 # 0. Introduction
@@ -94,7 +95,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxOTMwNjI4LDExMzM0MTc1NjMsMTkzND
-MwMDY1MiwxNjQ3MDA2NjM2LC0xMTk1MDkzMzgxLDE5NTcwNDgx
-MjAsLTk5NjA3MDY2NV19
+eyJoaXN0b3J5IjpbOTEwMTc4MiwxMTMzNDE3NTYzLDE5MzQzMD
+A2NTIsMTY0NzAwNjYzNiwtMTE5NTA5MzM4MSwxOTU3MDQ4MTIw
+LC05OTYwNzA2NjVdfQ==
 -->
