@@ -51,11 +51,10 @@ A = B 이느냐를 확인함으로써
  null hypothesis(귀무가설)을 $H_o$ ,
  alternative hypothesis(대립가설)을 $H_1$이라고 한다면,
 >$H_0 : d = p_A - p_B = 0$
->$H_1 : d >0$
+>$H_1 : d = p_A - p_B  >0$
 
-위와 같이 나타낼수 있다.
-
+위와 같이 차이가 없다를 null hypothesis 차이가 조금이라도 있다를 alternative hypothesis이라고 한다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjYyOTMwMywtMTE5MDMyMTEwXX0=
+eyJoaXN0b3J5IjpbLTQ4ODE3OTY5NiwtMTE5MDMyMTEwXX0=
 -->
