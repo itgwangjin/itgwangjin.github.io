@@ -61,9 +61,9 @@ A = B 이느냐를 확인함으로써
 -   Type II Error: 2종 오류, 귀무가설이 거짓인데 기각하지 않을 오류
 => 효과가 있는데 없다고 할 오류
 
-# 3. p-value
+# 3. 임계치(Critical Value alpha)
 현실세계에서 Type I Error 와 Type II Error 중에서 어느쪽에 무게를 더 실을지를 정해야한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU0MTc5NzYsMTUwMDY0MjY3MSwtND
+eyJoaXN0b3J5IjpbLTEwNDMwNjM4NTUsMTUwMDY0MjY3MSwtND
 g1MjUxNTcwLC00ODgxNzk2OTYsLTExOTAzMjExMF19
 -->
