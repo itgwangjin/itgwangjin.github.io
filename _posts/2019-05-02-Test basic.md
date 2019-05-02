@@ -61,9 +61,10 @@ A = B 이느냐를 확인함으로써
 -   Type II Error: 2종 오류, 귀무가설이 거짓인데 기각하지 않을 오류
 => 효과가 있는데 없다고 할 오류
 
-## 오류 수준 정하기
-g
+## 가설 설정
+검증은 하나를 가정해야하는것이다.
+일반적으로 과학
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzcwOTcxMiwxNTAwNjQyNjcxLC00OD
+eyJoaXN0b3J5IjpbLTc5NjE5MTY5NCwxNTAwNjQyNjcxLC00OD
 UyNTE1NzAsLTQ4ODE3OTY5NiwtMTE5MDMyMTEwXX0=
 -->
