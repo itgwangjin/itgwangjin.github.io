@@ -62,7 +62,8 @@ A = B 이느냐를 확인함으로써
 => 효과가 있는데 없다고 할 오류
 
 ## 오류 수준 정하기
+g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDY0MjY3MSwtNDg1MjUxNTcwLC00OD
-gxNzk2OTYsLTExOTAzMjExMF19
+eyJoaXN0b3J5IjpbMTcwMzcwOTcxMiwxNTAwNjQyNjcxLC00OD
+UyNTE1NzAsLTQ4ODE3OTY5NiwtMTE5MDMyMTEwXX0=
 -->
