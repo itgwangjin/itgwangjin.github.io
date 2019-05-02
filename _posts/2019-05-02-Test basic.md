@@ -2,17 +2,20 @@
 title: "Test basic"
 collection: post
 permalink: /posts/2019/05/Test basic
-date: 2019-05-01
+date: 2019-05-02
 tag:
-  - CW
-  - FDPM
-  - optical property
-  - calibration
-  - SFDI
+  - A/B TEST
+  - Hypothesis
+  - Critical Value alpha
+  - t-test
+  - p-value
+  - p-hacking
 
 ---
 
+Data science와 statis
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDI1Nzc1OF19
+eyJoaXN0b3J5IjpbNzM1Mzk2NTU1XX0=
 -->
