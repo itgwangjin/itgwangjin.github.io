@@ -49,9 +49,13 @@ A = B 이느냐를 확인함으로써
 `차이가 있다/없다`를 본다는 것임을 일수 있다.
 여기서 A의 영향을 $p_A$, B의 영향을 $p_B$라고 하고,
  null hypothesis(귀무가설)을 $H_o$ ,
- alternative hypothesis(대립가설)을 $H_1$d
->$H_0 : d = 
+ alternative hypothesis(대립가설)을 $H_1$이라고 한다면,
+>$H_0 : d = p_A - p_B = 0$
+>$H_1 : d >0$
+
+위와 같이 나타낼수 있다.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNjI5NDY5LC0xMTkwMzIxMTBdfQ==
+eyJoaXN0b3J5IjpbMTQ1NjYyOTMwMywtMTE5MDMyMTEwXX0=
 -->
