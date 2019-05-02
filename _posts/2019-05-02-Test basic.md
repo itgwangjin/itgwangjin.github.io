@@ -24,9 +24,14 @@ Content
 5. p-value
 6. p-hacking
 
-# 1.
+# 1. What is A/B Test
+## 1) 의미
+1. 시스템 방문자를 임의로 두 집단으로 나눈다.
+2. 한 집단에게는 기존 사이트를 보여준다
+3. 다른 집단에게는 새로운 사이트를 보여준다.
+4. 두 집단 중 어떠한 집단이 더 높은 만조
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQ3NDc2Nl19
+eyJoaXN0b3J5IjpbMTc2MDg2OTc3M119
 -->
