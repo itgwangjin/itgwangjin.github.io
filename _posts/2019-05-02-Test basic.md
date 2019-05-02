@@ -54,7 +54,8 @@ A = B 이느냐를 확인함으로써
 >$H_1 : d = p_A - p_B  >0$
 
 위와 같이 차이가 없다를 null hypothesis 차이가 조금이라도 있다를 alternative hypothesis이라고 한다.
-
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODE3OTY5NiwtMTE5MDMyMTEwXX0=
+eyJoaXN0b3J5IjpbLTExMzMxNjQ5NzMsLTQ4ODE3OTY5NiwtMT
+E5MDMyMTEwXX0=
 -->
