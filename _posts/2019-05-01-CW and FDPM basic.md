@@ -1,7 +1,7 @@
 ---
 title: "CW and FDPM basic"
 collection: post
-permalink: /posts/2019/04/CW and FDPM basic
+permalink: /posts/2019/05/CW and FDPM basic
 date: 2019-05-01
 tag:
   - CW
@@ -95,7 +95,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMTc4MiwxMTMzNDE3NTYzLDE5MzQzMD
-A2NTIsMTY0NzAwNjYzNiwtMTE5NTA5MzM4MSwxOTU3MDQ4MTIw
-LC05OTYwNzA2NjVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjEzMDIxODUsMTEzMzQxNzU2MywxOT
+M0MzAwNjUyLDE2NDcwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0
+ODEyMCwtOTk2MDcwNjY1XX0=
 -->
