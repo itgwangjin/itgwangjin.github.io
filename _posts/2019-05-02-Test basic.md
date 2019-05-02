@@ -39,7 +39,9 @@ Content
 ![](http://mindthelog.com/wp-content/uploads/2017/01/a-b-testing.jpg)
 
 ## 4) So.. what is A/B test
-A = B
+A = B 이느냐를 확인함으로써
+`차이가 있다/없다`를 계속 상황을 변경시키는 것을 의미
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAyNzA4MjNdfQ==
+eyJoaXN0b3J5IjpbLTY0MjgwMzE2NF19
 -->
