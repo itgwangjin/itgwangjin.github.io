@@ -25,23 +25,30 @@ Content
 6. p-hacking
 
 # 1. What is A/B Test
-## 1) 의미
+## 의미
 1. 시스템 방문자를 임의로 두 집단으로 나눈다.
 2. 한 집단에게는 기존 사이트를 보여준다
 3. 다른 집단에게는 새로운 사이트를 보여준다.
 4. 두 집단 중 어떠한 집단이 더 높은 만족을 나타내는지 측정하여, 정량적으로 평가한다.
 
-## 2) 목적
+## 목적
 복수의 상황에 대한 고객 반응을 테스트하여 최적의 방안을 식별한다.
 
-## 3) 사례
+## 사례
 오바마 캠프
 ![](http://mindthelog.com/wp-content/uploads/2017/01/a-b-testing.jpg)
+와 같이 실제로 투표율을 높임으로써 현실세계에서
+잘 쓰이는 기법 중 하나
 
-## 4) So.. what is A/B test
+## So.. what is A/B test
 A = B 이느냐를 확인함으로써
 `차이가 있다/없다`를 계속 상황을 변경시키는 것을 의미
 
+## 그럼 A와 B 집단을 어떻게 나눌까?
+### - Groupping
+
+
+### - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjgwMzE2NF19
+eyJoaXN0b3J5IjpbLTExOTAzMjExMF19
 -->
