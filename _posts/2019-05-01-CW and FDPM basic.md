@@ -1,19 +1,3 @@
----
-title: "CW and FDPM basic"
-collection: post
-permalink: /posts/2019/05/CW and FDPM basic
-date: 2019-05-01
-tag:
-  - absorption
-  - scattering
-  - FDPM
-  - Frequency domain
-  - CW
-  - calibration
-  - forward model
-  - inverse model
-  - 
----
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 
 # 0. Introduction
@@ -97,6 +81,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDMwMDY1MiwxNjQ3MDA2NjM2LC0xMT
-k1MDkzMzgxLDE5NTcwNDgxMjAsLTk5NjA3MDY2NV19
+eyJoaXN0b3J5IjpbMTEzMzQxNzU2MywxOTM0MzAwNjUyLDE2ND
+cwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEyMCwtOTk2MDcw
+NjY1XX0=
 -->
