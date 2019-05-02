@@ -54,7 +54,7 @@ A = B 이느냐를 확인함으로써
 >$H_1 : d = p_A - p_B  >0$
 
 위와 같이 차이가 없다를 null hypothesis 차이가 조금이라도 있다를 alternative hypothesis이라고 한다.
-## Type 1,& 2 Error
+## Type I & II Error
 ![](http://epiville.ccnmtl.columbia.edu/assets/images/error_table.jpg)
 -   Type I Error: 1종 오류, 귀무가설이 사실인데 기각할 오류 
 => 즉 효과가 없는데 있다고 할 오류
@@ -62,9 +62,8 @@ A = B 이느냐를 확인함으로써
 => 효과가 있는데 없다고 할 오류
 
 ## 가설 설정
-검증은 하나를 가정해야하는것이다.
-일반적으로 과학
+현실세계에서 Type I Error 와 Type II Error 중에서 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjE5MTY5NCwxNTAwNjQyNjcxLC00OD
-UyNTE1NzAsLTQ4ODE3OTY5NiwtMTE5MDMyMTEwXX0=
+eyJoaXN0b3J5IjpbLTExMDQ2ODYzNDEsMTUwMDY0MjY3MSwtND
+g1MjUxNTcwLC00ODgxNzk2OTYsLTExOTAzMjExMF19
 -->
