@@ -47,9 +47,11 @@ A = B 이느냐를 확인함으로써
 # 2. Hypothesis
 앞에서 보았던 A/B test에서
 `차이가 있다/없다`를 본다는 것임을 일수 있다.
-여기서 A의 영향을 $p_A$, B의 영향을 $p_B$ㄹ
+여기서 A의 영향을 $p_A$, B의 영향을 $p_B$라고 하고,
+ null hypothesis(귀무가설)을 $H_o$ ,
+ alternative hypothesis(대립가설)을 $H_1$d
 >$H_0 : d = 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTk2ODM3MywtMTE5MDMyMTEwXX0=
+eyJoaXN0b3J5IjpbNDYwNjI5NDY5LC0xMTkwMzIxMTBdfQ==
 -->
