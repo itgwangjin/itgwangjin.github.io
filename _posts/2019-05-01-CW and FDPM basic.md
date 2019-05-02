@@ -1,3 +1,16 @@
+---
+title: "CW and FDPM basic"
+collection: post
+permalink: /posts/2019/04/CW and FDPM basic
+date: 2019-05-01
+tag:
+  - CW
+  - FDPM
+  - optical property
+  - calibration
+  - cuDNN
+
+---
 CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 
 # 0. Introduction
@@ -81,7 +94,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzQxNzU2MywxOTM0MzAwNjUyLDE2ND
-cwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEyMCwtOTk2MDcw
-NjY1XX0=
+eyJoaXN0b3J5IjpbNDE3OTgwMTgsMTEzMzQxNzU2MywxOTM0Mz
+AwNjUyLDE2NDcwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEy
+MCwtOTk2MDcwNjY1XX0=
 -->
