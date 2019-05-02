@@ -63,7 +63,13 @@ A = B 이느냐를 확인함으로써
 
 # 3. 임계치(Critical Value alpha)
 현실세계에서 Type I Error 와 Type II Error 중에서 어느쪽에 무게를 더 실을지를 정해야한다.
+
+<참고 blog>
+[http://blog.naver.com/PostView.nhn?blogId=leerider&logNo=100189538379&parentCategoryNo=&categoryNo=59&viewDate=&isShowPopularPosts=true&from=search](http://blog.naver.com/PostView.nhn?blogId=leerider&logNo=100189538379&parentCategoryNo=&categoryNo=59&viewDate=&isShowPopularPosts=true&from=search)
+
+[https://boxnwhis.kr/2016/04/15/dont_be_overwhelmed_by_pvalue.html](https://boxnwhis.kr/2016/04/15/dont_be_overwhelmed_by_pvalue.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMwNjM4NTUsMTUwMDY0MjY3MSwtND
-g1MjUxNTcwLC00ODgxNzk2OTYsLTExOTAzMjExMF19
+eyJoaXN0b3J5IjpbMTc5MTIwODAzMSwtMTA0MzA2Mzg1NSwxNT
+AwNjQyNjcxLC00ODUyNTE1NzAsLTQ4ODE3OTY5NiwtMTE5MDMy
+MTEwXX0=
 -->
