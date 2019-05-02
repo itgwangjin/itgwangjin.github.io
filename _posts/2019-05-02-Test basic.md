@@ -34,8 +34,12 @@ Content
 ## 2) 목적
 복수의 상황에 대한 고객 반응을 테스트하여 최적의 방안을 식별한다.
 
-## 
+## 3) 사례
+오바마 캠프
+![](http://mindthelog.com/wp-content/uploads/2017/01/a-b-testing.jpg)
 
+## 4) So.. what is A/B test
+A = B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDIyOTY4N119
+eyJoaXN0b3J5IjpbLTIwOTAyNzA4MjNdfQ==
 -->
