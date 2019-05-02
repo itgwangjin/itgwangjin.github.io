@@ -22,9 +22,11 @@ Content
 3. Critical Value alpha($\alpha$) ?
 4. t-test
 5. p-value
-6. p-ha
+6. p-hacking
+
+# 1.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2ODExMjAyXX0=
+eyJoaXN0b3J5IjpbLTIxOTQ3NDc2Nl19
 -->
