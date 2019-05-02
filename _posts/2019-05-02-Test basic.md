@@ -57,9 +57,12 @@ A = B 이느냐를 확인함으로써
 ## Type 1,& 2 Error
 ![](http://epiville.ccnmtl.columbia.edu/assets/images/error_table.jpg)
 -   Type I Error: 1종 오류, 귀무가설이 사실인데 기각할 오류 
-=> 즉 횩
+=> 즉 효과가 없는데 있다고 할 오류
 -   Type II Error: 2종 오류, 귀무가설이 거짓인데 기각하지 않을 오류
+=> 효과가 있는데 없다고 할 오류
+
+## 오류 수준 정하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI5Nzc5MDIsLTQ4NTI1MTU3MCwtND
-g4MTc5Njk2LC0xMTkwMzIxMTBdfQ==
+eyJoaXN0b3J5IjpbMTUwMDY0MjY3MSwtNDg1MjUxNTcwLC00OD
+gxNzk2OTYsLTExOTAzMjExMF19
 -->
