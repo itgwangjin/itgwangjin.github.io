@@ -16,7 +16,10 @@ CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 
 # 0. Introduction
 우선 왜 CW, FDPM을 쓰는 걸까? 
-매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$(=absorption),  $\mu_s'$(=)을 얻어내기 위함이다.
+매질에 빛을 쏴서 해당 매질의 optical property ( $\mu_a$(=absorption),  $\mu_s'$(=scattering)을 얻어내기 위함이다.
+> Optical property
+> 빛이 매질을 통과할때 absorption와 scattering
+
 하지만 빛을 쏴 얻을 수 있는건 amplitude와 phase 밖에 없다.
 이를 curve fitting, p1 approximation 혹은 steady state 방식으로
 optical property를 구할 수 있다.
@@ -95,7 +98,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTM5MjI3OSwtMTIyMTMwMjE4NSwxMT
+eyJoaXN0b3J5IjpbMTYwODQwMDcxNSwtMTIyMTMwMjE4NSwxMT
 MzNDE3NTYzLDE5MzQzMDA2NTIsMTY0NzAwNjYzNiwtMTE5NTA5
 MzM4MSwxOTU3MDQ4MTIwLC05OTYwNzA2NjVdfQ==
 -->
