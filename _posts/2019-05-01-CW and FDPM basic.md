@@ -107,8 +107,9 @@ DC값으로 mua값을 구한다.
 # 4. 뭐지
 하스켈
 파렐
+푸리에 변환 은 시간에 대한 함수 를 함수를 구성하고 있는 주파수 성분으로 분해하는 작업이다. 음악에서, 악보에 코드를 나타낼 때,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjA1MTE0OCwtMTIyMTMwMjE4NSwxMT
-MzNDE3NTYzLDE5MzQzMDA2NTIsMTY0NzAwNjYzNiwtMTE5NTA5
-MzM4MSwxOTU3MDQ4MTIwLC05OTYwNzA2NjVdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgxMzcyMjgsLTEyMjEzMDIxODUsMT
+EzMzQxNzU2MywxOTM0MzAwNjUyLDE2NDcwMDY2MzYsLTExOTUw
+OTMzODEsMTk1NzA0ODEyMCwtOTk2MDcwNjY1XX0=
 -->
