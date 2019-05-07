@@ -35,7 +35,7 @@ optical property를 구할 수 있다.
 
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
-각 떨어진 거리에서 받은 값으
+각 떨어진 거리에서 받은 값 phase, amplitude를 통해 optical property를 구한다.
 기기마다 고유의 특성이 있는데 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
@@ -104,9 +104,11 @@ $P_{target}$ $-$ $P_{c}$으로 $P_{calT}$ 를 구한다.
 SFDI는 공간 주파수에서 frequency 변화를 통해 phase 차이를 얻어낸다
 DC값으로 mua값을 구한다.
 
-
+# 4. 뭐지
+하스켈
+파렐
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg1OTQ4MjEsLTEyMjEzMDIxODUsMT
-EzMzQxNzU2MywxOTM0MzAwNjUyLDE2NDcwMDY2MzYsLTExOTUw
-OTMzODEsMTk1NzA0ODEyMCwtOTk2MDcwNjY1XX0=
+eyJoaXN0b3J5IjpbMjA1NjA1MTE0OCwtMTIyMTMwMjE4NSwxMT
+MzNDE3NTYzLDE5MzQzMDA2NTIsMTY0NzAwNjYzNiwtMTE5NTA5
+MzM4MSwxOTU3MDQ4MTIwLC05OTYwNzA2NjVdfQ==
 -->
