@@ -21,7 +21,8 @@ CW와 FDPM의 알고리즘이 어떻게 동작하는지 알아보도록 하자.
 > 빛이 매질을 통과할때 흡수되는 정도를 측정한것이 absorption
 > 산란되는 정도를 측정하는 것이 scattering이라고 한다.
 
-하지만 빛을 쏴서 photon diode를 통해 얻을 수 있는건 amplitude와 phase 밖에 없다.
+하지만 빛을 쏴서 photon diode를 통해 얻을 수 있는건 absorption과 scattering이 같이 들어오게 되는데 이것을 분리하는 방법에는 CW(Continue Wave)방식, d
+amplitude와 phase 밖에 없다.
 이를 curve fitting, p1 approximation 혹은 steady state 방식으로
 optical property를 구할 수 있다.
 > Curve fitting
@@ -99,7 +100,7 @@ DC값으로 mua값을 구한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDQ1ODc1OCwtMTIyMTMwMjE4NSwxMT
+eyJoaXN0b3J5IjpbLTg3OTY0ODgxNCwtMTIyMTMwMjE4NSwxMT
 MzNDE3NTYzLDE5MzQzMDA2NTIsMTY0NzAwNjYzNiwtMTE5NTA5
 MzM4MSwxOTU3MDQ4MTIwLC05OTYwNzA2NjVdfQ==
 -->
