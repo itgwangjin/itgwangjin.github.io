@@ -68,7 +68,7 @@ Calibrated Amplitude  $R_{c1}$,$R_{c2}$,$R_{c3}$
 (2) **Flow**
 1. Light source에 600 ~ 1000Mhz modulation을 걸어 Target에 쏜다.
 2. 측정된  Amplitude 1,2,3을  $A_{t1}$, $A_{t2}$, $A_{t3}$ 라고 하자.
-3. $A_{t1}$ $\div$ $A_{c1}$으로 $A_{calT1}$ ,  A_{calT2}$, A_{calT3}$를 구한다.
+3. $A_{t1}$ $\div$ $A_{c1}$으로 $A_{calT1}$ ,  $A_{calT2}$,  $A_{calT3}$를 구한다.
 4. $A_{calT1}$, $A_{calT2}$, $A_{calT3}$를 *least square curve fit*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
 > wavelength때문에 x6의 $\mu_a$, $\mu_s'$를 구한다.
 
@@ -118,8 +118,8 @@ DC값으로 mua값을 구한다.
 파렐
 푸리에 변환 은 시간에 대한 함수 를 함수를 구성하고 있는 주파수 성분으로 분해하는 작업이다. 음악에서, 악보에 코드를 나타낼 때,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjU0NzA1MiwtNTk0MDI2NSwtMTgzOD
-EzNzIyOCwtMTIyMTMwMjE4NSwxMTMzNDE3NTYzLDE5MzQzMDA2
-NTIsMTY0NzAwNjYzNiwtMTE5NTA5MzM4MSwxOTU3MDQ4MTIwLC
-05OTYwNzA2NjVdfQ==
+eyJoaXN0b3J5IjpbLTc3MTc4MzM0OCwtMzQyNTQ3MDUyLC01OT
+QwMjY1LC0xODM4MTM3MjI4LC0xMjIxMzAyMTg1LDExMzM0MTc1
+NjMsMTkzNDMwMDY1MiwxNjQ3MDA2NjM2LC0xMTk1MDkzMzgxLD
+E5NTcwNDgxMjAsLTk5NjA3MDY2NV19
 -->
