@@ -42,7 +42,7 @@ CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거�
 ![
 ](https://lh3.googleusercontent.com/ikGlCImsnEftSPnWzN48pCrpJhiJ9gfvTr9HiSikVPROsYN2AO7OaVdm8xKwlgB5lci_juJlzJHz "Apple")
 <그림 애플워치 뒷면>
-
+ 
 
 기기마다 고유의 특성이 있는데 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
@@ -117,8 +117,8 @@ DC값으로 mua값을 구한다.
 파렐
 푸리에 변환 은 시간에 대한 함수 를 함수를 구성하고 있는 주파수 성분으로 분해하는 작업이다. 음악에서, 악보에 코드를 나타낼 때,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDAyNjUsLTE4MzgxMzcyMjgsLTEyMj
-EzMDIxODUsMTEzMzQxNzU2MywxOTM0MzAwNjUyLDE2NDcwMDY2
-MzYsLTExOTUwOTMzODEsMTk1NzA0ODEyMCwtOTk2MDcwNjY1XX
-0=
+eyJoaXN0b3J5IjpbLTE0NDA0NjQyMTksLTU5NDAyNjUsLTE4Mz
+gxMzcyMjgsLTEyMjEzMDIxODUsMTEzMzQxNzU2MywxOTM0MzAw
+NjUyLDE2NDcwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEyMC
+wtOTk2MDcwNjY1XX0=
 -->
