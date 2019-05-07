@@ -35,7 +35,10 @@ optical property를 구할 수 있다.
 
 # 1. CW
 CW method는 기본적으로 light source로 부터 $\rho$만큼 떨어진 거리 마다 photon detector를 통해 값을 받아오는 형식이다.
+
 각 떨어진 거리에서 받은 값 phase, amplitude를 통해 optical property를 구한다.
+일반적으로 스마트시계에 쓰이는 기법중 하나다.
+> 애플워치는 2개의 
 기기마다 고유의 특성이 있는데 optical property가 부여된 phantom을 통해서 표준화해주는 과정이 반드시 필요하다 이를 Calibration이라고 일컫는다.
 Calibration 이후 다른 매질을 측정했을때 정확한값을 가질 수 있는것이다.
 
@@ -105,12 +108,12 @@ SFDI는 공간 주파수에서 frequency 변화를 통해 phase 차이를 얻어
 DC값으로 mua값을 구한다.
 
 # 4. 뭐지
-_Haskell_
+하스켈
 파렐
 푸리에 변환 은 시간에 대한 함수 를 함수를 구성하고 있는 주파수 성분으로 분해하는 작업이다. 음악에서, 악보에 코드를 나타낼 때,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDgyMTk4MiwtMTgzODEzNzIyOCwtMT
-IyMTMwMjE4NSwxMTMzNDE3NTYzLDE5MzQzMDA2NTIsMTY0NzAw
-NjYzNiwtMTE5NTA5MzM4MSwxOTU3MDQ4MTIwLC05OTYwNzA2Nj
-VdfQ==
+eyJoaXN0b3J5IjpbLTIwMjc3MDA1NDEsLTE4MzgxMzcyMjgsLT
+EyMjEzMDIxODUsMTEzMzQxNzU2MywxOTM0MzAwNjUyLDE2NDcw
+MDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEyMCwtOTk2MDcwNj
+Y1XX0=
 -->
