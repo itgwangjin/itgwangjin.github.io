@@ -38,9 +38,8 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 ](https://lh3.googleusercontent.com/pnNNWuC1_Ka9vrcujk4usV9dQkdgL-pAJm789eFK9fEL7Pqrilb1cw_XDe4uwug2CPbYtplUGjAl "s1")
 
 ### (2) Silicone의 10% 용량의 *Silicone activator*와 준비된  $TIO_2$를 넣어준다.
-
-> silicon activator는 표면장력이 있으므로 밑의 부분을 맞추는 것에 주의 해야한다.
-### (3) 준비된 $TIO_2$를 넣어준다.
+> Silicone activator는 표면장력이 있으므로 밑의 부분을 맞추는 것에 주의 해야한다.
+> 
 ![enter image description here](https://lh3.googleusercontent.com/byPESDA9QI8CJjbkJlW3sloEP1Gq6g414q_VN5CFCeqhAU6s61UCEiXz2oxQP8-3NwBqsUX5HiLg)
 
 ### (4) 내부에 operating level라고 써있는 부분까지 물을 채워준다.
@@ -51,14 +50,15 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 
 
 ### (5) 잠 담궈지게 플라스틱판같은걸로  고정시켜주고  `Sonic` 눌러 섞는다.
+- 20분 단위로 플라스틱 판을 들어 흔들어준다.
+- 총 3시간 동안 진행해야하는데, one time에 90분이다.
+
 ![
 ](https://lh3.googleusercontent.com/fZ5C_zUOBaHIMpxbgsniSUg8joV0vN_BNgVxN_8T1Vujgf232wSk2QnmD1WwyNSx8WWj1FwtaoUR "in")
 ![
 ](https://lh3.googleusercontent.com/bUkCpQaukd8wal4M9hRWFVAWEq5RmprzTyGxVs_zgzwyTuGdMd6pYlRpjK3juk6MHtzPmpyJfooj "sonic")
-> 20분 단위로 플라스틱 판을 들어 흔들어준다.
-> 총 3시간 동안 진행해야하는데, one time에 90분이다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NjQ5NDQ4LC0yMDc2OTcwOTU4LC0zOD
+eyJoaXN0b3J5IjpbNzI2OTE3NDY0LC0yMDc2OTcwOTU4LC0zOD
 U0MDg2NjcsLTI0ODc1NjQzNywxNTU3MTc5MTgzXX0=
 -->
