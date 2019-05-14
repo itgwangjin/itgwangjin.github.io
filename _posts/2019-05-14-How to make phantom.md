@@ -1,15 +1,16 @@
 ---
-title: "How to make reagent"
+title: "How to make phantom"
 collection: post
-permalink: /posts/2019/05/How to make reagent
-date: 2019-05-13
+permalink: /posts/2019/05/How to make phantom
+date: 2019-05-14
 tag:
   - Nigrosin
   - tio2
   - india ink
   - absorption
   - scattering
+  - phantom
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzU5NzExOF19
+eyJoaXN0b3J5IjpbLTE0NzA0MjQyMTVdfQ==
 -->
