@@ -31,7 +31,7 @@ first time이 끝나고 남은 90분동안 시약을 섞어줘야하는 작업�
 ](https://lh3.googleusercontent.com/EBgmwYX1bQ5nz9u-vYrlKjppp0hZI2tACb5J1NqJOoRxJyk8UUScFv-QFZ3CJ5E4b5HzVw7-l4QW "rubber")
 > 점성이 강하니 조심해서 넣을것.
 
-### (2) 스포이드를 통해서 Nigrosin을 정량 담는다.
+### (2) 스포이드를 통해서 Nigrosin을 비커에 담는다.
 ![enter image description here](https://lh3.googleusercontent.com/fmjLSZKbYgLH6jCjyPMEdXZ0wy6U6ni21LKvrKbtHYsqdQK8gTZJ9AJJBPBGn1W0bKId3MTpcTxf)
 ![enter image description here](https://lh3.googleusercontent.com/0nfANffjXnNB5HDahDD4AONOBb3Rhepi17clMMPaVsb1xDCFCAioSOAlefLuyqgvysHKy6C5jYkX)
 > 최대한 벽면에 안튀게 살살 넣어주자.
@@ -39,15 +39,19 @@ first time이 끝나고 남은 90분동안 시약을 섞어줘야하는 작업�
 ![
 ](https://lh3.googleusercontent.com/Hkl1pqdg-G7i3OlFtpIo8ggMeKl9-C-SESLZtYfIUdeN-NF4LkWQHqQU6afBuHOV6lta1kgm9uY0 "shaking")
 
-TIO2 넣어서 10분정도 다시 섞는다.
-vaccum oven 넣어서 공기를 빼줍니다.
-플라스틱에 넣고
-다시 공기를 빼준다.
-24시간뒤에 꺼내본다.
+### (4) TIO2 넣어서 10분정도 다시 섞는다.
+
+### (5) vaccum oven 넣어서 공기를 빼줍니다.
+
+### (6) 플라스틱에 넣고
+
+### (7) 다시 공기를 빼준다.
+
+### (8) 24시간 뒤에 oven에서  꺼낸다.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc0ODI5NzIsNzI1OTI2NTM5LDEyMD
-Y4MzM2MTQsLTY4NDQyNDcwM119
+eyJoaXN0b3J5IjpbNjI4NTMyMjk2LDcyNTkyNjUzOSwxMjA2OD
+MzNjE0LC02ODQ0MjQ3MDNdfQ==
 -->
