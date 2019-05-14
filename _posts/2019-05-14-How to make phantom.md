@@ -11,6 +11,9 @@ tag:
   - scattering
   - phantom
 ---
+# 0. Preparation
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA0MjQyMTVdfQ==
+eyJoaXN0b3J5IjpbLTY4NDQyNDcwM119
 -->
