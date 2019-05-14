@@ -43,15 +43,13 @@ first time이 끝나고 남은 90분동안 시약을 섞어줘야하는 작업�
 ![enter image description here](https://lh3.googleusercontent.com/mVx5dpIg7KLkvhih5w-KcgSnmxA0Spo5OjrTrTSwsoILMzunUyWx5Qki0ePJoiZrW3D-GLxC_H_6 "mix tio2")
 ### (5) vaccum oven 넣어서 공기를 빼줍니다.
 
-### (6) 플라스틱에 넣고
-
-### (7) 다시 공기를 빼준다.
+### (6) 플라스틱에 넣고 다시 공기를 빼준다.
 
 ### (8) 24시간 뒤에 oven에서 꺼낸다.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEwNjAyOTksNzI1OTI2NTM5LDEyMD
-Y4MzM2MTQsLTY4NDQyNDcwM119
+eyJoaXN0b3J5IjpbOTg5OTc4NDE0LC0xODgxMDYwMjk5LDcyNT
+kyNjUzOSwxMjA2ODMzNjE0LC02ODQ0MjQ3MDNdfQ==
 -->
