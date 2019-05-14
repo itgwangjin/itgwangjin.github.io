@@ -6,12 +6,15 @@
 ![enter image description here](https://lh3.googleusercontent.com/lts1PWRKztWp4avIxwiFubYh0VNA9nFBNWYnVQ1Ju7fkHGyWJ-Ux5Ef2rHtfGHsBRQEmGStQBWUU "silicone rubber")
 
 - Nigrosin(or india ink)
-
+![
+](https://lh3.googleusercontent.com/Isx41K-R_7QTj5QnyfSGMKfyGvMNh-_3MPeBF6fkrnGHyuhOtGBffLUBilg7lYIb_JUD2F_3J8_6 "nigrosin")
 
 - $TIO_2$
-
+![
+](https://lh3.googleusercontent.com/7cQ7qFzKb5HVLhNu83gVBNR1NeZfa5WTajtRhaQE3jWDzSQm-VU3ODgNO1ihAb1s2uJYrEiANS7t "tio2")
 # 1. 시약 만들기
-absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 사용한다. 아래 manual은 Nigrosin을 사용하도록 한다.
+absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 사용한다. 
+아래 manual은 Nigrosin을 사용하도록 한다.
 
 ## 1) Set the Absorption value (Nigrosin)
  
@@ -20,7 +23,7 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 
 ### (2) `Nigrosin`을 기름종이 위에 올린다.
 
-### (4) 용량을 맞춰 물에 넣는다.
+### (3) 용량을 맞춰 물에 넣는다.
 ![
 ](https://lh3.googleusercontent.com/5auMtqKB2R41j2rpRUEt941Zap-EAnIFQyONRXwKbEqCukRDw_QQT5_1R0VLsT0tEnt1NVQ7RAIX "nigrosin with water")
 ### (5) 추후 사용을 위해 Conical Tube에 옮겨 담는다.
@@ -55,5 +58,6 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 > 총 3시간 동안 진행해야하는데, one time에 90분이다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODc1NjQzNywxNTU3MTc5MTgzXX0=
+eyJoaXN0b3J5IjpbLTM4NTQwODY2NywtMjQ4NzU2NDM3LDE1NT
+cxNzkxODNdfQ==
 -->
