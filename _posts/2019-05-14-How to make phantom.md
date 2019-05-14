@@ -42,13 +42,16 @@ first time이 끝나고 남은 90분동안 시약을 섞어줘야하는 작업�
 ### (4) TIO2 넣어서 10분정도 다시 섞는다.
 ![enter image description here](https://lh3.googleusercontent.com/mVx5dpIg7KLkvhih5w-KcgSnmxA0Spo5OjrTrTSwsoILMzunUyWx5Qki0ePJoiZrW3D-GLxC_H_6 "mix tio2")
 ### (5) vaccum oven 넣어서 공기를 빼줍니다.
-#### 처음 시작했을때 모습
+#### in
 ![
 ](https://lh3.googleusercontent.com/VjsPPlLk7Vd_MKEiB1re-RK7D_JTVLrh8N59r53dpgmwOfKK13kddsjwHL2_HeGFvKGDmsDCTI06 "before1")
 
-![enter image description here](https://lh3.googleusercontent.com/oeqAXUPxKHXUq-5aFKPPjnJ4rTfjQ-VcLyoXmunaHU4aLZ_UQj_6Yd0mDSNcqHUEfAcYXFeAKy7M "1")
-#### 
 
+
+#### vacuuming
+ ![enter image description here](https://lh3.googleusercontent.com/oeqAXUPxKHXUq-5aFKPPjnJ4rTfjQ-VcLyoXmunaHU4aLZ_UQj_6Yd0mDSNcqHUEfAcYXFeAKy7M "1")
+
+#### Complete
 ![enter image description here](https://lh3.googleusercontent.com/k4Hl0uGamPBpqSsYp_8jhubKjVQiGP34iVIuWHqYgZfPJoKbwnOlzXlUTboKSjOxX1PMEoCIdFwb)
 ### (6) 플라스틱에 넣고 다시 공기를 빼준다.
 ![
@@ -58,7 +61,7 @@ first time이 끝나고 남은 90분동안 시약을 섞어줘야하는 작업�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjYwNTc0MywxMDk5OTYxMDk1LC0xOD
-gxMDYwMjk5LDcyNTkyNjUzOSwxMjA2ODMzNjE0LC02ODQ0MjQ3
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzkxMDg2ODQsMTA5OTk2MTA5NSwtMT
+g4MTA2MDI5OSw3MjU5MjY1MzksMTIwNjgzMzYxNCwtNjg0NDI0
+NzAzXX0=
 -->
