@@ -6,7 +6,7 @@
 ![enter image description here](https://lh3.googleusercontent.com/lts1PWRKztWp4avIxwiFubYh0VNA9nFBNWYnVQ1Ju7fkHGyWJ-Ux5Ef2rHtfGHsBRQEmGStQBWUU "silicone rubber")
 
 - Nigrosin(or india ink)
-![ a](https://lh3.googleusercontent.com/oVfHGd_3jRhOfJRJUwhjpzHVfhIiF7fwKEkjGw2dOmjRJdgCJfPqbVB_TBSyBZoYDtRPbnfjBklz "nigrosin")
+
 
 - $TIO_2$
 
@@ -55,5 +55,5 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 > 총 3시간 동안 진행해야하는데, one time에 90분이다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDg5MjIzNSwxNTU3MTc5MTgzXX0=
+eyJoaXN0b3J5IjpbLTI0ODc1NjQzNywxNTU3MTc5MTgzXX0=
 -->
