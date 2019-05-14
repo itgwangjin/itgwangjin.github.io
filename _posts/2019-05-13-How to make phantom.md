@@ -37,7 +37,7 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 ![
 ](https://lh3.googleusercontent.com/pnNNWuC1_Ka9vrcujk4usV9dQkdgL-pAJm789eFK9fEL7Pqrilb1cw_XDe4uwug2CPbYtplUGjAl "s1")
 
-### (2) silicon activator를 실리콘의 10%만큼 작은 비커에 넣는다.
+### (2) Silicone의 10% 용량의 *Silicone activator*와 준비된  $TIO_2$를 넣어준다.
 
 > silicon activator는 표면장력이 있으므로 밑의 부분을 맞추는 것에 주의 해야한다.
 ### (3) 준비된 $TIO_2$를 넣어준다.
@@ -59,6 +59,6 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 > 총 3시간 동안 진행해야하는데, one time에 90분이다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzI2MjE3OSwtMjA3Njk3MDk1OCwtMz
-g1NDA4NjY3LC0yNDg3NTY0MzcsMTU1NzE3OTE4M119
+eyJoaXN0b3J5IjpbNjY5NjQ5NDQ4LC0yMDc2OTcwOTU4LC0zOD
+U0MDg2NjcsLTI0ODc1NjQzNywxNTU3MTc5MTgzXX0=
 -->
