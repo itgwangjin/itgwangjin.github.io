@@ -24,7 +24,7 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 ### (2) `Nigrosin`을 기름종이 위에 올린다.
 ![enter image description here](https://lh3.googleusercontent.com/Xl3sgQgVhBNsWt8ClJNPOneuJbyajDdEkPw_P9xv0qkzt5is46zoY1MOXnwiZlNDCa-TZ560DzV1 "nigrosin on scale")
 
-### (3) silicone의 10% 용량을 맞춰 물에 넣는다.
+### (3) Silicone의 10% 용량의 물과 무게 잰 nigrosin을 넣는다.
 ![
 ](https://lh3.googleusercontent.com/5auMtqKB2R41j2rpRUEt941Zap-EAnIFQyONRXwKbEqCukRDw_QQT5_1R0VLsT0tEnt1NVQ7RAIX "nigrosin with water")
 ### (5) 추후 사용을 위해 Conical Tube에 옮겨 담는다.
@@ -59,6 +59,6 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 > 총 3시간 동안 진행해야하는데, one time에 90분이다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY5NzA5NTgsLTM4NTQwODY2NywtMj
-Q4NzU2NDM3LDE1NTcxNzkxODNdfQ==
+eyJoaXN0b3J5IjpbMTQ4NzI2MjE3OSwtMjA3Njk3MDk1OCwtMz
+g1NDA4NjY3LC0yNDg3NTY0MzcsMTU1NzE3OTE4M119
 -->
