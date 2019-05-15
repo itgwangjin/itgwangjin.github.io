@@ -10,6 +10,7 @@ tag:
   - absorption
   - scattering
 ---
+
 # 0. Preparation
 - **Silicone activator**
 ![silicone activator](https://lh3.googleusercontent.com/MZT_Chw2USCy2D9W1N5aY7dkKyyevFTzJszqRpxcL1pE2Q9guPzropdlJpWGf2hEtTpIfEfKLT6- "silicon activator")
@@ -71,5 +72,5 @@ absorption 값을 조정하기 위해서는 Nigrosin과 India ink 두 종류를 
 ](https://lh3.googleusercontent.com/bUkCpQaukd8wal4M9hRWFVAWEq5RmprzTyGxVs_zgzwyTuGdMd6pYlRpjK3juk6MHtzPmpyJfooj "sonic")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTY4NTU2MF19
+eyJoaXN0b3J5IjpbNzcwMjg3MDc4LDEwMDE2ODU1NjBdfQ==
 -->
