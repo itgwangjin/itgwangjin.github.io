@@ -92,6 +92,7 @@ FDPM의 경우 CW처럼 $\rho$가 많지 않고 한 detector에서만 데이터�
 
 (1) **준비물**
 
+
 Calibrated Amplitude ($A_{c}$) ,  Calibrated Phase ($P_{c}$) 
 
 (2) **Flow**
@@ -118,8 +119,8 @@ DC값으로 mua값을 구한다.
 파렐
 푸리에 변환 은 시간에 대한 함수 를 함수를 구성하고 있는 주파수 성분으로 분해하는 작업이다. 음악에서, 악보에 코드를 나타낼 때,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTUxNjE3MiwtMzQyNTQ3MDUyLC01OT
-QwMjY1LC0xODM4MTM3MjI4LC0xMjIxMzAyMTg1LDExMzM0MTc1
-NjMsMTkzNDMwMDY1MiwxNjQ3MDA2NjM2LC0xMTk1MDkzMzgxLD
-E5NTcwNDgxMjAsLTk5NjA3MDY2NV19
+eyJoaXN0b3J5IjpbLTEzNDY3Mzk5MzgsMTkzOTUxNjE3MiwtMz
+QyNTQ3MDUyLC01OTQwMjY1LC0xODM4MTM3MjI4LC0xMjIxMzAy
+MTg1LDExMzM0MTc1NjMsMTkzNDMwMDY1MiwxNjQ3MDA2NjM2LC
+0xMTk1MDkzMzgxLDE5NTcwNDgxMjAsLTk5NjA3MDY2NV19
 -->
