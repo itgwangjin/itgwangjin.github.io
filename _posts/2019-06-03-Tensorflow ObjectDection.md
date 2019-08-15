@@ -11,8 +11,9 @@ Kaggle에서 CNN 기본을 배우기 위한 간단한 과제를 풀어보려고 
 [https://www.kaggle.com/c/dogs-vs-cats/kernels](https://www.kaggle.com/c/dogs-vs-cats/kernels)
 
 
-첫번째로 Image를 Trainset과 Valiset를 
+첫번째로 Image를 Trainset과 Validataion set를 나눠보자 
 ```python
+# Tensorflow와 Keras는 이미지를 명ㄷ
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 # All images will be rescaled by 1./255.
@@ -34,5 +35,5 @@ validation_generator =  test_datagen.flow_from_directory(validation_dir,
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MjkzMjc3LC0xMTIzNjg3MzBdfQ==
+eyJoaXN0b3J5IjpbMzc3MTg5OTksLTExMjM2ODczMF19
 -->
