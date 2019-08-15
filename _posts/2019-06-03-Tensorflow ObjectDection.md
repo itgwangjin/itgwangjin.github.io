@@ -1,15 +1,19 @@
 ---
-title: "CNN in TenorFl"
+title: "CNN in TenorFlow"
 collection: post
-permalink: /posts/2019/06/Tensorflow ObjectDection
-date: 2019-06-03
+permalink: /posts/2019/08/CNN in TenorFlow
+date: 2019-08-15
 tag:
   - tensorflow
-  - object dectection
-  - labeling
-  - labelimg
-  - Localization
+  - CNN
 ---
+
+```python
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+
+# All images will be rescaled by 1./255.
+train_datagen = ImageDataGenerator( rescale = 1.0/255. )
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjczMzg1MiwtMTEyMzY4NzMwXX0=
+eyJoaXN0b3J5IjpbLTIwMjM5MzM2NDksLTExMjM2ODczMF19
 -->
