@@ -1,5 +1,5 @@
 ---
-title: "Tensorflow ObjectDection"
+title: "CNN in TenorFl"
 collection: post
 permalink: /posts/2019/06/Tensorflow ObjectDection
 date: 2019-06-03
@@ -11,5 +11,5 @@ tag:
   - Localization
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM2ODczMF19
+eyJoaXN0b3J5IjpbMTE1MjczMzg1MiwtMTEyMzY4NzMwXX0=
 -->
