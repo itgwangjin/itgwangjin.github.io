@@ -20,7 +20,7 @@ Kaggle에서 CNN 기본을 배우기 위한 간단한 과제를 풀어보려고 
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 # 2. 다음과 같이 설정된 모습이 있는데, 만약에 nomalization이 되어있지 않다면 rescaling을 해줘야한다.
 train_datagen = ImageDataGenerator( rescale = 1.0/255. )
-# 3. 
+# 3. train
 train_generator = train_datagen.flow_from_directory(train_dir,
                                                     batch_size=20,
                                                     class_mode='binary',
@@ -35,6 +35,6 @@ validation_generator =  test_datagen.flow_from_directory(validation_dir,
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjMyMjk5MiwzNzcxODk5OSwtMTEyMz
-Y4NzMwXX0=
+eyJoaXN0b3J5IjpbLTE0NjgyODM0ODQsMzc3MTg5OTksLTExMj
+M2ODczMF19
 -->
