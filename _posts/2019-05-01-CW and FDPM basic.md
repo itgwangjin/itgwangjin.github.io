@@ -102,7 +102,7 @@ Calibrated Amplitude ($A_{c}$) ,  Calibrated Phase ($P_{c}$)
 $P_{target}$ $-$ $P_{c}$으로 $P_{calT}$ 를 구한다.
 4. $A_{calT}$, $P_{calT}$를 다시 *p1 Approximation*에 넣어 $\mu_a$, $\mu_s'$를 구한다.
 > phase를 통해서 $\mu_s$는 이미 구할수 있다
-> Deep learning은 4번의 *p1 Approximation*를 대체한다.
+> Deep learning은 4번의 *p1 Approximation*를 대체한다.   
 
 ## 3) Feature
 
@@ -119,8 +119,9 @@ DC값으로 mua값을 구한다.
 파렐
 푸리에 변환 은 시간에 대한 함수 를 함수를 구성하고 있는 주파수 성분으로 분해하는 작업이다. 음악에서, 악보에 코드를 나타낼 때,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY3Mzk5MzgsMTkzOTUxNjE3MiwtMz
-QyNTQ3MDUyLC01OTQwMjY1LC0xODM4MTM3MjI4LC0xMjIxMzAy
-MTg1LDExMzM0MTc1NjMsMTkzNDMwMDY1MiwxNjQ3MDA2NjM2LC
-0xMTk1MDkzMzgxLDE5NTcwNDgxMjAsLTk5NjA3MDY2NV19
+eyJoaXN0b3J5IjpbMTc4NjY2ODMyNCwtMTM0NjczOTkzOCwxOT
+M5NTE2MTcyLC0zNDI1NDcwNTIsLTU5NDAyNjUsLTE4MzgxMzcy
+MjgsLTEyMjEzMDIxODUsMTEzMzQxNzU2MywxOTM0MzAwNjUyLD
+E2NDcwMDY2MzYsLTExOTUwOTMzODEsMTk1NzA0ODEyMCwtOTk2
+MDcwNjY1XX0=
 -->
