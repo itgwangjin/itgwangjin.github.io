@@ -108,7 +108,6 @@ _data/navigation.yml
 - About : 짧은 내 설명
 	-	_data/navigation.yml
 	-	_page에 about.md추가
-	-	
 ```markdown
 ---
 title: "Gwangjin jeong"
@@ -136,9 +135,9 @@ Want to contribute to the development of future diagnostic technology
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MTUzNzg3LC03MjkyOTU2MCwxNDE2MD
-kxMTMwLDQ5NzQzNzcyMyw2ODI5MTU3NTgsLTExNTMxMTYwNTgs
-MjA0MDUwNzg1NiwtNzE0NDk0MTE2LDEzODUwMjgyMzIsMjAyOT
-gxMjg2OSwxMzMxOTMwMjc3LDY3MTA1NzE0MiwtMTE4NTQwMzE1
-NiwtODg3ODgxNTI4XX0=
+eyJoaXN0b3J5IjpbLTE0NjkwNzg0OTQsLTcyOTI5NTYwLDE0MT
+YwOTExMzAsNDk3NDM3NzIzLDY4MjkxNTc1OCwtMTE1MzExNjA1
+OCwyMDQwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMD
+I5ODEyODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAz
+MTU2LC04ODc4ODE1MjhdfQ==
 -->
