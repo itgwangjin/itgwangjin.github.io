@@ -104,38 +104,44 @@ timezone: Asia/Seoul
 ```
 
 ### 2. 목차 수정
-_data/navigation.yml
+####(1) _data/navigation.yml
 - About : 짧은 내 설명
 	-	_data/navigation.yml
+	```markdown
+	main:
+  - title: "About"
+       url: /about/
+	```
 	-	_page에 about.md추가
-```markdown
----
-title: "Gwangjin jeong"
-permalink: /about/
-layout: single
----
+	```markdown
+	---
+	title: "Gwangjin jeong"
+	permalink: /about/
+	layout: single
+	---
 
-# In Essence, I…   
----
-Am a Deep learning & biomedical engineer.
+	# In Essence, I…   
+	---
+	Am a Deep learning & biomedical engineer.
 
-Received my bachelor’s degree in computer science.
+	Received my bachelor’s degree in computer science.
 
-Am a biomedical master student.
+	Am a biomedical master student.
 
-Am Interested to find biomarkers using deep learning.
+	Am Interested to find biomarkers using deep learning.
 
-Am Interested in Diffuse optics.
+	Am Interested in Diffuse optics.
 
-Want to contribute to the development of future diagnostic technology
-```
+	Want to contribute to the development of future diagnostic technology
+	```
 - CV : 나의 CV
+
 - Publications : 논문발행건,
 - (주석)Teaching : 가르친경험
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkwNzg0OTQsLTcyOTI5NTYwLDE0MT
+eyJoaXN0b3J5IjpbLTEzMTQ1ODcxNzQsLTcyOTI5NTYwLDE0MT
 YwOTExMzAsNDk3NDM3NzIzLDY4MjkxNTc1OCwtMTE1MzExNjA1
 OCwyMDQwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMD
 I5ODEyODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAz
