@@ -9,7 +9,7 @@ tag:
 # 자신만의  블로그를 만들어보자
 
 Pipeline
-1. Jekell theme를 Clone
+1. Jekyll theme를 Clone
 2. 내 입맛에 맞게 수정
 	-  목차 수정
 		- About : 짧은 내 설명
@@ -19,6 +19,10 @@ Pipeline
 		- Tag : Tag별로 모아놓은것.
 		- Categories : Categories별로 모아 놓은것.
 3.  
+
+## 1. Jekyll Theme
+Clone할 Theme [사이트 ](https://github.com/gwangjinjeong/academicpages.github.io)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Nzg4NTY3NV19
+eyJoaXN0b3J5IjpbMTI3MTAxNDUyNl19
 -->
