@@ -94,6 +94,15 @@ author:
 #      url: ""
 ```
 
+#### (4) 블로그 메인 뷰 및 시간 설정
+```markdown
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Seoul 
+```
+
 ### 2. 목차 수정
 _data/navigation.yml
 - About : 짧은 내 설명
@@ -103,9 +112,9 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQxNDQ0NzMsMTQxNjA5MTEzMCw0OT
-c0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4LDIwNDA1MDc4
-NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMjk4MTI4NjksMT
-MzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMxNTYsLTg4Nzg4
-MTUyOF19
+eyJoaXN0b3J5IjpbLTcyOTI5NTYwLDE0MTYwOTExMzAsNDk3ND
+M3NzIzLDY4MjkxNTc1OCwtMTE1MzExNjA1OCwyMDQwNTA3ODU2
+LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMDI5ODEyODY5LDEzMz
+E5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAzMTU2LC04ODc4ODE1
+MjhdfQ==
 -->
