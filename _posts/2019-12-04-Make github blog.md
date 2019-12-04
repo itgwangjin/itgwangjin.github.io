@@ -14,6 +14,7 @@ Pipeline
 	- 개인정보 입력
 	_config.yml 파일 수정
 	-  목차 수정
+	navigation.yml 수정
 		- About : 짧은 내 설명
 		- CV : 나의 CV
 		- Publications : 논문발행건,
@@ -33,6 +34,7 @@ Pipeline
 1. Clone할 Theme [링크](https://github.com/gwangjinjeong/academicpages.github.io)에 들어가서 내 계정으로 로그인 하고 Fork 해준다.
 2. 간편한 코드 수정을 위해서 Github Desktop을 통해서 내 계정에 있는 Repository를 동기화 시켜준다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTgxMjg2OSwxMzMxOTMwMjc3LDY3MT
-A1NzE0MiwtMTE4NTQwMzE1NiwtODg3ODgxNTI4XX0=
+eyJoaXN0b3J5IjpbMTM4NTAyODIzMiwyMDI5ODEyODY5LDEzMz
+E5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAzMTU2LC04ODc4ODE1
+MjhdfQ==
 -->
