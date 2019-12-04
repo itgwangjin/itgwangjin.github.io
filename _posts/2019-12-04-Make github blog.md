@@ -51,8 +51,11 @@ description              : "Deep learning, Biomedical engineer"
 url                      : "https://gwangjinjeong@github.io"
 ```
 #### (2) profile & logo image 추가
-assets/image 폴더에 파일 추가
- 
+	assets/image 폴더에 파일 추가
+ ```markdown
+teaser                   : "/assets/images/profile.png"
+logo                     : "/assets/images/logo.png"
+```
 
 ### 2. 목차 수정
 _data/navigation.yml
@@ -63,8 +66,8 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc4NDE1MTAsNDk3NDM3NzIzLDY4Mj
-kxNTc1OCwtMTE1MzExNjA1OCwyMDQwNTA3ODU2LC03MTQ0OTQx
-MTYsMTM4NTAyODIzMiwyMDI5ODEyODY5LDEzMzE5MzAyNzcsNj
-cxMDU3MTQyLC0xMTg1NDAzMTU2LC04ODc4ODE1MjhdfQ==
+eyJoaXN0b3J5IjpbMTQxNjA5MTEzMCw0OTc0Mzc3MjMsNjgyOT
+E1NzU4LC0xMTUzMTE2MDU4LDIwNDA1MDc4NTYsLTcxNDQ5NDEx
+NiwxMzg1MDI4MjMyLDIwMjk4MTI4NjksMTMzMTkzMDI3Nyw2Nz
+EwNTcxNDIsLTExODU0MDMxNTYsLTg4Nzg4MTUyOF19
 -->
