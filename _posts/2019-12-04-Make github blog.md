@@ -112,7 +112,7 @@ main:
 - title: "About"
   url: /about/
 ```
-#####  2)_page에 about.md추가
+#####  2)_page/about.md추가
 	
 	
 ```markdown
@@ -143,7 +143,7 @@ main:
 - title: "CV"
   url: /cv/
 ```
-##### 1) _data/navigation.yml
+##### 1)_page/cv.md
 ```markdown
 ---
 title: "CV"
@@ -208,12 +208,13 @@ Service and leadership
 
 #### (3) Publications : 논문발행건,
 
-- (주석)Teaching : 가르친경험
+#### ((주석)Teaching : 가르친경험
 
-- [Tag] : Tag별로 모아놓은것.
-- Categories : Categories별로 모
+- Tag : Tag별로 모아놓은것.
+
+#### (5) Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDc5MTIyOCwtNzI5Mjk1NjAsMTQxNj
+eyJoaXN0b3J5IjpbMTI3NzI4NTIzMiwtNzI5Mjk1NjAsMTQxNj
 A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
 LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
 k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
