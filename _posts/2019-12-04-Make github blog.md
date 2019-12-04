@@ -227,9 +227,14 @@ main:
   - title: "Tags"
     url: /tags/
 ```
-##### 2)_page/cv.md
+##### 2)_page/tag-archive.md
 ```markdown
-
+---
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
+author_profile: true
+---
 ```
 #### (5) Categories : Categories별로 모
 ##### 1) _data/navigation.yml
@@ -247,7 +252,7 @@ author_profile: true
 ---
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDUyOTkxMywtNzI5Mjk1NjAsMTQxNj
+eyJoaXN0b3J5IjpbLTg2NDMzNjU2NSwtNzI5Mjk1NjAsMTQxNj
 A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
 LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
 k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
