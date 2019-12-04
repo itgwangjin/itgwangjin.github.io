@@ -25,13 +25,14 @@ Pipeline
 
 4. 알면 유용한 기능
 	- 에디터
-		- S
+		- Stackedit.
+		- Brackets.
 	- [화면 .gif 파일로 녹화](https://gocoder.tistory.com/338)
 	
 ## 1. Jekyll Theme
 1. Clone할 Theme [링크](https://github.com/gwangjinjeong/academicpages.github.io)에 들어가서 내 계정으로 로그인 하고 Fork 해준다.
 2. 간편한 코드 수정을 위해서 Github Desktop을 통해서 내 계정에 있는 Repository를 동기화 시켜준다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTgzODM5NCw2NzEwNTcxNDIsLTExOD
+eyJoaXN0b3J5IjpbMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExOD
 U0MDMxNTYsLTg4Nzg4MTUyOF19
 -->
