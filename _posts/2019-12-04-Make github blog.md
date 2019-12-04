@@ -11,6 +11,7 @@ tag:
 Pipeline
 1. Jekyll [theme](https://jekyllthemes.io/)를 Clone
 2. 내 입맛에 맞게 수정
+	- 개인정보 입력(_confi
 	-  목차 수정
 		- About : 짧은 내 설명
 		- CV : 나의 CV
@@ -18,14 +19,14 @@ Pipeline
 		- (주석)Teaching : 가르친경험
 		- [Tag] : Tag별로 모아놓은것.
 		- Categories : Categories별로 모아 놓은것.
-3.  기능 추가
+4.  기능 추가
 	- [LaTex 기능 추가](https://blog.naver.com/PostView.nhn?blogId=prt1004dms&logNo=221525385428&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 
-4. 
+5. 
 ## 1. Jekyll Theme
 1. Clone할 Theme [링크](https://github.com/gwangjinjeong/academicpages.github.io)에 들어가서 내 계정으로 로그인 하고 Fork 해준다.
 2. 간편한 코드 수정을 위해서 Github Desktop을 통해서 내 계정에 있는 Repository를 동기화 시켜준다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMzc1NTIsNjcxMDU3MTQyLC0xMTg1ND
-AzMTU2LC04ODc4ODE1MjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjk5NzE2NTgsNjcxMDU3MTQyLC0xMT
+g1NDAzMTU2LC04ODc4ODE1MjhdfQ==
 -->
