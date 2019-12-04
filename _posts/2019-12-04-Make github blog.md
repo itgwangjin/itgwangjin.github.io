@@ -136,7 +136,14 @@ main:
 
 	Want to contribute to the development of future diagnostic technology
 ```
-- CV : 나의 CV
+#### (2) CV : 나의 CV
+##### 1) _data/navigation.yml
+```markdown
+main:
+- title: "CV"
+  url: /cv/
+```
+##### 1) _data/navigation.yml
 ```markdown
 ---
 title: "CV"
@@ -199,14 +206,16 @@ Service and leadership
 ```
 
 
-- Publications : 논문발행건,
+#### (3) Publications : 논문발행건,
+
 - (주석)Teaching : 가르친경험
+
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIzMTI1NDEsLTcyOTI5NTYwLDE0MT
-YwOTExMzAsNDk3NDM3NzIzLDY4MjkxNTc1OCwtMTE1MzExNjA1
-OCwyMDQwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMD
-I5ODEyODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAz
-MTU2LC04ODc4ODE1MjhdfQ==
+eyJoaXN0b3J5IjpbMjA5NDc5MTIyOCwtNzI5Mjk1NjAsMTQxNj
+A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
+LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
+k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
+NTYsLTg4Nzg4MTUyOF19
 -->
