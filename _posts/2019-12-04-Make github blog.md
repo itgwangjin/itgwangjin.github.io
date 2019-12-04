@@ -105,13 +105,18 @@ timezone: Asia/Seoul
 
 ### 2. 목차 수정
 #### (1) About : 짧은 내 설명
-	#### (1)_data/navigation.yml
+
+##### 1) _data/navigation.yml
 	```markdown
+	```
 			main:
 	  - title: "About"
 	       url: /about/
-	```
+	       ```
+	
 	#### (2)_page에 about.md추가
+	
+	
 	```markdown
 	---
 	title: "Gwangjin jeong"
@@ -140,7 +145,7 @@ timezone: Asia/Seoul
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzkwMTQwMCwtNzI5Mjk1NjAsMTQxNj
+eyJoaXN0b3J5IjpbLTM0MDc0MzQ0MywtNzI5Mjk1NjAsMTQxNj
 A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
 LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
 k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
