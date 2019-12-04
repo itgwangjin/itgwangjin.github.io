@@ -39,7 +39,7 @@ Pipeline
 ### 1. 개인정보 수정
 
 ### 2. 목차 수정
-_data/navigator
+_data/navigation.yml
 - About : 짧은 내 설명
 - CV : 나의 CV
 - Publications : 논문발행건,
@@ -47,8 +47,8 @@ _data/navigator
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTYyMTIxOSwyMDQwNTA3ODU2LC03MT
-Q0OTQxMTYsMTM4NTAyODIzMiwyMDI5ODEyODY5LDEzMzE5MzAy
-NzcsNjcxMDU3MTQyLC0xMTg1NDAzMTU2LC04ODc4ODE1MjhdfQ
-==
+eyJoaXN0b3J5IjpbLTExNTMxMTYwNTgsMjA0MDUwNzg1NiwtNz
+E0NDk0MTE2LDEzODUwMjgyMzIsMjAyOTgxMjg2OSwxMzMxOTMw
+Mjc3LDY3MTA1NzE0MiwtMTE4NTQwMzE1NiwtODg3ODgxNTI4XX
+0=
 -->
