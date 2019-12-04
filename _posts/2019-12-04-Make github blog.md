@@ -38,7 +38,8 @@ Pipeline
 ## 2. 입맛에 맞게 수정
 
 ### 1. 개인정보 수정
-_config.yml 파일 ㅅ
+_config.yml 파일 수정
+#### (1) 
 ### 2. 목차 수정
 _data/navigation.yml
 - About : 짧은 내 설명
@@ -48,8 +49,8 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjE3NTkwNiwtMTE1MzExNjA1OCwyMD
-QwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMDI5ODEy
-ODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAzMTU2LC
-04ODc4ODE1MjhdfQ==
+eyJoaXN0b3J5IjpbNjgyOTE1NzU4LC0xMTUzMTE2MDU4LDIwND
+A1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMjk4MTI4
+NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMxNTYsLT
+g4Nzg4MTUyOF19
 -->
