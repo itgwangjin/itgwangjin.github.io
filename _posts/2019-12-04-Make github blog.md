@@ -56,6 +56,43 @@ url                      : "https://gwangjinjeong@github.io"
 teaser                   : "/assets/images/profile.png"
 logo                     : "/assets/images/logo.png"
 ```
+#### (3) 신상정보 추가
+```markdown
+# Site Author
+author:
+  name             : "Jerry(Gwangjin) Jeong"
+  avatar           : "/assets/images/profile.png"
+  bio              : "Deep learning & biomedical engineer."
+  location         : "South Korea"
+#  email            : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:ai.gwangjin@gmail.com
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gwangjinjeong"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
+#    - label: "linkedin"
+#      url: ""
+#    - label: "googlescholar"
+#      url: ""
+#    - label: "researchgate"
+#      url: ""
+#    - label: "stackoverflow"
+#      url: ""
+```
 
 ### 2. 목차 수정
 _data/navigation.yml
@@ -66,8 +103,9 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjA5MTEzMCw0OTc0Mzc3MjMsNjgyOT
-E1NzU4LC0xMTUzMTE2MDU4LDIwNDA1MDc4NTYsLTcxNDQ5NDEx
-NiwxMzg1MDI4MjMyLDIwMjk4MTI4NjksMTMzMTkzMDI3Nyw2Nz
-EwNTcxNDIsLTExODU0MDMxNTYsLTg4Nzg4MTUyOF19
+eyJoaXN0b3J5IjpbLTEzODQxNDQ0NzMsMTQxNjA5MTEzMCw0OT
+c0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4LDIwNDA1MDc4
+NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMjk4MTI4NjksMT
+MzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMxNTYsLTg4Nzg4
+MTUyOF19
 -->
