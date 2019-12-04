@@ -39,7 +39,18 @@ Pipeline
 
 ### 1. 개인정보 수정
 _config.yml 파일 수정
-#### (1) 
+#### (1) tl
+```markdown
+# Site Settings
+locale                   : "en-US"
+title                    : "Jerry(Gwangjin) Jeong"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Gwangjin jeong"
+description              : "Deep learning, Biomedical engineer"
+url                      : "https://gwangjinjeong@github.io"
+```
+
 ### 2. 목차 수정
 _data/navigation.yml
 - About : 짧은 내 설명
@@ -49,8 +60,8 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyOTE1NzU4LC0xMTUzMTE2MDU4LDIwND
-A1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMjk4MTI4
-NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMxNTYsLT
-g4Nzg4MTUyOF19
+eyJoaXN0b3J5IjpbLTM4OTY4MTE5OSw2ODI5MTU3NTgsLTExNT
+MxMTYwNTgsMjA0MDUwNzg1NiwtNzE0NDk0MTE2LDEzODUwMjgy
+MzIsMjAyOTgxMjg2OSwxMzMxOTMwMjc3LDY3MTA1NzE0MiwtMT
+E4NTQwMzE1NiwtODg3ODgxNTI4XX0=
 -->
