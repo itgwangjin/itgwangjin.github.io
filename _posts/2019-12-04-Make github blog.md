@@ -11,6 +11,7 @@ tag:
 Pipeline
 1. Jekyll [Theme](https://jekyllthemes.io/)를 Clone
 2. 내 입맛에 맞게 수정
+	- posts 폴더 만들기 
 	-  profile 수정
 	_config.yml 파일 수정
 	-  menu 수정
@@ -37,7 +38,7 @@ Pipeline
 ## 2. 입맛에 맞게 수정
 
 ### 1. 개인정보 수정
-
+_config.yml 파일 ㅅ
 ### 2. 목차 수정
 _data/navigation.yml
 - About : 짧은 내 설명
@@ -47,8 +48,8 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMxMTYwNTgsMjA0MDUwNzg1NiwtNz
-E0NDk0MTE2LDEzODUwMjgyMzIsMjAyOTgxMjg2OSwxMzMxOTMw
-Mjc3LDY3MTA1NzE0MiwtMTE4NTQwMzE1NiwtODg3ODgxNTI4XX
-0=
+eyJoaXN0b3J5IjpbMTkyMjE3NTkwNiwtMTE1MzExNjA1OCwyMD
+QwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMDI5ODEy
+ODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAzMTU2LC
+04ODc4ODE1MjhdfQ==
 -->
