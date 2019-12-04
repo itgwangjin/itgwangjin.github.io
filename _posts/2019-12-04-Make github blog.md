@@ -143,7 +143,7 @@ main:
 - title: "CV"
   url: /cv/
 ```
-##### 1)_page/cv.md
+##### 2)_page/cv.md
 ```markdown
 ---
 title: "CV"
@@ -207,14 +207,52 @@ Service and leadership
 
 
 #### (3) Publications : 논문발행건,
+##### 1) _data/navigation.yml
+```markdown
+main:
+- title: "CV"
+  url: /cv/
+```
+##### 2)_page/cv.md
+```markdown
 
-#### ((주석)Teaching : 가르친경험
+```
+#### (주석) Teaching : 가르친경험
+##### 1) _data/navigation.yml
+```markdown
+main:
+- title: "CV"
+  url: /cv/
+```
+##### 2)_page/cv.md
+```markdown
+  - title: "CV"
+    url: /cv/
+```
+### (4) Tag : Tag별로 모아놓은것.
+##### 1) _data/navigation.yml
+```markdown
+main:
+- title: "CV"
+  url: /cv/
+```
+##### 2)_page/cv.md
+```markdown
 
-- Tag : Tag별로 모아놓은것.
-
+```
 #### (5) Categories : Categories별로 모
+##### 1) _data/navigation.yml
+```markdown
+main:
+- title: "CV"
+  url: /cv/
+```
+##### 2)_page/cv.md
+```markdown
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzI4NTIzMiwtNzI5Mjk1NjAsMTQxNj
+eyJoaXN0b3J5IjpbMTA2MTUyMDEzNCwtNzI5Mjk1NjAsMTQxNj
 A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
 LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
 k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
