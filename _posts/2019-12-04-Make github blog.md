@@ -8,7 +8,13 @@ tag:
 ---
 # 자신만의  블로그를 만들어보자
 
-Pipeli
+Pipeline
+1. Jekell theme를 Clone
+2. 내 입맛에 맞게 수정
+	-  목차 수정
+		- About : 짧은 내 설명
+		- CV : 나의 CV
+		- Publications : 논문
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MjUwNDE2XX0=
+eyJoaXN0b3J5IjpbMjU5MDg0OTkwXX0=
 -->
