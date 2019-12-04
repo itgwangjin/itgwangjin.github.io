@@ -137,15 +137,76 @@ main:
 	Want to contribute to the development of future diagnostic technology
 ```
 - CV : 나의 CV
+```markdown
+---
+title: "CV"
+layout: single
+permalink: /cv/
+author_profile: true
+---
+
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+<!-- 추
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+-->
+
+```
+
 
 - Publications : 논문발행건,
 - (주석)Teaching : 가르친경험
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjkzMzc5NiwtNzI5Mjk1NjAsMTQxNj
-A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
-LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
-k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
-NTYsLTg4Nzg4MTUyOF19
+eyJoaXN0b3J5IjpbLTE5NzIzMTI1NDEsLTcyOTI5NTYwLDE0MT
+YwOTExMzAsNDk3NDM3NzIzLDY4MjkxNTc1OCwtMTE1MzExNjA1
+OCwyMDQwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIzMiwyMD
+I5ODEyODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAz
+MTU2LC04ODc4ODE1MjhdfQ==
 -->
