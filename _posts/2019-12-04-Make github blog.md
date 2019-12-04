@@ -106,8 +106,8 @@ timezone: Asia/Seoul
 ### 2. 목차 수정
 _data/navigation.yml
 - About : 짧은 내 설명
-	-	_/ㅇㅁnavigation.yml
-	-	_page에 추가
+	-	_data/navigation.yml
+	-	_page에 about.md추가
 	-	
 ```markdown
 ---
@@ -136,9 +136,9 @@ Want to contribute to the development of future diagnostic technology
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDI3NjAxNywtNzI5Mjk1NjAsMTQxNj
-A5MTEzMCw0OTc0Mzc3MjMsNjgyOTE1NzU4LC0xMTUzMTE2MDU4
-LDIwNDA1MDc4NTYsLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
-k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
-NTYsLTg4Nzg4MTUyOF19
+eyJoaXN0b3J5IjpbNzE3MTUzNzg3LC03MjkyOTU2MCwxNDE2MD
+kxMTMwLDQ5NzQzNzcyMyw2ODI5MTU3NTgsLTExNTMxMTYwNTgs
+MjA0MDUwNzg1NiwtNzE0NDk0MTE2LDEzODUwMjgyMzIsMjAyOT
+gxMjg2OSwxMzMxOTMwMjc3LDY3MTA1NzE0MiwtMTE4NTQwMzE1
+NiwtODg3ODgxNTI4XX0=
 -->
