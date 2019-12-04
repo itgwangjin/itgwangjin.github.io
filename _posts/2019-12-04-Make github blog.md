@@ -37,8 +37,11 @@ Pipeline
 ## 2. 입맛에 맞게 수정
 
 ### 1. 개인정보 수정
+
+### 2. 목차 수정
+- 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
-k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
-NTYsLTg4Nzg4MTUyOF19
+eyJoaXN0b3J5IjpbLTE5OTY3MzQ4MDksLTcxNDQ5NDExNiwxMz
+g1MDI4MjMyLDIwMjk4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcx
+NDIsLTExODU0MDMxNTYsLTg4Nzg4MTUyOF19
 -->
