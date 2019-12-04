@@ -49,6 +49,9 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Gwangjin jeong"
 description              : "Deep learning, Biomedical engineer"
 url                      : "https://gwangjinjeong@github.io"
+****
+
+
 ```
 
 ### 2. 목차 수정
@@ -60,8 +63,8 @@ _data/navigation.yml
 - [Tag] : Tag별로 모아놓은것.
 - Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTY4MTE5OSw2ODI5MTU3NTgsLTExNT
-MxMTYwNTgsMjA0MDUwNzg1NiwtNzE0NDk0MTE2LDEzODUwMjgy
-MzIsMjAyOTgxMjg2OSwxMzMxOTMwMjc3LDY3MTA1NzE0MiwtMT
-E4NTQwMzE1NiwtODg3ODgxNTI4XX0=
+eyJoaXN0b3J5IjpbNDk3NDM3NzIzLDY4MjkxNTc1OCwtMTE1Mz
+ExNjA1OCwyMDQwNTA3ODU2LC03MTQ0OTQxMTYsMTM4NTAyODIz
+MiwyMDI5ODEyODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMT
+g1NDAzMTU2LC04ODc4ODE1MjhdfQ==
 -->
