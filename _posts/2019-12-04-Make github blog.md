@@ -39,9 +39,14 @@ Pipeline
 ### 1. 개인정보 수정
 
 ### 2. 목차 수정
-- 1
+- About : 짧은 내 설명
+- CV : 나의 CV
+- Publications : 논문발행건,
+- (주석)Teaching : 가르친경험
+- [Tag] : Tag별로 모아놓은것.
+- Categories : Categories별로 모
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY3MzQ4MDksLTcxNDQ5NDExNiwxMz
-g1MDI4MjMyLDIwMjk4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcx
-NDIsLTExODU0MDMxNTYsLTg4Nzg4MTUyOF19
+eyJoaXN0b3J5IjpbMjA0MDUwNzg1NiwtNzE0NDk0MTE2LDEzOD
+UwMjgyMzIsMjAyOTgxMjg2OSwxMzMxOTMwMjc3LDY3MTA1NzE0
+MiwtMTE4NTQwMzE1NiwtODg3ODgxNTI4XX0=
 -->
