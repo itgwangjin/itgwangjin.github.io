@@ -13,7 +13,7 @@ Pipeline
 2. 내 입맛에 맞게 수정
 	-  profile 수정
 	_config.yml 파일 수정
-	-  목차 수정
+	-  menu 수정
 	navigation.yml 수정
 		- About : 짧은 내 설명
 		- CV : 나의 CV
@@ -36,8 +36,9 @@ Pipeline
 
 ## 2. 입맛에 맞게 수정
 
+### 1. 개인정보 수정
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM3NzM4NzgsMTM4NTAyODIzMiwyMD
-I5ODEyODY5LDEzMzE5MzAyNzcsNjcxMDU3MTQyLC0xMTg1NDAz
-MTU2LC04ODc4ODE1MjhdfQ==
+eyJoaXN0b3J5IjpbLTcxNDQ5NDExNiwxMzg1MDI4MjMyLDIwMj
+k4MTI4NjksMTMzMTkzMDI3Nyw2NzEwNTcxNDIsLTExODU0MDMx
+NTYsLTg4Nzg4MTUyOF19
 -->
